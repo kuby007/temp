@@ -1,0 +1,20 @@
+{
+  "warningText": "仅供学习使用",
+  "logo": "./logo.png",
+  "wallpaper": "",
+  "spider": "",
+  "sites": [],
+  "lives": [],
+  "rules": [],
+  "doh": [],
+  "parses": [],
+  "headers": [],
+  "hosts": [],
+  "ads": [],
+  "dsites": [],
+  "dlives": [],
+  "drules": [],
+  "ddoh": [],
+  "dhosts": [],
+  "dads": []
+}
