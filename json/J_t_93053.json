@@ -1,0 +1,29 @@
+{
+  "warningText": "仅供学习使用",
+  "logo": "./logo.png",
+  "wallpaper": "",
+  "spider": "",
+  "sites": [
+    {
+      "name": "香蕉资源",
+      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/xml/",
+      "type": 1,
+      "searchable": 0,
+      "changeable": 1,
+      "jar": ""
+    }
+  ],
+  "lives": [],
+  "rules": [],
+  "doh": [],
+  "parses": [],
+  "headers": [],
+  "hosts": [],
+  "ads": [],
+  "dsites": [],
+  "dlives": [],
+  "drules": [],
+  "ddoh": [],
+  "dhosts": [],
+  "dads": []
+}
