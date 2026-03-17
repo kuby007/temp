@@ -1,0 +1,393 @@
+{
+  "spider": "http://192.140.163.220:40782/mob/spider.jar",
+  "sites": [
+    {
+      "key": "芒果视频",
+      "name": "盛世┃4K",
+      "type": 3,
+      "api": "http://192.140.163.220:40782/mob/lib/drpy2.min.js",
+      "ext": "http://192.140.163.220:40782/mob/lib/芒果视频.js"
+    },
+    {
+      "key": "腾讯视频",
+      "name": "SVIP┃随缘画质",
+      "type": 3,
+      "api": "http://192.140.163.220:40782/mob/lib/drpy2.min.js",
+      "ext": "http://192.140.163.220:40782/mob/lib/腾讯视频.js"
+    },
+    {
+      "key": "3QQQ",
+      "name": "蓝光┃4K",
+      "jar": "http://192.140.163.220:40782/mob/lib/90.png",
+      "type": 3,
+      "timeout": 15,
+      "api": "csp_App3Q"
+    },
+    {
+      "key": "柠檬",
+      "name": "柠檬┃蓝光",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "jar": "http://192.140.163.220:40782/mob/lib/柠檬.jar",
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+    },
+    {
+      "key": "瓜子影视",
+      "name": "瓜子┃影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "骚火影视",
+      "name": "骚火┃影视",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "playerType": 2,
+      "ext": "https://shdy5.us"
+    },
+    {
+      "key": "金牌影视",
+      "name": "金牌┃影视",
+      "type": 3,
+      "api": "csp_Jpys",
+      "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
+    },
+    {
+      "key": "农民影视",
+      "name": "农民┃影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://192.140.163.220:40782/mob/lib/农民影视.json"
+    },
+    {
+      "key": "文才",
+      "name": "文才┃影视",
+      "type": 3,
+      "api": "http://192.140.163.220:40782/mob/lib/文才影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
+      }
+    },
+    {
+      "key": "壹影视",
+      "name": "壹视┃HD",
+      "type": 3,
+      "api": "http://192.140.163.220:40782/mob/lib/壹影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "驿站",
+      "name": "驿站┃影视",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "",
+        "site": "http://192.140.163.220:40782/mob/lib/apiurl.txt",
+        "dataKey": "dyyztvapiappyyds",
+        "dataIv": "dyyztvapiappyyds",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
+    },
+    {
+      "key": "蓝鹰",
+      "name": "蓝鹰┃影视",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "",
+        "site": "http://192.140.163.220:40782/mob/lib/lanyingxmy.txt",
+        "dataKey": "ca94b06ca359d80e",
+        "dataIv": "ca94b06ca359d80e",
+        "deviceId": "",
+        "version": "120"
+      }
+    },
+    {
+      "key": "热播影视",
+      "name": "热播┃影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
+    {
+      "key": "奇优影视",
+      "name": "奇优┃影视",
+      "type": 3,
+      "api": "csp_Qiyou"
+    },
+    {
+      "key": "云播影视",
+      "name": "云播┃影视",
+      "type": 3,
+      "api": "csp_Tvyb",
+      "ext": "http://www.viptv05.com"
+    }
+  ],
+  "rules": [
+    {
+      "name": "头条",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "火山",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "抖音",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    }
+  ],
+  "doh": [],
+  "lives": [
+    {
+      "name": "ITV",
+      "type": 0,
+      "url": "http://192.140.163.220:40782/屿风眠星辞雾听澜书禾念安知夏遇秋寻冬观月.txt",
+      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "timeout": 5,
+      "playerType": 2,
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "flags": [
+    "youku",
+    "优酷",
+    "qq",
+    "腾讯",
+    "腾讯视频",
+    "iqiyi",
+    "qiyi",
+    "爱奇艺",
+    "m1905",
+    "xigua",
+    "letv",
+    "乐视",
+    "sohu",
+    "搜狐",
+    "搜狐视频",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "芒果",
+    "芒果TV",
+    "bilibili",
+    "哔哩哔哩"
+  ],
+  "parses": [
+    {
+      "name": "极速4K",
+      "url": "http://jiexi.fc8001.top/YlDVGAJSfKbixQBE.php?url=",
+      "type": 1
+    }
+  ],
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    }
+  ],
+  "ads": [
+    "static-mozai.4gtv.tv"
+  ],
+  "dsites": [],
+  "dlives": [],
+  "drules": [],
+  "ddoh": [],
+  "dhosts": [],
+  "dads": []
+}
