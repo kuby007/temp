@@ -1,0 +1,541 @@
+{
+  "sites": [
+    {
+      "key": "点我切源",
+      "name": "修复pro闪退！新公众号【太太太硬了】",
+      "type": 3,
+      "api": "csp_DouDouGuard",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "MDrive",
+      "name": "🗂我的云盘┃我配置",
+      "type": 3,
+      "api": "csp_MyDriveGuard",
+      "changeable": 0,
+      "indexs": 0,
+      "searchable": 1,
+      "style": {
+        "type": "oval"
+      },
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      },
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "玩偶",
+      "name": "👽玩偶哥哥┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoGGGuard",
+      "timeout": 30,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      },
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "YGP",
+      "name": "🚀叨观荐影┃预告片",
+      "type": 3,
+      "api": "csp_YGPGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "MTV1",
+      "name": "🎙️易听音乐┃带歌词",
+      "type": 3,
+      "api": "csp_MusicGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "seed",
+      "name": "💡聚剧剧┃三盘",
+      "type": 3,
+      "api": "csp_SeedhubGuard",
+      "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      },
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "ZPan",
+      "name": "🎈聚盘搜┃三盘",
+      "type": 3,
+      "api": "csp_S_zpsGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "siteUrl": "http://38.55.131.86:82/"
+      },
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      },
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "云播",
+      "name": "⛅️云播┃无搜索",
+      "type": 3,
+      "api": "csp_T4Guard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CKrShL75AiGhjhdkfX0cfnI/kIpThjDhEZ0lc8r7irE4mRMelQz4llfmVMCtjIFNIHP1T3XqwSmYZd34DfAtnkbgrpiMBiYW36CCI5rTkC3Rtg1wQQjazUZyVHx4Zz5bWbmPv4G8q7PfHWYStVeDannVT2lmLzKbGEDahyxvLhNZRjXO5rPlruB0ydDcR/e/g5nx8N3JhG0oucfv6xVDl0XxYy0K2bY3plgqx32kfnS63xa8sQDbGlYoPtdHQCi2cAvEOaqMb5a6r2D3yvcLXYLjk37CJgQObzK0bCggZPm3B3YenAuunxl5OQmXrzLHjys6I2isL5AwTS2YAjD/R3f4FYWBp+4RdwMBAChatxjEHcaFhCUb0nfTgYKQ4a1pZ4j6+d4YHa0GaMYHO5NZQ0tDRZfAZPcfYaWLSW8iIUx6G2e0JnI6bLAN1TR0AVer8lxfU0zAzAODbKVrt8Oafq0IQ6MeGFcFRGMu4QWrzaublQ==",
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "立播",
+      "name": "🌟立播┃秒播",
+      "type": 3,
+      "api": "csp_LibvioGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      },
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "厂长",
+      "name": "📔厂长┃秒播",
+      "type": 3,
+      "api": "csp_NewCzGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "文采",
+      "name": "💮文采┃秒播",
+      "type": 3,
+      "api": "csp_JpysGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "原创",
+      "name": "☀原创┃秒播",
+      "type": 3,
+      "api": "csp_YCyzGuard",
+      "timeout": 15,
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "比特",
+      "name": "🍄比特┃秒播",
+      "type": 3,
+      "api": "csp_BttwooGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "热播",
+      "name": "📺热播┃多线",
+      "type": 3,
+      "api": "csp_AppTTGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "uqGL1bNENExT7/hGxpSE5qU=",
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "糯米",
+      "name": "🍓糯米┃多线",
+      "type": 3,
+      "api": "csp_NmyswvGuard",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "剧圈",
+      "name": "🐻剧圈┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+S3T18333j8hL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k5GV9Quw0AIzUurGBVyPqCLrdirfpAz+n0Qh7PVBWo8uxWhO1Bs1MCYA1oiM=",
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "光影",
+      "name": "🌞光影┃多线",
+      "type": 3,
+      "api": "csp_AppNoxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOK0+FRORAJ7epFxdCFsq+gvTWZ1sP1yzpkeoroQVYOZVlfpWUluKg1buFZwtJ5rmyCc81Gmm8l/S04VuIrB86duuDCHzDyAuvJgrr/FHH2zVFwcxAPv9axAVykEdoeQsdmsmBBVn6tRqGr8mrgSsRJijosUED4R2Xtk85EH548sG1Nbeo1PopGfRA7qeqjvsiagEdQQNFEFrDlXmXCbNzngfHUufLOOtGXYSYrfQ5KDQ0KZPIYt7ZALHJ+jMwWyPNP6zpvtA==",
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "奥特",
+      "name": "🏝奥特┃多线",
+      "type": 3,
+      "api": "csp_AueteGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "荐片",
+      "name": "🐭荐片┃P2P",
+      "type": 3,
+      "api": "csp_JPJGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "新6V",
+      "name": "🧲新6V┃磁力",
+      "type": 3,
+      "api": "csp_SixVGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://www.xb6v.com/",
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "Dm84",
+      "name": "🚌巴士┃动漫",
+      "type": 3,
+      "api": "csp_Dm84Guard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "Anime1",
+      "name": "🐾日本┃动漫",
+      "type": 3,
+      "api": "csp_Anime1Guard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "88",
+      "name": "⚽88┃看球",
+      "type": 3,
+      "api": "csp_Sir88Guard",
+      "timeout": 10,
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "超全",
+      "name": "⚽超全┃看球",
+      "type": 3,
+      "api": "csp_ZbzGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q==",
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "看球",
+      "name": "⚽手机┃看球",
+      "type": 3,
+      "api": "csp_KanqiuGuard",
+      "timeout": 10,
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "MTV",
+      "name": "🎶明星┃MV",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"
+      },
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "有声小说",
+      "name": "🎧有声┃小说",
+      "type": 3,
+      "api": "csp_Tingshu275Guard",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "Aid",
+      "name": "🚑急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAidGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      },
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "虎牙js",
+      "name": "🐯虎牙┃直播",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "timeout": 10,
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "斗鱼js",
+      "name": "🐟斗鱼┃直播",
+      "type": 3,
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "timeout": 10,
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "抠搜",
+      "name": "🍄抠抠┃搜搜",
+      "type": 3,
+      "api": "csp_KkSsGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      },
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "UC",
+      "name": "🌈优汐┃搜搜",
+      "type": 3,
+      "api": "csp_UuSsGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      },
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "米搜",
+      "name": "🦋米搜┃优夸",
+      "type": 3,
+      "api": "csp_MIPanSoGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      },
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "YpanSo",
+      "name": "🐟盘她┃夸父",
+      "type": 3,
+      "api": "csp_YpanSoGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      },
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "push_agent",
+      "name": "🛴手机┃推送",
+      "type": 3,
+      "api": "csp_PushGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      },
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    },
+    {
+      "key": "fan",
+      "name": "导航 www.饭太硬.com",
+      "type": 3,
+      "api": "csp_XPathGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5"
+    }
+  ],
+  "lives": [
+    {
+      "name": "Kimentanm",
+      "type": 0,
+      "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "playerType": 2
+    },
+    {
+      "name": "develop202",
+      "type": 0,
+      "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "playerType": 2,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "范明明（需开启V6网络）",
+      "type": 0,
+      "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
+      "playerType": 2
+    },
+    {
+      "name": "虎牙一起看",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    },
+    {
+      "name": "斗鱼一起看",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    },
+    {
+      "name": "B站直播",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/bililive.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    },
+    {
+      "name": "YY轮播",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    }
+  ],
+  "rules": [],
+  "doh": [],
+  "parses": [],
+  "headers": [],
+  "ads": [],
+  "hosts": [
+    "img1.wsyzy.org=danmu.888484.xyz",
+    "fiizvfck.top=danmu.888484.xyz"
+  ],
+  "dsites": [],
+  "dlives": [],
+  "drules": [],
+  "ddoh": [],
+  "dhosts": [],
+  "dads": [],
+  "logo": "https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
+  "wallpaper": "https://深色壁纸.xxooo.cf/"
+}
