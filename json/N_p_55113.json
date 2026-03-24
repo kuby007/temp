@@ -1,0 +1,338 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "💚多多优选仓🍭软件接口🍭",
+      "sourceUrl": "https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多影音.txt"
+    },
+    {
+      "sourceName": "💛多多公众仓🍭完全免费🍭",
+      "sourceUrl": "https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多应用汇.txt"
+    },
+    {
+      "sourceName": "❤️多多聚合仓🍭严禁贩卖🍭",
+      "sourceUrl": "https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多软件库.txt"
+    },
+    {
+      "sourceName": "📚️多多本地仓🍭不做韭菜🍭",
+      "sourceUrl": "clan://localhost/tvbox/duo.json"
+    }
+  ],
+  "dsites": [],
+  "dlives": [],
+  "drules": [],
+  "ddoh": [],
+  "dhosts": [],
+  "dads": [],
+  "sites": [
+    {
+      "key": "豆瓣",
+      "name": "盛世丨加Q群:719390643",
+      "type": 3,
+      "api": "csp_Douban",
+      "jar": "https://mpimg.cn/down.php/34dc804020748504a15e2767b37656c3.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://proxy.dsocks.uk/?url=https://upld.zone.id/uploads/q9iq9e5iq/3.txt"
+    },
+    {
+      "key": "免扫网盘",
+      "name": "4K免扫网盘",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Panta"
+      },
+      "timeout": 25
+    },
+    {
+      "api": "https://catbox.n13.club/18/影探影视.php",
+      "key": "综合免扫网盘",
+      "name": "影探丨4K",
+      "type": 4
+    },
+    {
+      "api": "https://catbox.n13.club/ai/瓜子影视.php",
+      "key": "瓜子专线",
+      "name": "瓜子丨专线",
+      "type": 4
+    },
+    {
+      "key": "天天影视",
+      "name": "天天丨影视",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "TianTian",
+        "danmu": true,
+        "site": 0
+      },
+      "timeout": 10
+    },
+    {
+      "key": "糯米影视",
+      "name": "糯米丨影视",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Nmys",
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "雄鹰影视",
+      "name": "雄鹰丨影视",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "XiongYing",
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "瓜子影视",
+      "name": "瓜子丨影视",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Guazi",
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "比特影视",
+      "name": "比特丨影视",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "sp": "Btt",
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "厂长影视",
+      "name": "厂长丨影视",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "Czzy",
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "佩琪影视",
+      "name": "佩琪丨影视",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "XiaoZhu",
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "飞流影视",
+      "name": "飞流丨影视",
+      "type": 4,
+      "api": "https://catbox.n13.club/ai/飞流影视.php"
+    },
+    {
+      "key": "哇哇影视",
+      "name": "哇哇丨影视",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/哇哇影视.php"
+    },
+    {
+      "key": "恋鱼影视",
+      "name": "恋鱼丨影视",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/lianyu.php"
+    },
+    {
+      "key": "荐片JS",
+      "name": "荐片丨影视",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/16ba56f7ddd38134bb0725ad63f1f72b.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "独播JS",
+      "name": "独播丨影视",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/fbe5493683cbef26437721513d495d7d.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jszycj",
+      "name": "极速丨采集",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "马泰剧",
+        "日剧",
+        "欧美剧",
+        "香港剧",
+        "韩剧",
+        "台湾剧",
+        "恐怖片",
+        "动画片",
+        "剧情片",
+        "战争片",
+        "动作片",
+        "爱情片",
+        "喜剧片",
+        "科幻片",
+        "纪录片",
+        "灾难片",
+        "悬疑片",
+        "犯罪片",
+        "奇幻片"
+      ]
+    },
+    {
+      "key": "采集聚合",
+      "name": "聚合丨采集",
+      "type": 4,
+      "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
+      "searchable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "ext": "1",
+      "changeable": 1
+    },
+    {
+      "key": "wsycj",
+      "name": "高清丨采集",
+      "type": 1,
+      "api": "https://api.wsyzy.net/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "高清电影",
+        "Netflix电影",
+        "Netflix自制剧",
+        "国产剧",
+        "演唱会",
+        "记录片",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "台剧",
+        "泰剧",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "短剧"
+      ]
+    },
+    {
+      "key": "dyttcj",
+      "name": "天堂丨采集",
+      "type": 1,
+      "api": "http://dyttzyw.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "科幻片",
+        "爱情片",
+        "战争片",
+        "动画片",
+        "喜剧片",
+        "恐怖片",
+        "剧情片",
+        "纪录片",
+        "国产剧",
+        "香港剧",
+        "台湾剧",
+        "海外剧",
+        "短剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "泰国剧",
+        "国产动漫",
+        "欧美动漫",
+        "海外动漫",
+        "日韩动漫",
+        "港台动漫",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺"
+      ]
+    },
+    {
+      "key": "bfzycj",
+      "name": "暴风丨采集",
+      "type": 1,
+      "api": "http://by.bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "国产剧",
+        "综艺",
+        "动漫"
+      ]
+    }
+  ]
+}
