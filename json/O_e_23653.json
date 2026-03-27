@@ -1,0 +1,111 @@
+{
+  "wallpaper": "http://ceshi.xn--z7x900a.com/ppic/feimao.php",
+  "sites": [
+    {
+      "key": "hipy_js_腾云驾雾[官]",
+      "name": "Q4K-60帧",
+      "type": 3,
+      "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://sk.69mzf.com/store/js/主线1.js"
+    },
+    {
+      "key": "guoguo",
+      "name": "MG4K-60帧",
+      "type": 3,
+      "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://sk.69mzf.com/store/js/主线3.js"
+    },
+    {
+      "key": "nb",
+      "name": "BL4K-60帧",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://gitee.com/zhang-san-121381/jiekou/raw/master/nb.jpg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://bilibili.90sr.com/api.php/app/"
+    },
+    {
+      "key": "JD",
+      "name": "热播4K网盘",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://gitee.com/zhang-san-121381/jiekou/raw/master/nb.jpg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://qp.69mini.com/api.php/app/"
+    },
+    {
+      "key": "mp4",
+      "name": "极速蓝光",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://gitee.com/zhang-san-121381/jiekou/raw/master/nb.jpg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://jx.69mini.com/api.php/app/"
+    },
+    {
+      "key": "n11b",
+      "name": "金牌蓝光",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://gitee.com/zhang-san-121381/jiekou/raw/master/nb.jpg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://jp.69mzf.cn/api.php/app/"
+    },
+    {
+      "key": "奇珍异兽",
+      "name": "QY官-弹",
+      "type": 3,
+      "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://sk.69mzf.com/store/js/271.js"
+    },
+    {
+      "key": "hipy_js_优酷[官]",
+      "name": "YK-弹",
+      "type": 3,
+      "api": "http://jx.69mini.com/api/drpy2.min.js",
+      "ext": "https://app.69mini.com/lib1/youku.js"
+    },
+    {
+      "key": "ffy2",
+      "name": "自建蓝光",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://gitee.com/zhang-san-121381/jiekou/raw/master/nb.jpg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://ld.69mzf.cn/api.php/app/"
+    },
+    {
+      "key": "push_agent",
+      "name": "开通会员享受4K画质",
+      "type": 3,
+      "api": "csp_Push",
+      "playerType": "1",
+      "searchable": 0
+    }
+  ],
+  "lives": [
+    {
+      "name": "冰茶",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    }
+  ],
+  "dsites": [],
+  "dlives": [],
+  "drules": [],
+  "ddoh": [],
+  "dhosts": [],
+  "dads": []
+}
