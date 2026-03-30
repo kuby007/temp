@@ -1,0 +1,1022 @@
+{
+  "wallpaper": "http://gktv.cc:88/qz",
+  "lives": [
+    {
+      "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "name": "IPV4",
+      "type": 0,
+      "url": "./直播/2025-1.txt"
+    }
+  ],
+  "logo": "https://gitee.com/onenengbox/mf/raw/master/2.gif",
+  "sites": [
+    {
+      "api": "http://gktv.cc:88/py/臻彩Turbo.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_臻彩4K-Turbo",
+      "name": "臻彩4K-尊视",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/臻彩网盘T.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_臻彩网盘T",
+      "name": "臻彩网盘T",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "臻彩映画",
+      "name": "臻彩映画",
+      "type": 4,
+      "api": "http://gktv.cc:88/php/jx/MG.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "api": "http://gktv.cc:88/py/臻彩4K-Plus.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_臻彩4K-Plus",
+      "name": "臻彩4K-Plus",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/Seedhub.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_Seedhub",
+      "name": "臻彩4K-Seedhub",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/观影.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_观影",
+      "name": "臻彩观影",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/T41.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_T41",
+      "name": "T4搜索引擎",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/臻彩网盘-M.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_臻彩网盘M",
+      "name": "臻彩网盘M",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/臻彩网盘L.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_臻彩网盘L",
+      "name": "臻彩网盘L",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/bili-2.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_臻彩网盘-B2",
+      "name": "臻彩网盘-B2",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/臻彩网盘-A.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_臻彩网盘-A",
+      "name": "臻彩网盘-A",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/臻彩网盘-YK.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_臻彩网盘-YK",
+      "name": "臻彩网盘-YK",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/咪咕.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_咪咕",
+      "name": "臻彩网盘-G",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/华数.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_华数",
+      "name": "臻彩网盘-H",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/Acfun.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_Acfun",
+      "name": "番剧",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/1905.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_老电影",
+      "name": "老电影",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/电影解说.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_电影解说",
+      "name": "电影解说",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/沙雕剧场.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_沙雕剧场",
+      "name": "沙雕剧场",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/抖音.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_抖音",
+      "name": "抖音直播",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/快手.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_快手",
+      "name": "快手",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/斗鱼.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_斗鱼",
+      "name": "斗鱼直播",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/哔哩直播.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_哔哩直播",
+      "name": "哔哩直播",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/酷狗直播.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_酷狗直播",
+      "name": "酷狗直播",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/YY.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_YY",
+      "name": "YY直播",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/游戏直播.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_游戏直播",
+      "name": "游戏直播",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/健身.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_健身",
+      "name": "健身",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/酷猫.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_酷猫",
+      "name": "太极拳",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/摔跤.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_摔跤",
+      "name": "摔跤",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/聚合短剧.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_聚合短剧",
+      "name": "聚合短剧",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/七猫短剧.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_七猫短剧",
+      "name": "短剧",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/软鸭.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_软鸭",
+      "name": "短剧-1",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/星芽短剧.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_星芽短剧",
+      "name": "短剧-2",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/河马短剧.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_河马短剧",
+      "name": "短剧-3",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/稀饭短剧.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_稀饭短剧",
+      "name": "短剧-4",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "瓜子",
+      "name": "瓜子",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "1",
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/瓜子[APP].js"
+    },
+    {
+      "api": "http://gktv.cc:88/py/企鹅体育.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_企鹅体育",
+      "name": "企鹅体育",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/企鹅直播.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_企鹅直播",
+      "name": "企鹅直播",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/蓝鲸体育.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_蓝鲸体育",
+      "name": "蓝鲸体育",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/体育回顾.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_体育回顾",
+      "name": "体育回顾",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/比赛直播.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_比赛直播",
+      "name": "比赛直播",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/不一样的广告MV.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_不一样的广告MV",
+      "name": "另类MV",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/娱乐大师.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_娱乐大师",
+      "name": "娱乐大师",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/一百听书.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_一百听书",
+      "name": "一百听书",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/万能音乐.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_万能音乐",
+      "name": "万能音乐",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/酷狗音乐.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_酷狗音乐",
+      "name": "酷狗音乐",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/时代音乐.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_时代音乐",
+      "name": "时代音乐",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/爱听.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_爱听",
+      "name": "爱听",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/佛系.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_佛系",
+      "name": "佛系",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/上帝赐福.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_上帝赐福",
+      "name": "上帝赐福",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/梨园戏曲.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_梨园戏曲",
+      "name": "梨园戏曲",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/36DJ.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_36DJ",
+      "name": "36DJ",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/听听.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_听听",
+      "name": "听听广播",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/宝宝睡前故事.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_宝宝睡前故事",
+      "name": "宝宝睡前故事",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/儿童启蒙.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_儿童启蒙",
+      "name": "儿童启蒙",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/少儿教育.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_少儿教育",
+      "name": "少儿教育",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/小学课堂.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_小学课堂",
+      "name": "小学课堂",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/初中课堂.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_初中课堂",
+      "name": "初中课堂",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/高中课堂.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_高中课堂",
+      "name": "高中课堂",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/野草.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_野草",
+      "name": "野草",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "http://gktv.cc:88/py/应用更新.py",
+      "ext": {
+        "thread": "10"
+      },
+      "filterable": 1,
+      "key": "py_应用更新",
+      "name": "应用更新",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    }
+  ],
+  "doh": [
+    {
+      "name": "阿里DNS",
+      "url": "https://dns.alidns.com/dns-query",
+      "ips": [
+        "223.5.5.5",
+        "223.6.6.6"
+      ]
+    },
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "name": "proxy",
+      "hosts": [
+        "raw.githubusercontent.com",
+        "googlevideo.com",
+        "cdn.v82u1l.com",
+        "cdn.iz8qkg.com",
+        "cdn.kin6c1.com",
+        "c.biggggg.com",
+        "c.olddddd.com",
+        "haiwaikan.com",
+        "www.histar.tv",
+        "youtube.com",
+        "uhibo.com",
+        ".*boku.*",
+        ".*nivod.*",
+        "*.t4tv.hz.cz",
+        ".*ulivetv.*"
+      ]
+    },
+    {
+      "host": "www.djuu.com",
+      "rule": [
+        "mp4.djuu.com",
+        "m4a"
+      ]
+    },
+    {
+      "host": "www.sharenice.net",
+      "rule": [
+        "huoshan.com",
+        "/item/video/"
+      ],
+      "filter": []
+    },
+    {
+      "host": "www.sharenice.net",
+      "rule": [
+        "sovv.qianpailive.com",
+        "vid="
+      ],
+      "filter": []
+    },
+    {
+      "host": "www.sharenice.net",
+      "rule": [
+        "douyin.com",
+        "/play/"
+      ]
+    },
+    {
+      "host": "m.ysxs8.vip",
+      "rule": [
+        "ysting.ysxs8.vip:81",
+        "xmcdn.com"
+      ],
+      "filter": []
+    },
+    {
+      "host": "hdmoli.com",
+      "rule": [
+        ".m3u8"
+      ]
+    },
+    {
+      "host": "https://api.live.bilibili.com",
+      "rule": [
+        "bilivideo.com",
+        "/index.m3u8"
+      ],
+      "filter": [
+        "data.bilibili.com/log/web",
+        "i0.hdslb.com/bfs/live/"
+      ]
+    },
+    {
+      "host": "www.agemys.cc",
+      "rule": [
+        "cdn-tos",
+        "obj/tos-cn"
+      ]
+    },
+    {
+      "host": "www.fun4k.com",
+      "rule": [
+        "https://hd.ijycnd.com/play",
+        "index.m3u8"
+      ]
+    },
+    {
+      "host": "zjmiao.com",
+      "rule": [
+        "play.videomiao.vip/API.php",
+        "time=",
+        "key=",
+        "path="
+      ]
+    },
+    {
+      "name": "火山嗅探",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "抖音嗅探",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "農民嗅探",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "夜市",
+      "hosts": [
+        "yeslivetv.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+      ]
+    },
+    {
+      "name": "毛驢",
+      "hosts": [
+        "www.maolvys.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+      ]
+    },
+    {
+      "name": "磁力广告",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "更多",
+        "社 區",
+        "x u u",
+        "最 新",
+        "直 播",
+        "更 新",
+        "社 区",
+        "有 趣",
+        "英皇体育",
+        "全中文AV在线",
+        "澳门皇冠赌场",
+        "哥哥快来",
+        "美女荷官",
+        "裸聊",
+        "新片首发",
+        "UUE29"
+      ]
+    }
+  ],
+  "parses": [
+    {
+      "name": "One能Box",
+      "type": 1,
+      "url": "http://gktv.cc:88/php/jx/jx.php?url=",
+      "ext": {
+        "flag": [
+          "咪咕",
+          "miguvideo",
+          "migu",
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "rrmj",
+          "xigua",
+          "ST4K",
+          "ETH-XDA1",
+          "xiong",
+          "NBY",
+          "mytv",
+          "BBA"
+        ]
+      }
+    },
+    {
+      "name": "看看",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "imgo",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    }
+  ],
+  "spider": ""
+}
