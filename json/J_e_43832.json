@@ -1,0 +1,164 @@
+{
+  "sites": [
+    {
+      "key": "3QQQ",
+      "name": "三秋┃蓝光",
+      "type": 3,
+      "timeout": 15,
+      "api": "csp_App3Q"
+    },
+    {
+      "key": "天天",
+      "name": "天天┃影视",
+      "type": 3,
+      "quickSearch": 1,
+      "searchable": 1,
+      "api": "csp_AppRJ",
+      "timeout": 12,
+      "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="
+    },
+    {
+      "key": "csp_Jpys",
+      "name": "金牌┃专线",
+      "type": 3,
+      "timeout": 12,
+      "searchable": 1,
+      "quickSearch": 0,
+      "api": "csp_Jpys",
+      "ext": "https://ghw9zwp5.com/"
+    },
+    {
+      "key": "瓜子专线",
+      "name": "瓜子┃专线",
+      "type": 4,
+      "api": "https://catbox.n13.club/ai/瓜子影视.php"
+    },
+    {
+      "key": "csp_Wwys",
+      "name": "农民┃影视",
+      "type": 3,
+      "api": "csp_Wwys",
+      "timeout": 12,
+      "ext": "https://vip.wwgz.cn:5200"
+    },
+    {
+      "key": "JINPAI",
+      "name": "金牌┃蓝光",
+      "type": 3,
+      "api": "csp_AppGetV2",
+      "changeable": "1",
+      "timeout": 15,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixCuX5/0Mp2gF+GTJvSdMTJO4266ip1AD0eXvwnEHqGEzVGiBZTpoIFlMDVfj2fFMpAmoNbeyAoWe08xR7uumRdghbftYdCX8h2AsbDjnTqpNdSXN735vPYm7ZbtrXT1H6lUUIWjP2LEzU9mhRxGO5UvqxSWuErkHE8synM45vWWFlX/QsjSDq4vFKDafRAGQd5P+lmsj9cLnebY0udLHycf0mzL420O+pTkCOv/yPteMHhEQQcWGSPBrVGnSdq4zWwL03eDX6rA8W4Bsq0+4DIJ0pB2VkZv7DH9Cbeobx17NjiqFegwEoLLX/DKVlyLbD04COtcyReQW84L+ECYdtpVjR9c1T3UMLE7uVvHZq9yhvf/E2xlncht//6Wy9elXWI="
+    }
+  ],
+  "parses": [
+    {
+      "name": "Json聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "影视聚合",
+      "type": 3,
+      "url": "影视"
+    },
+    {
+      "name": "2-极速云解析http://443.cool",
+      "type": 1,
+      "url": "http://119.91.70.43:3302/api/?key=nZV75E7qb8s7tktEik&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "youku",
+          "优酷",
+          "NSYS",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "JSGZ",
+          "瓜子",
+          "XGZ",
+          "XGZ",
+          "dyttm3u8",
+          "dyttm3u8",
+          "dytt",
+          "dytt",
+          "bilibili",
+          "哔哩哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "3-极速云解析http://443.cool",
+      "type": 1,
+      "url": "http://119.91.70.43:3305/qu.php?url=",
+      "ext": {
+        "flag": [
+          "ffm3u8",
+          "非凡",
+          "lzm3u8",
+          "量子",
+          "dbm3u8",
+          "豆瓣",
+          "dyttm3u8",
+          "电影天堂"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "牛牛2",
+      "type": 1,
+      "url": "https://zy.qiaoji8.com/xiafan.php?url=",
+      "ext": {
+        "flag": [
+          "QD4K",
+          "iyf",
+          "duanju",
+          "gzcj",
+          "GTV",
+          "GZYS",
+          "weggz",
+          "Ace"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "夜幕",
+      "type": 0,
+      "url": ""
+    }
+  ],
+  "lives": [
+    {
+      "name": "平台直播",
+      "type": 0,
+      "url": "",
+      "ua": "okhttp/3.15",
+      "playerType": 2
+    }
+  ],
+  "doh": [],
+  "ads": [],
+  "proxy": [],
+  "rules": [],
+  "ijk": [],
+  "spider": "https://img2.gelonghui.com/library/d2f54-55bcb2eb-e015-4e0f-84a4-bae8abfc2090.png;md5;d2f54313ccb8c1b16b25581836ddba22",
+  "wallpaper": "https://www.wexwp.cc/bizhi.php",
+  "logo": "https://wkphoto.bj.bcebos.com/bba1cd11728b47106798119ad3cec3fdfc032335.jpg"
+}
