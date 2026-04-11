@@ -1,0 +1,298 @@
+{
+  "sites": [
+    {
+      "key": "豆瓣",
+      "name": "防失联Q群:719390643",
+      "type": 3,
+      "api": "https://pan.gt68.cn/down.php/12c0b0010d88d1bb80ea84e8ed175236.js",
+      "searchable": 0,
+      "indexs": 1,
+      "quickSearch": 0
+    },
+    {
+      "key": "奇奇",
+      "name": "奇奇｜蓝光",
+      "type": 3,
+      "api": "https://pan.gt68.cn/down.php/5cc128bbc74b5128877bc1b626efe81c.js",
+      "searchable": 1,
+      "ext": {
+        "host": "http://110.42.67.221:8002/",
+        "key": "123456789abcdefg",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      },
+      "categories": [
+        "电视剧",
+        "综艺",
+        "短剧",
+        "动漫",
+        "少儿",
+        "学习"
+      ]
+    },
+    {
+      "key": "皮皮虾",
+      "name": "皮皮虾｜蓝光",
+      "type": 3,
+      "api": "https://pan.gt68.cn/down.php/540e0c721a30390c4f5d2d77b8286905.py",
+      "ext": "http://38.55.237.41:8762"
+    },
+    {
+      "key": "不错",
+      "name": "简单｜蓝光",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://www.985pan.com/down.php/6b81056369cafcfad1adfa5fe5bc678a.jar",
+      "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/APP.txt|kB79jPQIpDxxcy7y|122"
+    },
+    {
+      "key": "三扣",
+      "name": "三秋｜蓝光",
+      "type": 3,
+      "api": "csp_App3Q",
+      "jar": "https://www.985pan.com/down.php/6b81056369cafcfad1adfa5fe5bc678a.jar"
+    },
+    {
+      "key": "爱影",
+      "name": "爱影｜蓝光",
+      "type": 3,
+      "jar": "https://www.985pan.com/down.php/6b81056369cafcfad1adfa5fe5bc678a.jar",
+      "api": "csp_AppGet",
+      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q21.txt|okkfKgnc9JIBISh1|122"
+    },
+    {
+      "key": "布布",
+      "name": "布布｜蓝光",
+      "type": 3,
+      "api": "https://pan.gt68.cn/down.php/62dd7e1e4046301e9efda9870daae823.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "四叶草",
+      "name": "四叶草｜蓝光",
+      "type": 3,
+      "api": "https://pan.gt68.cn/down.php/5cc128bbc74b5128877bc1b626efe81c.js",
+      "ext": {
+        "host": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/APP.txt",
+        "key": "kB79jPQIpDxxcy7y",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "韩圈",
+      "name": "韩剧｜蓝光",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "HanXiaoQuan",
+        "danmu": true
+      },
+      "timeout": 10
+    }
+  ],
+  "parses": [
+    {
+      "name": "智家",
+      "type": "1",
+      "url": "http://speedtest.110966.xyz:5080/ry3_jx2.php?http://210.16.170.113:8845/api/index?parsesId=4&appid=10000&videoUrl=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "4K",
+      "type": 1,
+      "url": "http://shenmijx.vip.cpolar.cn/公开/玉弟哥哥.php?url=",
+      "ext": {
+        "flag": [
+          "臻彩4k",
+          "臻彩4k2",
+          "原彩4k",
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "mgtv",
+          "imgo",
+          "芒果"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "4K ",
+      "type": "1",
+      "url": "http://shenmijx.vip.cpolar.cn/公开/降妖宝杖.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "4K  ",
+      "type": "1",
+      "url": "http://shenmijx.vip.cpolar.cn/公开/火焰之山.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "VIP",
+      "type": "1",
+      "url": "http://1.94.244.214:8889/geturl?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "VIP ",
+      "type": 1,
+      "url": "http://php.xuan666.icu/高兴/api84.php?url="
+    },
+    {
+      "name": "3",
+      "type": 1,
+      "url": "http://php.xuan666.icu/高兴/api85.php?url="
+    },
+    {
+      "name": "4",
+      "type": 1,
+      "url": "http://php.xuan666.icu/高兴/api86.php?url="
+    },
+    {
+      "name": "5",
+      "type": 1,
+      "url": "http://php.xuan666.icu/高兴/api87.php?url="
+    },
+    {
+      "name": "6",
+      "type": 1,
+      "url": "http://php.xuan666.icu/高兴/api88.php?url="
+    },
+    {
+      "name": "7",
+      "type": 1,
+      "url": "http://php.xuan666.icu/高兴/api89.php?url="
+    },
+    {
+      "name": "9",
+      "type": 1,
+      "url": "http://php.xuan666.icu/高兴/api98.php?url="
+    }
+  ],
+  "lives": [
+    {
+      "name": "更多请换源到Ai直播观看",
+      "type": 0,
+      "url": "https://pan.gt68.cn/down.php/0e18e451c63d8e3d1c7c26de824515fb.txt",
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
+    }
+  ],
+  "spider": "https://pan.gt68.cn/view.php/b9802990a6cff89099e65bc7bd65813c.jpg;md5;b9802990a6cff89099e65bc7bd65813c",
+  "wallpaper": "https://bing.img.run/rand_uhd.php",
+  "logo": "https://gitee.com/rgzyyuncang/vip/raw/master/ys.gif",
+  "notice": "更多直播换源到AI直播线路观看",
+  "dsites": [],
+  "dlives": [],
+  "drules": [],
+  "ddoh": [],
+  "dhosts": [],
+  "dads": []
+}
