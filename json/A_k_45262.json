@@ -37,9 +37,9 @@
         "战争片",
         "记录片",
         "剧情片",
-        "动画片",
+        "科幻片",
         "欧美剧",
-        "综艺"
+        "动画片"
       ]
     },
     {
@@ -82,15 +82,6 @@
       "ext": "http://v.rbotv.cn"
     },
     {
-      "key": "荐片",
-      "name": "荐片┃影视",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 0
-    },
-    {
       "key": "金牌影院",
       "name": "金牌┃影院",
       "type": 3,
@@ -101,7 +92,7 @@
     },
     {
       "key": "农民",
-      "name": "旺旺┃影视",
+      "name": "农民┃影视",
       "type": 3,
       "api": "csp_NongMin",
       "searchable": 1,
@@ -109,15 +100,24 @@
       "filterable": 1
     },
     {
-      "key": "Lib",
-      "name": "立白┃影视",
-      "type": 3,
-      "api": "csp_Lib",
+      "key": "modu",
+      "name": "魔都┃资源",
+      "type": 1,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "jar": "https://tv.shuiluobo.sbs/lib/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "ext": "7lj763gg402i7942463j9j9jhi558k84lhg7845kili62l35535512l0h61j48410h9g5igk9j40908h351hh484h8l60h"
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "动作片",
+        "喜剧片",
+        "战争片",
+        "记录片",
+        "剧情片",
+        "科幻片",
+        "欧美剧",
+        "动画片"
+      ]
     },
     {
       "key": "量子资源",
