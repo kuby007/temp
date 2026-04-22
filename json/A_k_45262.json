@@ -120,6 +120,26 @@
       ]
     },
     {
+      "key": "kuaichezy",
+      "name": "快播┃资源",
+      "type": 1,
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "动作片",
+        "喜剧片",
+        "战争片",
+        "记录片",
+        "剧情片",
+        "科幻片",
+        "欧美剧",
+        "动画片"
+      ]
+    },
+    {
       "key": "量子资源",
       "name": "量子┃资源",
       "type": 1,
