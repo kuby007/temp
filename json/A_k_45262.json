@@ -121,7 +121,7 @@
     },
     {
       "key": "kuaichezy",
-      "name": "快播┃资源",
+      "name": "快车┃资源",
       "type": 1,
       "api": "https://caiji.kuaichezy.org/api.php/provide/vod/?ac=list",
       "searchable": 1,
