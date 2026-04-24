@@ -120,6 +120,26 @@
       ]
     },
     {
+      "key": "/jszy",
+      "name": "极速云┃资源",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/from/jsyun/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "动作片",
+        "喜剧片",
+        "战争片",
+        "记录片",
+        "剧情片",
+        "科幻片",
+        "欧美剧",
+        "动画片"
+      ]
+    },
+    {
       "key": "bfzy",
       "name": "暴风┃资源",
       "type": 1,
