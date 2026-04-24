@@ -120,7 +120,7 @@
       ]
     },
     {
-      "key": "/jszy",
+      "key": "jszy",
       "name": "极速云┃资源",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/from/jsyun/at/json",
