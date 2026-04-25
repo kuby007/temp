@@ -120,10 +120,10 @@
       ]
     },
     {
-      "key": "jsyun",
-      "name": "极速云┃资源",
+      "key": "jszy",
+      "name": "极速┃资源",
       "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/from/jsyun/at/json",
+      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json",
       "searchable": 1,
       "changeable": 1,
       "categories": [
@@ -135,7 +135,7 @@
         "剧情片",
         "战争片",
         "记录片",
-        "大陆剧",
+        "内地剧",
         "欧美剧",
         "香港剧",
         "韩国剧",
