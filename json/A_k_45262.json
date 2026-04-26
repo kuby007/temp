@@ -10,14 +10,15 @@
       "ext": "https://tv.shuiluobo.sbs/lib/douban.json"
     },
     {
-      "key": "热播",
-      "name": "热播┃影视",
+      "key": "天天",
+      "name": "天天┃影视",
       "type": 3,
-      "api": "csp_TianTian",
+      "api": "csp_TTian",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://v.rbotv.cn"
+      "jar": "https://tv.shuiluobo.sbs/lib/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
       "key": "柠檬",
@@ -38,30 +39,29 @@
       "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
     {
-      "key": "天天",
-      "name": "天天┃影视",
+      "key": "热播",
+      "name": "热播┃影视",
       "type": 3,
-      "api": "csp_TTian",
+      "api": "csp_TianTian",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://tv.shuiluobo.sbs/lib/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "ext": "7lj763gg0939791h1l3888jig44gi291li"
-    },
-    {
-      "key": "金牌影院",
-      "name": "金牌┃影院",
-      "type": 3,
-      "api": "csp_Jinpai",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "ext": "http://v.rbotv.cn"
     },
     {
       "key": "农民",
       "name": "农民┃影视",
       "type": 3,
       "api": "csp_NongMin",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "金牌影院",
+      "name": "金牌┃影院",
+      "type": 3,
+      "api": "csp_Jinpai",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -104,26 +104,6 @@
         "科幻片",
         "欧美剧",
         "动画片"
-      ]
-    },
-    {
-      "key": "dbzy",
-      "name": "豆瓣┃资源",
-      "type": 1,
-      "api": "https://dbzy.tv/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产剧",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "爱情片",
-        "纪录片",
-        "动画片",
-        "欧美剧",
-        "香港剧"
       ]
     },
     {
@@ -182,6 +162,26 @@
       ]
     },
     {
+      "key": "lzi",
+      "name": "量子┃资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "爱情片",
+        "纪录片",
+        "动画片",
+        "欧美剧",
+        "香港剧"
+      ]
+    },
+    {
       "key": "kuaichezy",
       "name": "快车┃资源",
       "type": 1,
@@ -206,26 +206,6 @@
       "name": "极速┃资源",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产剧",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "爱情片",
-        "纪录片",
-        "动画片",
-        "欧美剧",
-        "香港剧"
-      ]
-    },
-    {
-      "key": "lzi",
-      "name": "量子┃资源",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
