@@ -24,7 +24,7 @@
     },
     {
       "key": "天天",
-      "name": "天天┃HD",
+      "name": "天天┃影视",
       "type": 3,
       "api": "csp_TTian",
       "searchable": 1,
@@ -44,42 +44,13 @@
     },
     {
       "key": "热播",
-      "name": "热播┃HD",
+      "name": "热播┃影视",
       "type": 3,
       "api": "csp_TianTian",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://v.rbotv.cn"
-    },
-    {
-      "key": "猫爪",
-      "name": "猫爪┃集采",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6"
-    },
-    {
-      "key": "永永",
-      "name": "永永┃集采",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120"
-    },
-    {
-      "key": "橘汁",
-      "name": "橘汁┃蓝光",
-      "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 1,
-      "jar": "https://tv.shuiluobo.sbs/lib/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
     {
       "key": "农民",
@@ -191,7 +162,7 @@
     },
     {
       "key": "bfzy",
-      "name": "暴风资源",
+      "name": "暴风┃资源",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -211,7 +182,7 @@
     },
     {
       "key": "wujin",
-      "name": "无尽资源",
+      "name": "无尽┃资源",
       "type": 1,
       "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
       "searchable": 1,
