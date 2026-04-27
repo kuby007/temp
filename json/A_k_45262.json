@@ -72,14 +72,14 @@
     },
     {
       "key": "hipy_js",
-      "name": "解析┃集采",
+      "name": "聚合┃解析",
       "type": 3,
       "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
       "ext": "https://sk.69mzf.com/store/js/主线1.js"
     },
     {
       "key": "guoguo",
-      "name": "超级┃集采",
+      "name": "超级┃解析",
       "type": 3,
       "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
       "ext": "https://sk.69mzf.com/store/js/主线3.js"
