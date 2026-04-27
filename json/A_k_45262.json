@@ -53,6 +53,26 @@
       "ext": "http://v.rbotv.cn"
     },
     {
+      "key": "猫爪",
+      "name": "猫爪┃集采",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6"
+    },
+    {
+      "key": "永永",
+      "name": "永永┃集采",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120"
+    },
+    {
       "key": "橘汁",
       "name": "橘汁┃蓝光",
       "type": 3,
@@ -168,20 +188,6 @@
         "日韩综艺",
         "欧美综艺"
       ]
-    },
-    {
-      "key": "猫爪",
-      "name": "猫爪┃集采",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6"
-    },
-    {
-      "key": "永永",
-      "name": "永永┃集采",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120"
     },
     {
       "key": "bfzy",
