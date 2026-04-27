@@ -71,29 +71,29 @@
       "filterable": 1
     },
     {
-      "key": "hipy_js_腾讯",
-      "name": "腾讯(官)",
+      "key": "hipy_js",
+      "name": "解析┃集采",
       "type": 3,
       "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
       "ext": "https://sk.69mzf.com/store/js/主线1.js"
     },
     {
       "key": "guoguo",
-      "name": "芒果(官)",
+      "name": "果果┃集采",
       "type": 3,
       "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
       "ext": "https://sk.69mzf.com/store/js/主线3.js"
     },
     {
       "key": "爱奇艺",
-      "name": "爱奇艺(官)",
+      "name": "奇艺┃资源",
       "type": 3,
       "api": "https://gitee.com/ce234/co/raw/master/vipmax/JS/drpy2.min.js",
       "ext": "http://svip.kkw88.top/kkwtv/js/爱奇艺.js"
     },
     {
       "key": "优酷视频",
-      "name": "优酷(官)",
+      "name": "优酷┃资源",
       "type": 3,
       "api": "https://gitee.com/ce234/co/raw/master/vipmax/JS/drpy2.min.js",
       "ext": "http://svip.kkw88.top/kkwtv/js/优酷视频.js"
