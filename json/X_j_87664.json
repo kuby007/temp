@@ -12,28 +12,6 @@
       "changeable": 1
     },
     {
-      "key": "界影视",
-      "name": "定制4K",
-      "type": 3,
-      "api": "./lib/apiv2023界影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "热播影视",
-      "name": "热播影视",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.rbotv.cn"
-      }
-    },
-    {
       "key": "柠檬",
       "name": "柠檬影视蓝光",
       "type": 3,
@@ -71,74 +49,11 @@
       "ext": "http://svip.kkw88.top/kkwtv/js/优酷视频.js"
     },
     {
-      "key": "闪影",
-      "name": "闪影蓝光",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
-    },
-    {
-      "key": "zhiqiu",
-      "name": "知秋影视",
-      "type": 3,
-      "api": "csp_zhiqiu",
-      "jar": "./jar/mer.jar",
-      "searchable": 1,
-      "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
-    },
-    {
-      "key": "糯米",
-      "name": "糯米影视",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Nmys",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
       "key": "csp_SaoHuo",
       "name": "骚火影视",
       "type": 3,
       "jar": "https://gitee.com/tianwikeji/jar/raw/master/xm.jar",
       "api": "csp_SaoHuo"
-    },
-    {
-      "key": "还行",
-      "name": "无意影视",
-      "type": 3,
-      "jar": "./jar/tw2893.jar",
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "http://m51.gotto.top/api.php/v1.vod"
-    },
-    {
-      "key": "金牌影视",
-      "name": "金牌影视",
-      "type": 3,
-      "api": "csp_Jpys",
-      "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
-    },
-    {
-      "key": "麒麟影院",
-      "name": "独播影院",
-      "type": 3,
-      "jar": "./jar/vox.jar",
-      "changeable": 0,
-      "api": "csp_Appfox",
-      "ext": {
-        "host": "https://qh.70qh.top",
-        "ver": 2
-      }
     }
   ],
   "parses": [
