@@ -12,8 +12,15 @@
       "changeable": 1
     },
     {
+      "key": "guoguo",
+      "name": "超级解析",
+      "type": 3,
+      "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://sk.69mzf.com/store/js/主线3.js"
+    },
+    {
       "key": "柠檬",
-      "name": "柠檬影视蓝光",
+      "name": "柠檬蓝光",
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
@@ -21,39 +28,32 @@
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
+      "key": "csp_SaoHuo",
+      "name": "骚火影视",
+      "type": 3,
+      "jar": "https://gitee.com/tianwikeji/jar/raw/master/xm.jar",
+      "api": "csp_SaoHuo"
+    },
+    {
       "key": "hipy_js_腾讯",
-      "name": "腾讯(官)",
+      "name": "聚合资源",
       "type": 3,
       "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
       "ext": "https://sk.69mzf.com/store/js/主线1.js"
     },
     {
-      "key": "guoguo",
-      "name": "芒果(官)",
-      "type": 3,
-      "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
-      "ext": "https://sk.69mzf.com/store/js/主线3.js"
-    },
-    {
       "key": "爱奇艺",
-      "name": "爱奇艺(官)",
+      "name": "爱奇艺",
       "type": 3,
       "api": "https://gitee.com/ce234/co/raw/master/vipmax/JS/drpy2.min.js",
       "ext": "http://svip.kkw88.top/kkwtv/js/爱奇艺.js"
     },
     {
       "key": "优酷视频",
-      "name": "优酷(官)",
+      "name": "优酷",
       "type": 3,
       "api": "https://gitee.com/ce234/co/raw/master/vipmax/JS/drpy2.min.js",
       "ext": "http://svip.kkw88.top/kkwtv/js/优酷视频.js"
-    },
-    {
-      "key": "csp_SaoHuo",
-      "name": "骚火影视",
-      "type": 3,
-      "jar": "https://gitee.com/tianwikeji/jar/raw/master/xm.jar",
-      "api": "csp_SaoHuo"
     }
   ],
   "parses": [
