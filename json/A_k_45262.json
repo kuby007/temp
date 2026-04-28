@@ -71,6 +71,15 @@
       "filterable": 1
     },
     {
+      "key": "橘子",
+      "name": "橘子┃蓝光",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 1,
+      "jar": "https://tv.shuiluobo.sbs/lib/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
+    },
+    {
       "key": "hipy_js",
       "name": "聚合┃影视",
       "type": 3,
