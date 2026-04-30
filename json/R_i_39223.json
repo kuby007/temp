@@ -292,6 +292,20 @@
       }
     },
     {
+      "key": "hipy_js",
+      "name": "聚合┃影视",
+      "type": 3,
+      "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://sk.69mzf.com/store/js/主线1.js"
+    },
+    {
+      "key": "guoguo",
+      "name": "蓝光┃影视",
+      "type": 3,
+      "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://sk.69mzf.com/store/js/主线3.js"
+    },
+    {
       "key": "88看球",
       "name": "88｜看球",
       "type": 3,
@@ -737,5 +751,11 @@
   ],
   "ads": [
     "static-mozai.4gtv.tv"
-  ]
+  ],
+  "dsites": [],
+  "dlives": [],
+  "drules": [],
+  "ddoh": [],
+  "dhosts": [],
+  "dads": []
 }
