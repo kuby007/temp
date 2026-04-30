@@ -228,6 +228,20 @@
       "ext": "https://vip.wwgz.cn:5200"
     },
     {
+      "key": "hipy_js",
+      "name": "聚合┃影视",
+      "type": 3,
+      "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://sk.69mzf.com/store/js/主线1.js"
+    },
+    {
+      "key": "guoguo",
+      "name": "蓝光┃影视",
+      "type": 3,
+      "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://sk.69mzf.com/store/js/主线3.js"
+    },
+    {
       "key": "荐片",
       "name": "荐片｜蓝光",
       "api": "csp_JianPian",
@@ -290,20 +304,6 @@
       "ext": {
         "host": "http://app.hktvyb.cc"
       }
-    },
-    {
-      "key": "hipy_js",
-      "name": "聚合┃影视",
-      "type": 3,
-      "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
-      "ext": "https://sk.69mzf.com/store/js/主线1.js"
-    },
-    {
-      "key": "guoguo",
-      "name": "蓝光┃影视",
-      "type": 3,
-      "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
-      "ext": "https://sk.69mzf.com/store/js/主线3.js"
     },
     {
       "key": "88看球",
