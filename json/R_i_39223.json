@@ -95,14 +95,14 @@
     },
     {
       "key": "爱奇艺",
-      "name": "爱奇┃随缘",
+      "name": "爱奇艺",
       "type": 3,
       "api": "https://gitee.com/ce234/co/raw/master/vipmax/JS/drpy2.min.js",
       "ext": "http://svip.kkw88.top/kkwtv/js/爱奇艺.js"
     },
     {
       "key": "优酷视频",
-      "name": "优酷┃随缘",
+      "name": "优酷",
       "type": 3,
       "api": "https://gitee.com/ce234/co/raw/master/vipmax/JS/drpy2.min.js",
       "ext": "http://svip.kkw88.top/kkwtv/js/优酷视频.js"
