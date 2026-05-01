@@ -90,16 +90,6 @@
       "filterable": 1
     },
     {
-      "key": "热播",
-      "name": "热播┃影视",
-      "type": 3,
-      "api": "csp_TianTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://v.rbotv.cn"
-    },
-    {
       "key": "88看球",
       "name": "88｜看球",
       "type": 3,
