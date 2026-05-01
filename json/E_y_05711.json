@@ -12,16 +12,6 @@
       "ext": "https://tv.shuiluobo.sbs/lib/douban.json"
     },
     {
-      "key": "热播",
-      "name": "热播┃影视",
-      "type": 3,
-      "api": "csp_TianTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://v.rbotv.cn"
-    },
-    {
       "key": "三秋影视",
       "name": "三秋｜蓝光",
       "type": 3,
@@ -98,6 +88,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "热播",
+      "name": "热播┃影视",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://v.rbotv.cn"
     },
     {
       "key": "88看球",
