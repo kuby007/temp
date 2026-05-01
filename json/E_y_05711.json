@@ -24,7 +24,7 @@
     },
     {
       "key": "天天",
-      "name": "TT┃HD",
+      "name": "天天┃影视",
       "type": 3,
       "api": "csp_TTian",
       "searchable": 1,
@@ -35,7 +35,7 @@
     },
     {
       "key": "柠檬",
-      "name": "NM┃APP",
+      "name": "柠檬┃蓝光",
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
@@ -44,7 +44,7 @@
     },
     {
       "key": "热播",
-      "name": "RP┃HD",
+      "name": "热播┃影视",
       "type": 3,
       "api": "csp_TianTian",
       "searchable": 1,
@@ -53,61 +53,22 @@
       "ext": "http://v.rbotv.cn"
     },
     {
-      "key": "无水印采集",
-      "name": "CJ┃HD",
-      "type": 1,
-      "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
-      "categories": [
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "韩剧",
-        "台湾剧",
-        "日剧",
-        "海外剧",
-        "泰剧",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "惊悚片",
-        "战争片",
-        "动漫电影",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "年代穿越",
-        "反转爽剧",
-        "古装仙侠",
-        "现代都市",
-        "女频恋爱",
-        "漫剧",
-        "擦边短剧",
-        "有声动漫",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺",
-        "港台×X",
-        "韩国××",
-        "日本×X",
-        "西方X×"
-      ]
+      "key": "hipy_js",
+      "name": "聚合┃影视",
+      "type": 3,
+      "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://sk.69mzf.com/store/js/主线1.js"
     },
     {
-      "key": "橘皮",
-      "name": "JP┃HD",
+      "key": "guoguo",
+      "name": "蓝光┃影视",
       "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 1,
-      "jar": "https://tv.shuiluobo.sbs/lib/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
+      "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://sk.69mzf.com/store/js/主线3.js"
     },
     {
       "key": "农民",
-      "name": "WW┃HD",
+      "name": "农民┃影视",
       "type": 3,
       "api": "csp_NongMin",
       "searchable": 1,
@@ -115,333 +76,65 @@
       "filterable": 1
     },
     {
-      "key": "瓜子影院",
-      "name": "GZ┃APP",
-      "type": 3,
-      "api": "https://yydsys.top/duo/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": "https://tv.shuiluobo.sbs/lib/瓜子.js"
-    },
-    {
       "key": "金牌影院",
-      "name": "JP┃APP",
+      "name": "金牌┃影院",
       "type": 3,
       "api": "csp_Jinpai",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "厂长",
-      "name": "CZ┃HD",
-      "type": 3,
-      "api": "csp_Czzy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "量子资源",
-      "name": "LZ┃HD",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
-    },
-    {
-      "key": "非凡资源",
-      "name": "FF┃HD",
-      "type": 1,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
     }
   ],
   "parses": [
     {
-      "name": "Web聚合",
-      "type": 3,
-      "url": "Web"
-    },
-    {
-      "name": "Json聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "线路1",
-      "type": 0,
-      "url": "https://yparse.ik9.cc/index.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "iqiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name": "线路2",
-      "type": 0,
-      "url": "https://jx.yparse.com/index.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name": "线路3",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name": "线路4",
-      "type": 0,
-      "url": "https://jx.xyflv.cc/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-    {
-      "name": "线路5",
+      "name": "秒解1",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
       }
     },
     {
-      "name": "线路6",
+      "name": "秒解2",
+      "type": 1,
+      "url": "https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url="
+    },
+    {
+      "name": "秒解3",
+      "type": 1,
+      "url": "https://json.cfysoft.cc/api/?key=6294df9ba1f2c6da489bd78fdd9f6d46&url="
+    },
+    {
+      "name": "蓝光1",
       "type": 0,
-      "url": "https://jx.xyflv.cc/?url=",
+      "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
-          "referer": "https://www.xyflv.cc/"
+          "user-agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"
         }
       }
     },
     {
-      "name": "线路7",
+      "name": "蓝光2",
       "type": 0,
-      "url": "https://jx.aidouer.net/?url=",
+      "url": "http://www.ckplayer.vip/jiexi/?url=",
       "ext": {
         "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
-          "referer": "https://jiejie.uk/"
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
         }
       }
     },
     {
-      "name": "线路8",
+      "name": "蓝光3",
       "type": 0,
-      "url": "https://jx.zhanlangbu.com/?url=",
+      "url": "https://jx.yparse.com/index.php?url=",
       "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "ext": {
-          "header": {
-            "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-          }
+        "header": {
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
         }
       }
-    },
-    {
-      "name": "线路9",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
-    },
-    {
-      "name": "线路10",
-      "type": 0,
-      "url": "https://www.8090g.cn/?url="
-    },
-    {
-      "name": "线路11",
-      "type": 0,
-      "url": "https://jx.yangtu.top?url="
-    },
-    {
-      "name": "线路12",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-    {
-      "name": "线路13",
-      "type": 0,
-      "url": "https://www.ckplayer.vip/jiexi/?url="
     }
   ],
   "flags": [
@@ -503,79 +196,6 @@
         ".*nivod.*",
         "*.t4tv.hz.cz",
         ".*ulivetv.*"
-      ]
-    },
-    {
-      "name": "海外看",
-      "hosts": [
-        "haiwaikan"
-      ],
-      "regex": [
-        "8.1748",
-        "10.0099",
-        "10.3333",
-        "16.0599"
-      ]
-    },
-    {
-      "name": "49资源",
-      "hosts": [
-        "49zyv"
-      ],
-      "regex": [
-        "23.8",
-        "#EXT-X-TARGETDURATION:\\d+[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "乐视",
-      "hosts": [
-        "leshiyuncdn"
-      ],
-      "regex": [
-        "15.92"
-      ]
-    },
-    {
-      "name": "暴风",
-      "hosts": [
-        "bfzy"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "星星",
-      "hosts": [
-        "aws.ulivetv.net"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "量子",
-      "hosts": [
-        "vip.lz",
-        "hd.lz",
-        "v.cdnlz"
-      ],
-      "regex": [
-        "18.5333"
-      ]
-    },
-    {
-      "name": "非凡",
-      "hosts": [
-        "vip.ffzy",
-        "hd.ffzy"
-      ],
-      "regex": [
-        "20.52",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+",
-        "#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+"
       ]
     },
     {
