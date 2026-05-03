@@ -14,42 +14,36 @@
       "ext": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/2026/douban.json"
     },
     {
-      "key": "FishConfig",
-      "name": "设置｜中心",
-      "type": 3,
-      "api": "csp_FishConfig"
-    },
-    {
       "key": "知予",
-      "name": "知予｜4K",
+      "name": "知予｜APP",
       "api": "csp_AppNox",
       "type": 3,
       "ext": "AZO8UzEWvZvXzsgI4SNyGQ4L+vGtppdKcprDfwA5qTsMJGhz+Cj3rdFZ5YzhjdvBQIbdxwvClWQGLM9wF1u9ElENTfBdxL6uNMOvyy032H2gp1sS8fCxJq5a1oMSXMzsgNAh0RO6EKTHPogHj3cH2BbwaoPYdnleeqato0VOM6ffKeXl3SpXczHhvt6ZcTPNsFIgy2uSXX26nLfid+1yEEIuKA1wY0P11N8wRW4xt+WjV2X6IRjUXmAzuqNNp/m5Ap6tl/IJdxhAiUjPy3pkDj37urj2p4xkUusOkrv5ygSmQNiu/YSHMBJSpWzoimp6yrBtwYLMasumbJRePHjpzU88qKoq5W0Hg0jSYvvi8jXXPHosfChyzOo39MD2MeOJPgoyZ+Qq/3bk9qLX8tgqwN8QQ9eyW+eKBO3HlcPEYblkPB1RViR26NYMv5lxxDZCd/8bseGByoKAKmxTzN861Vgcfrg/NcUq4JZAqfM/HaRJcGI1WHoajHayK4KF54gofurfdoKZVubSGNYGPY7oI5mkPQ37SAQs6nCaqCU6GPisurONvttHIPLjl1huzrJ8UO+3V3oBZYn+IqgHQ6vujXEiCFlx27zmkAxfhOLQ1U13HGAAIljxAX30xsqOYhPA6dNtQaHCAcEUl3kFDEHT8osRG/VaPh3IFp3eDJBZHqQpBw+1tW4L7w4PqMzbY/FVj2goJMNlDwz20vFHUrAGQyN+B+PVHwuFktgMUeYbGqu4b8NdTJUlv6ghoYo4gtdeqLIy+LFqoKRJa1EVjleAA4vBrQW4jTRyft4OMamucYDUK2dlrBmnmAJGRQK0ZziH1eAHC3iau3rXQ0WUZB2ItgU+fp714k1RX3FDA7NaRXOkXRruEN2l3FzaNLeP+7KCY/GrG7ftj3MiDjnUaFSKubDJL3TAaW37ZKitDiu+RR6JLy+XTXFyfqa3gIiiC2FG6njx7FR0EnSyNaXAtfbYZdfXWp6YCCnEuDaI3kXT9wsRdq7QWjV6f+2d6XIPyfXr6OebhBuZFU99ELPgXGeUO9TJqqjFF9/6vDD6bhsPDpEc"
     },
     {
       "key": "寻川",
-      "name": "寻川｜4K",
+      "name": "寻川｜APP",
       "api": "csp_AppNox",
       "type": 3,
       "ext": "AZwKLTGJseDoHAfRGZgidaVzBXHTFWKNP9y5+JMTNtMt+GZOYqXrg+BpTi30W2daF1BshLlNfT2WFEamYHeH16Ynudj2EiVK9+AWISKGdecnTJeGgFG0CYit/EisqgMyWohTap73SM+/gaBSL+oNwVgnGJ/8BuyMlAnuxbtcJWGDFUdKzdaM6Nn0gjj4jS9R+e6TH49uCDIVY0lt6iTnYMXmwq4wOWpE/gZUZiCk23d0tPI/V0CuL+Hl5ITXvfkLx1+H1XZdm6C3pIUJMwb4gZ95W2rrkhX4d3Yrws1eld1nXu5ejRbrLHype4LnZuwHpo7iq+vUT0HfMEkJnFtuBOT6nOw7xKLNWXSJC7PmJDDIr8yabmtdnIzeI6LOJPtmD+w4drvqJpty/1YjxXfFUA19qwnAB7iuLLdeKmeaYKecLstYv7+bEY6vFibImX79eOtrlUUEaglkmuqWqmShFYv/YeuZ2LtYb9eWmDBelBIXhFHXsxYAk8+rNB9AMVVpGhisUIcAA75ha+5mnGVtALRsAW3BFIhy0GiQ9vOzeWwC9osf8YMQ9vfyskzhUFpvT1EhJTGiOsq8vYBi8t+FDRUC1z+13AbyTGk9yDgx74fMHYg9pexhwkotIP8oSDr19Xy4q0Gz6QWjjDxtDlAK3qH5erFmOU8uzdckAjgHxwZ7tfvZXUqQcLz4ICIqgN3WxpAMD0Jnenifi852lCB5HDmaJ6lLpmlr8eGr0OVXVNHRS5mttbisDkbrz5O4wlglsfwX1xzW8namjlc15Kfv/24xFjlzQk+r4fOE4knXw38VsFTMZb+Yz1ODPIagwmOQt9xTHdHefU+FML6MTrBi0hHfW0ooVITGfniCerhOvXW73eZfABNkQaj43UQ37Xo9zFAa8INzYeGlGomHPAQLaH+agFZsM3dL+RgPDL8PO6rpp7I6rKCv5rxtz1rDGKEfWuT4YaJL2aoDjZY28vjxbFDpADFKjlK7wDeeGjB7kR8BDgFtexk3HcdNmAVD4SweeQ=="
     },
     {
       "key": "沐辞",
-      "name": "沐辞｜4K",
+      "name": "沐辞｜APP",
       "api": "csp_AppNox",
       "type": 3,
       "ext": "Abi7QqHx7NkSnFxiX86dVd8OENEdBBUidS9e1ulTQ2D+bep3rrSlNIqBktmf+g8OmyL3Bdg9Zz8wuDhIfPFDG3dBhid4zHahyXhefuCvtr+WhREnRIA41FDNEcrTrLyT7dsJksV9V8mcfmNw5HWPE8YxzVKQgFfX/ISmYgsUI5861JXqjn02bxus2HwRf4bB79Hau/3APqJppTrqy2Qk5EM1Mu8z7O+XSCQ2f+qcSfDnt//qmXsyet/HyfuoIXk0VM/NEZxLA3PWEm8r+OpRPkjkq8gIzS31IoYHaJraZr/QsuYJQglJ5F41PNCi0xJFcPhq001t334LWxzIw5n/dRPQczqd4fEEWQHO2YbjV6frsAO6rWCcAwDYAqL275He0uDe4yLG09prxnVeYZS2qVf5/OFwI386gj7HCXLYU1gXLMMcYpSJxw33KAZLBIl/BN4PllN7LTazHoq3m1qilNwiUL64vyaJC0mAgq6Qijjy19o9ndSZDv+gcesCb9Ofn7xxjTlOlquGFwYiUh43gmNQdKNMh6VzGz0mhKdVuH+O+WYFrah3nsnyYSF2CAkoNQM6A9Vy4IFRkvzVdcfRh1kG6b04NoH0hdR43Ju76nywb1A+TnQZyZr6m3LtlWjUr31zzWH9yvGBSijq9OCcq3kXUNFQrMqz7RxlS+NIQ7m0xljYFNW0Sef02AA1XY3BlmZDpXLgjgqhfxDwDC3IW13yi/pEM6JfKfYcr7ghQGWffvvkARvIXpR3Pm8TdI4CfoLnhRsJZdl4/olGsDcnY6uH67uRuYA6GraQctt47P7QOzQeDeIKc4gyqiz+qB7jtVpkvZGQSM1V2pk1vlNHU3LexuUqTScotyTYhuExlBJ5buISFx/KI1gwHASQrI0voWQ6zwS5T1msJn0FjaMNuX0Wl44H/5Mtax3L7OixdL1L+GplJ5oPNSU9LCK7IVC29WTgn5jXb3745Ut/jQTJ8BmpEcQCUts1VJkQWvjgJxlKuP1GkzjWK57JFrVXeI9pNM5Al25SFSNVqxbFEbW37/dOE8XhIpZcR06yDrOZBX7m"
     },
     {
       "key": "清沅",
-      "name": "清沅｜4K",
+      "name": "清沅｜APP",
       "api": "csp_AppNox",
       "type": 3,
       "ext": "AfyjGqtDxeFBK/FAGHLai/lfJrkyce6xU1r65ztCSaBP385PA+UUWqSoOiWuSLIi7GDkIrabPJW7MVTOwC3fcl61U+DE6vKrZOtEnVb7rXp7S9T3G2zR415IEyfvTObxupWW9zew9YcLbL/fEnQPsAaOf/2nY5BIKmdo3ebnRR2zJdL6cPGTXM3eYPB8h0QV1tyUGdG0QYrJGLqhSqW/M46e9wTmKnhgaGYN/Bwz9wsqeaY6tEiJk05Qe6gopVHI9P6C1DL3lxeHtF2Fs77ijvtOn+JPe5VkB3o/7m8U4sI2JHuituAjpn5QbF9z83pFfT+QIjo+R1DR5/0Vte1BjWrpqFa/T0hoWZwCsbGhPvPwMHx0Tl06aMjOGb/3Bp+yef71UUwo2aJlml7qvDxvYvX4sokpmROCTEiyGFpL8CEYBVjVuVeEbO8DUIbOpAQIo/Yo8ilzE9diX1Dc6cKceW1zZZIHc+zPbOwAZj8qXSR31nr4pdpp/cpsav6vtrsq+v3AGO9WR3iGhBbBWshjVBu+oRBB892hAMwgcDWAskHLwbuweBfZQchp9h3uKiatswvJ8R9ysWKJLp4dIVoAsnBpOkxLCPT4BwCkJACPqCS/aXKf/p7++kIJ3NFUyFEmmCQ0x++8GKGh6djVIsx6pTuCtcP/cGbk7vryhVQ0flzDzKz9nbwr3YWXZ6GkLd1HjVfoACnJk3JhDuaNWZIks9Lhw+fIfSNpK96g1OTiDMR04PwyZFm7o8dZ5KMNow3l3hYLMBZJq3wHq5txGcGZv6svZ8Je2zJ3bK1L4Ud1B7vca9yo3Es15HrYGZt8QHM5KFgHAZkK6aBio8a4YL0qULawLxuaVrAJKhzcCHq+c9wX4pyniS9yHBe8RSUConYx0b9hlVvRSJUN5MQATV0aY5G+gATJm1iQ55NMb9EGpHVQTFza4B+xXZjpcyk2gov2PXozpSY8cWfh0krQvPgLlsDLG4SBlb/i2ZI3CrkIsuD/x2oQ0qIS3azqZy1+FWN9ihw0X13rhcUBdNSxRmHXka8="
     },
     {
       "key": "zhiqiu",
-      "name": "听风｜知秋",
+      "name": "知秋｜APP",
       "type": 3,
       "api": "csp_zhiqiu",
       "searchable": 1,
@@ -137,15 +131,6 @@
       "ext": "AeljPqr62826qs6bzc6j9/RpTf5QqEVJa4b5H5OWsIYiMVQz3YGn42ihdsNCoQ1qLIRV4jal/W/zW1pKZYZ0RmoCuYh8eFjKQlrB6+iuxYA/b8wdMZt1uIIDQ3V8O4x+Wvio/epeb64UT81bzT4d/KmkXob57oV0DKhlk9v/UEnPdxVW5dePxXsRGUWQiuwVAJRl5cpv58UAS+MMaxvlwviCWYD/lfr+YU1z/30AKZ79JCX2YyCiWOzuu30r2HKYAPyg5mizKoX/9IsnW8qD/91OL0pU7v7Nz7EUbd47aRkgQQtAxPp7k8x11SE4RwODbNg496QYlseyXh/98aNEzxZ2QYC8dAg1ZD9TBHfqmWvStmJ5Hgh09OP/pvsCqbfHknWj+IpM700L8gFa+QsCVOF5In1wEW6nIpXymrGa5ojn6M5Abay4P6xcOVtcH4TSQshv7CmjTBdPzfrNVjwreJ3z1uULGIwhaTa1yFxFaYKaKZJm10Nnn7oxLgkd5MzZAPmAljAH8i46ovcPv5Vq+hq6muI98BQlv4ge0lWfwwJCxtjb0DMjuIZrmnRI12iMFkdG8+31iu5hj15v2GAE3vMs9tt8mpx+cjw0gPfoDHNDUn2Cui1eDi0X6TZ9X9U6v9JRMAsxnL9UO1098u5woVDpToRzwBv9TVI1SsW5R/T1AicCx66ZDG1oQZv1aOF1OSKcmQTxdrs0a1KT1/1D4YKfkL3jGKicvjJAFmTkLX4LlJMScSI0t4mxpNs4gF4G8CHgr6QCcHef9iuM/trTkmc="
     },
     {
-      "key": "厌离",
-      "name": "厌离｜APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "AdXcX8ru5Zl9wVSLOKeQ1kY7I7JxfWQCfFqX6dJ1sonNK5ihv7paSCYG497KQT+JVG3zl3/sj8zoR/uMfuapGBtRpjglYYlCzaGXjQ5hVVYGUuoSUUcEbCV22LAAo8fHgakvUH0PLIQeyBXSNcA82EUGWQNaS6luPJEBNj8Ly+Uv1YOnMmxtjTyqZZhTKJkO9CUVF37aNDG5t4fmM2eOA/A="
-    },
-    {
       "key": "思追",
       "name": "思追丨APP",
       "type": 3,
@@ -170,14 +155,6 @@
       "searchable": 1,
       "filterable": 0,
       "ext": "{\"box\": \"TVBox\", \"danmu\": false}"
-    },
-    {
-      "key": "Jianpian",
-      "name": "荐片｜磁力",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "filterable": 1
     }
   ],
   "lives": [],
