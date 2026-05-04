@@ -27,7 +27,7 @@
     },
     {
       "key": "热播影视",
-      "name": "热播｜影视",
+      "name": "热播┃影视",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -39,13 +39,13 @@
     },
     {
       "key": "三秋影视",
-      "name": "三秋｜蓝光",
+      "name": "三秋┃蓝光",
       "type": 3,
       "api": "csp_App3Q"
     },
     {
       "key": "橘汁",
-      "name": "橘汁｜蓝光",
+      "name": "橘汁┃蓝光",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -65,7 +65,7 @@
     },
     {
       "key": "华谊",
-      "name": "华谊｜蓝光",
+      "name": "华谊┃蓝光",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -94,7 +94,7 @@
     },
     {
       "key": "蓝鹰",
-      "name": "蓝鹰｜蓝光",
+      "name": "蓝鹰┃蓝光",
       "type": 3,
       "api": "csp_AppQi",
       "searchable": 1,
@@ -127,20 +127,20 @@
     },
     {
       "key": "金牌影视",
-      "name": "金牌｜蓝光",
+      "name": "金牌┃蓝光",
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://m.610pkea.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
     {
       "key": "独播影视",
-      "name": "独播｜影视",
+      "name": "独播┃影视",
       "type": 3,
       "api": "csp_Duboku"
     },
     {
       "key": "88看球",
-      "name": "88｜看球",
+      "name": "88┃看球",
       "type": 3,
       "api": "csp_Kanqiu",
       "gridview": 3,
@@ -150,7 +150,7 @@
     },
     {
       "key": "919体育",
-      "name": "919｜体育",
+      "name": "919┃体育",
       "type": 3,
       "api": "csp_919TY",
       "style": {
