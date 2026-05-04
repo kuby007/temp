@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "军长出品  必属精品",
+      "name": "軍長出品  必属精品",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
@@ -12,8 +12,22 @@
       "ext": "https://tv.shuiluobo.sbs/lib/douban.json"
     },
     {
+      "key": "hipy_js",
+      "name": "聚合┃影视",
+      "type": 3,
+      "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://sk.69mzf.com/store/js/主线1.js"
+    },
+    {
+      "key": "guoguo",
+      "name": "蓝光┃影视",
+      "type": 3,
+      "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://sk.69mzf.com/store/js/主线3.js"
+    },
+    {
       "key": "热播影视",
-      "name": "热播┃影视",
+      "name": "热播｜影视",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -25,13 +39,13 @@
     },
     {
       "key": "三秋影视",
-      "name": "三秋┃蓝光",
+      "name": "三秋｜蓝光",
       "type": 3,
       "api": "csp_App3Q"
     },
     {
       "key": "橘汁",
-      "name": "橘汁┃蓝光",
+      "name": "橘汁｜蓝光",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -50,6 +64,26 @@
       }
     },
     {
+      "key": "华谊",
+      "name": "华谊｜蓝光",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "华谊",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
+        "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.muyue.tool",
+        "host": "",
+        "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
+        "version": "1.0.0.4",
+        "decrypt": "1"
+      }
+    },
+    {
       "key": "柠檬",
       "name": "柠檬┃蓝光",
       "type": 3,
@@ -59,25 +93,19 @@
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
-      "key": "农民影视",
-      "name": "农民┃影视",
+      "key": "蓝鹰",
+      "name": "蓝鹰｜蓝光",
       "type": 3,
-      "api": "csp_Wwys",
-      "ext": "https://vip.wwgz.cn:5200"
-    },
-    {
-      "key": "hipy_js",
-      "name": "聚合┃影视",
-      "type": 3,
-      "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
-      "ext": "https://sk.69mzf.com/store/js/主线1.js"
-    },
-    {
-      "key": "guoguo",
-      "name": "蓝光┃影视",
-      "type": 3,
-      "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
-      "ext": "https://sk.69mzf.com/store/js/主线3.js"
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
+        "dataKey": "ca94b06ca359d80e",
+        "dataIv": "ca94b06ca359d80e",
+        "init": "initV120",
+        "ua": "okhttp/3.10.0"
+      }
     },
     {
       "key": "天天",
@@ -91,15 +119,28 @@
       "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
+      "key": "农民影视",
+      "name": "农民┃影视",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://vip.wwgz.cn:5200"
+    },
+    {
       "key": "金牌影视",
-      "name": "金牌┃影视",
+      "name": "金牌｜蓝光",
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://m.610pkea.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
     {
+      "key": "独播影视",
+      "name": "独播｜影视",
+      "type": 3,
+      "api": "csp_Duboku"
+    },
+    {
       "key": "88看球",
-      "name": "88┃看球",
+      "name": "88｜看球",
       "type": 3,
       "api": "csp_Kanqiu",
       "gridview": 3,
@@ -109,7 +150,7 @@
     },
     {
       "key": "919体育",
-      "name": "919┃体育",
+      "name": "919｜体育",
       "type": 3,
       "api": "csp_919TY",
       "style": {
@@ -122,14 +163,9 @@
   ],
   "parses": [
     {
-      "name": "聚合",
-      "type": 3,
-      "url": "Web"
-    },
-    {
       "name": "秒解1",
       "type": 0,
-      "url": "https://jx.xymp4.cc/?url=",
+      "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "header": {
           "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
@@ -139,6 +175,11 @@
     {
       "name": "秒解2",
       "type": 1,
+      "url": "https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url="
+    },
+    {
+      "name": "秒解3",
+      "type": 1,
       "url": "https://json.cfysoft.cc/api/?key=6294df9ba1f2c6da489bd78fdd9f6d46&url="
     },
     {
@@ -147,7 +188,7 @@
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+          "user-agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"
         }
       }
     },
@@ -164,10 +205,10 @@
     {
       "name": "蓝光3",
       "type": 0,
-      "url": "https://jx.77flv.cc/?url=",
+      "url": "https://jx.yparse.com/index.php?url=",
       "ext": {
         "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
         }
       }
     }
@@ -490,5 +531,11 @@
   ],
   "ads": [
     "static-mozai.4gtv.tv"
-  ]
+  ],
+  "dsites": [],
+  "dlives": [],
+  "drules": [],
+  "ddoh": [],
+  "dhosts": [],
+  "dads": []
 }
