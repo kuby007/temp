@@ -5,6 +5,17 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
+      "key": "csp_Douban",
+      "name": "軍長出品  必属精品",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "changeable": 1,
+      "timeout": 60,
+      "indexs": 1,
+      "ext": "./douban.json"
+    },
+    {
       "key": "藤藤",
       "name": "线路1",
       "type": 3,
