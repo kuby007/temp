@@ -5,70 +5,22 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
-      "key": "csp_Douban",
-      "name": "軍長出品  必属精品",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "changeable": 1,
-      "timeout": 60,
-      "indexs": 1,
-      "ext": "./douban.json"
-    },
-    {
-      "key": "csp_iqiyi",
-      "name": "超清线路1",
-      "type": 3,
-      "api": "csp_iqiyi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./琪琪家.jar"
-    },
-    {
-      "key": "csp_mgtv",
-      "name": "超清线路2",
-      "type": 3,
-      "api": "csp_mgtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./果果家.jar"
-    },
-    {
-      "key": "csp-youku",
-      "name": "超清线路3",
-      "type": 3,
-      "api": "csp_youku",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./库库家.jar"
-    },
-    {
-      "key": "爱腾讯",
-      "name": "超清线路4",
-      "type": 3,
-      "api": "./drpy2.min.js",
-      "ext": "./qq.js"
-    },
-    {
       "key": "藤藤",
-      "name": "4K线路1",
+      "name": "线路1",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
     },
     {
       "key": "茫茫",
-      "name": "4K线路2",
+      "name": "线路2",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
     },
     {
       "key": "changze",
-      "name": "4k线路3",
+      "name": "线路3",
       "type": 3,
       "api": "csp_AppEy",
       "jar": "./jar/1.jar",
@@ -79,14 +31,14 @@
     },
     {
       "key": "皮皮虾",
-      "name": "4k线路4",
+      "name": "线路4",
       "type": 3,
       "api": "./皮皮虾.py",
       "ext": "http://154.94.224.98:8762"
     },
     {
       "key": "hajim-腾讯备",
-      "name": "4k线路1备",
+      "name": "线路5",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "searchable": 1,
@@ -95,21 +47,12 @@
     },
     {
       "key": "hajim-芒果备",
-      "name": "4K线路②备",
+      "name": "线路6",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
       "ext": "https://fastlink.cokey.xyz/f/pm88tj/%E8%8A%92%E6%9E%9C.js"
-    },
-    {
-      "key": "柠檬",
-      "name": "柠檬|蓝光",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "./柠檬.jar",
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     }
   ],
   "doh": [
