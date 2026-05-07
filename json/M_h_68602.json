@@ -35,43 +35,6 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://fastlink.cokey.xyz/f/pm88tj/%E8%8A%92%E6%9E%9C.js"
-    },
-    {
-      "key": "csp_iqiyi",
-      "name": "超清线路1",
-      "type": 3,
-      "api": "csp_iqiyi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./琪琪家.jar"
-    },
-    {
-      "key": "csp_mgtv",
-      "name": "超清线路2",
-      "type": 3,
-      "api": "csp_mgtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./果果家.jar"
-    },
-    {
-      "key": "csp-youku",
-      "name": "超清线路3",
-      "type": 3,
-      "api": "csp_youku",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./库库家.jar"
-    },
-    {
-      "key": "爱腾讯",
-      "name": "超清线路4",
-      "type": 3,
-      "api": "./drpy2.min.js",
-      "ext": "./qq.js"
     }
   ],
   "doh": [
