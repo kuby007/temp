@@ -242,16 +242,6 @@
       "url": "https://jx.hls.one/?url="
     },
     {
-      "name": "77",
-      "type": 0,
-      "url": "https://jx.77flv.cc/?url="
-    },
-    {
-      "name": "A6",
-      "type": 0,
-      "url": "https://pl.a6club.com/player/analysis.php?v="
-    },
-    {
       "name": "8090",
       "type": 0,
       "url": "https://www.8090g.cn/?url="
@@ -272,27 +262,7 @@
       "url": "https://bd.jx.cn/?url="
     },
     {
-      "name": "XY",
-      "type": 0,
-      "url": "https://jx.xymp4.cc/?url="
-    },
-    {
-      "name": "推荐",
-      "type": 1,
-      "url": "https://zy.qiaoji8.com/gouzi.php?url=94b07e0b2c0e8244&url="
-    },
-    {
-      "name": "臻享",
-      "type": 1,
-      "url": "https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url="
-    },
-    {
-      "name": "优选",
-      "type": 1,
-      "url": "http://1.94.221.189:88/algorithm.php?url="
-    },
-    {
-      "name": "hd解析①",
+      "name": "hd解析1",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -302,17 +272,7 @@
       }
     },
     {
-      "name": "hd解析②",
-      "type": 0,
-      "url": "https://jx.nnxv.cn/tv.php?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
-    {
-      "name": "hd解析③",
+      "name": "hd解析2",
       "type": 0,
       "url": "https://jx.m3u8.tv/jiexi/?url=",
       "ext": {
@@ -322,19 +282,9 @@
       }
     },
     {
-      "name": "hd解析④",
+      "name": "hd解析3",
       "type": 0,
       "url": "https://www.ckplayer.vip/jiexi/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
-    {
-      "name": "hd解析⑤",
-      "type": 0,
-      "url": "https://okjx.cc/?url=",
       "ext": {
         "header": {
           "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
