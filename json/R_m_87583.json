@@ -8,6 +8,17 @@
       "searchable": 0
     },
     {
+      "key": "天天",
+      "name": "⭐️天天✨影视⭐️",
+      "type": 3,
+      "api": "csp_TTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://tv.shuiluobo.sbs/lib/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext": "7lj763gg0939791h1l3888jig44gi291li"
+    },
+    {
       "key": "hajim星辰影院",
       "name": "⭐️星辰✨影视⭐️",
       "type": 3,
@@ -28,27 +39,13 @@
       "ext": "https://xiaobai.8080x.eu.org/js/芒果视频.js"
     },
     {
-      "key": "热播影视",
-      "name": "🌱热播✨影视🌱",
+      "key": "919体育",
+      "name": "⭐️919✨体育⭐️",
       "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.rbotv.cn"
+      "api": "csp_919TY",
+      "style": {
+        "type": "list"
       }
-    },
-    {
-      "key": "天天",
-      "name": "天天┃影视",
-      "type": 3,
-      "api": "csp_TTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://tv.shuiluobo.sbs/lib/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "ext": "7lj763gg0939791h1l3888jig44gi291li"
     }
   ],
   "parses": [
