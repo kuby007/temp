@@ -37,15 +37,6 @@
       "type": 3,
       "api": "https://xiaobai.8080x.eu.org/js/drpy2.min.js",
       "ext": "https://xiaobai.8080x.eu.org/js/芒果视频.js"
-    },
-    {
-      "key": "919体育",
-      "name": "⭐️919✨体育⭐️",
-      "type": 3,
-      "api": "csp_919TY",
-      "style": {
-        "type": "list"
-      }
     }
   ],
   "parses": [
