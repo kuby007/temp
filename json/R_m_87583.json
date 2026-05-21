@@ -14,7 +14,7 @@
     },
     {
       "key": "天天",
-      "name": "✨天天✨影视✨",
+      "name": "✨天天影视✨",
       "type": 3,
       "api": "csp_TTian",
       "searchable": 1,
@@ -25,7 +25,7 @@
     },
     {
       "key": "hajim星辰影院",
-      "name": "✨星辰✨影视✨",
+      "name": "✨星辰影视✨",
       "type": 3,
       "api": "http://rihou.cc:88/js/星辰影院.js"
     },
@@ -45,7 +45,7 @@
     },
     {
       "key": "橘汁",
-      "name": "✨橘汁✨影视✨",
+      "name": "✨橘汁影视✨",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -65,19 +65,19 @@
     },
     {
       "key": "fy",
-      "name": "✨枫叶✨影视✨",
+      "name": "✨枫叶影视✨",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py"
     },
     {
       "key": "三秋影视",
-      "name": "✨三秋✨影视✨",
+      "name": "✨三秋影视✨",
       "type": 3,
       "api": "csp_App3Q"
     },
     {
       "key": "919体育",
-      "name": "✨体育✨点播✨",
+      "name": "✨体育点播✨",
       "type": 3,
       "api": "csp_919TY",
       "style": {
