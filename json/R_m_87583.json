@@ -1,15 +1,20 @@
 {
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+  "wallpaper": "https://wp.upx8.com/api.php",
+  "lives": [],
   "sites": [
     {
       "key": "豆瓣",
-      "name": "☘️防失联加Q群:719390643☘️",
+      "name": "防失联加Q群:719390643",
       "type": 3,
       "api": "csp_Douban",
-      "searchable": 0
+      "searchable": 0,
+      "changeable": 1,
+      "ext": "https://tv.shuiluobo.sbs/lib/douban.json"
     },
     {
       "key": "天天",
-      "name": "✨天天影视✨",
+      "name": "✨天天✨影视✨",
       "type": 3,
       "api": "csp_TTian",
       "searchable": 1,
@@ -20,7 +25,7 @@
     },
     {
       "key": "hajim星辰影院",
-      "name": "✨星辰影院✨",
+      "name": "✨星辰✨影视✨",
       "type": 3,
       "api": "http://rihou.cc:88/js/星辰影院.js"
     },
@@ -37,6 +42,47 @@
       "type": 3,
       "api": "https://xiaobai.8080x.eu.org/js/drpy2.min.js",
       "ext": "https://xiaobai.8080x.eu.org/js/芒果视频.js"
+    },
+    {
+      "key": "橘汁",
+      "name": "✨橘汁✨影视✨",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "橘汁",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+        "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.lxf.snzlcgtzxyx",
+        "host": "",
+        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+        "version": "3.0.2.1",
+        "decrypt": "1"
+      }
+    },
+    {
+      "key": "fy",
+      "name": "✨枫叶✨影视✨",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py"
+    },
+    {
+      "key": "三秋影视",
+      "name": "✨三秋✨影视✨",
+      "type": 3,
+      "api": "csp_App3Q"
+    },
+    {
+      "key": "919体育",
+      "name": "✨体育✨点播✨",
+      "type": 3,
+      "api": "csp_919TY",
+      "style": {
+        "type": "list"
+      }
     }
   ],
   "parses": [
@@ -64,6 +110,81 @@
           "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
         }
       }
+    }
+  ],
+  "rules": [
+    {
+      "name": "农民",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "火山",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "抖音",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "磁力广告",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "更多",
+        "请访问",
+        "example",
+        "社 區",
+        "x u u",
+        "直 播",
+        "更 新",
+        "社 区",
+        "有趣",
+        "有 趣",
+        "英皇体育",
+        "全中文AV在线",
+        "澳门皇冠赌场",
+        "哥哥快来",
+        "美女荷官",
+        "裸聊",
+        "新片首发",
+        "UUE29"
+      ]
+    },
+    {
+      "name": "饭团点击",
+      "hosts": [
+        "dadagui",
+        "freeok",
+        "dadagui"
+      ],
+      "script": [
+        "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();"
+      ]
+    },
+    {
+      "name": "毛驴点击",
+      "hosts": [
+        "www.maolvys.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"
+      ]
     }
   ],
   "doh": [
@@ -110,17 +231,40 @@
       ]
     }
   ],
-  "ads": [
-    "mozai.4gtv.tv"
-  ],
-  "lives": [
-    {
-      "name": "盛世自营",
-      "type": 0,
-      "url": "https://ds65.tv1288.xyz",
-      "playerType": 2,
-      "timeout": 10
-    }
+  "flags": [
+    "youku",
+    "优酷",
+    "优 酷",
+    "优酷视频",
+    "qq",
+    "腾讯",
+    "腾 讯",
+    "腾讯视频",
+    "iqiyi",
+    "qiyi",
+    "奇艺",
+    "爱奇艺",
+    "爱 奇 艺",
+    "m1905",
+    "xigua",
+    "letv",
+    "leshi",
+    "乐视",
+    "乐 视",
+    "sohu",
+    "搜狐",
+    "搜 狐",
+    "搜狐视频",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "芒果",
+    "imgo",
+    "芒果TV",
+    "芒 果 T V",
+    "bilibili",
+    "哔 哩",
+    "哔 哩 哔 哩"
   ],
   "ijk": [
     {
@@ -284,123 +428,7 @@
       ]
     }
   ],
-  "proxy": [
-    "raw.githubusercontent.com",
-    "googlevideo.com",
-    "cdn.v82u1l.com",
-    "cdn.iz8qkg.com",
-    "cdn.kin6c1.com",
-    "c.biggggg.com",
-    "c.olddddd.com",
-    "haiwaikan.com",
-    "www.histar.tv",
-    "youtube.com",
-    "uhibo.com",
-    ".*boku.*",
-    ".*nivod.*",
-    ".*ulivetv.*"
-  ],
-  "rules": [
-    {
-      "name": "cl",
-      "hosts": [
-        "magnet"
-      ],
-      "regex": [
-        "最 新",
-        "直 播",
-        "更 新"
-      ]
-    },
-    {
-      "name": "火山嗅探",
-      "hosts": [
-        "huoshan.com"
-      ],
-      "regex": [
-        "item_id="
-      ]
-    },
-    {
-      "name": "抖音嗅探",
-      "hosts": [
-        "douyin.com"
-      ],
-      "regex": [
-        "is_play_url="
-      ]
-    },
-    {
-      "name": "农民嗅探",
-      "hosts": [
-        "toutiaovod.com"
-      ],
-      "regex": [
-        "video/tos/cn"
-      ]
-    },
-    {
-      "name": "七新嗅探",
-      "hosts": [
-        "api.52wyb.com"
-      ],
-      "regex": [
-        "m3u8?pt=m3u8"
-      ]
-    },
-    {
-      "name": "夜市",
-      "hosts": [
-        "yeslivetv.com"
-      ],
-      "script": [
-        "document.getElementsByClassName('vjs-big-play-button')[0].click()"
-      ]
-    },
-    {
-      "name": "毛驴",
-      "hosts": [
-        "www.maolvys.com"
-      ],
-      "script": [
-        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
-      ]
-    },
-    {
-      "name": "czzy",
-      "hosts": [
-        "10086.cn"
-      ],
-      "regex": [
-        "/storageWeb/servlet/downloadServlet"
-      ]
-    },
-    {
-      "name": "bdys",
-      "hosts": [
-        "bytetos.com",
-        "byteimg.com",
-        "bytednsdoc.com",
-        "pstatp.com"
-      ],
-      "regex": [
-        "/tos-cn"
-      ],
-      "exclude": [
-        ".m3u8"
-      ]
-    },
-    {
-      "name": "bdys10",
-      "hosts": [
-        "bdys10.com"
-      ],
-      "regex": [
-        "/obj/"
-      ],
-      "exclude": [
-        ".m3u8"
-      ]
-    }
+  "ads": [
+    "static-mozai.4gtv.tv"
   ]
 }
