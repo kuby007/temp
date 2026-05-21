@@ -26,14 +26,14 @@
     },
     {
       "key": "腾讯视频",
-      "name": "🐧腾讯解析🐧",
+      "name": "🐧超级解析🐧",
       "type": 3,
       "api": "https://xiaobai.8080x.eu.org/js/drpy2.min.js",
       "ext": "https://xiaobai.8080x.eu.org/js/腾讯视频.js"
     },
     {
       "key": "芒果视频",
-      "name": "🥭芒果解析🥭",
+      "name": "🥭蓝光解析🥭",
       "type": 3,
       "api": "https://xiaobai.8080x.eu.org/js/drpy2.min.js",
       "ext": "https://xiaobai.8080x.eu.org/js/芒果视频.js"
