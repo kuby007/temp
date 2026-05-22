@@ -87,6 +87,11 @@
   ],
   "parses": [
     {
+      "name": "盛世4K",
+      "type": 1,
+      "url": "https://vip.jiexi.dpdns.org/?url="
+    },
+    {
       "name": "盛世自营1",
       "type": 1,
       "url": "https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url="
@@ -430,5 +435,11 @@
   ],
   "ads": [
     "static-mozai.4gtv.tv"
-  ]
+  ],
+  "dsites": [],
+  "dlives": [],
+  "drules": [],
+  "ddoh": [],
+  "dhosts": [],
+  "dads": []
 }
