@@ -37,12 +37,6 @@
       "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
-      "key": "hajim星辰影院",
-      "name": "✨星辰影视✨",
-      "type": 3,
-      "api": "http://rihou.cc:88/js/星辰影院.js"
-    },
-    {
       "key": "腾讯视频",
       "name": "🐧超级解析🐧",
       "type": 3,
@@ -89,14 +83,16 @@
       "api": "csp_App3Q"
     },
     {
-      "key": "csp_Gz360",
-      "name": "✨瓜子影视✨",
+      "key": "独播影视",
+      "name": "独播┃影视",
       "type": 3,
-      "timeout": 12,
-      "searchable": 1,
-      "quickSearch": 0,
-      "api": "csp_Gz360",
-      "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
+      "api": "csp_Duboku"
+    },
+    {
+      "key": "hajim星辰影院",
+      "name": "✨星辰影视✨",
+      "type": 3,
+      "api": "http://rihou.cc:88/js/星辰影院.js"
     },
     {
       "key": "919体育",
