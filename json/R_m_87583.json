@@ -1,7 +1,20 @@
 {
   "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
   "wallpaper": "https://wp.upx8.com/api.php",
-  "lives": [],
+  "lives": [
+    {
+      "name": "平台直播",
+      "type": 0,
+      "url": "http://47.120.41.246:8025/vip/jar/zb.php",
+      "playerType": 1
+    },
+    {
+      "name": "港澳台",
+      "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk",
+      "playerType": 1
+    }
+  ],
   "sites": [
     {
       "key": "豆瓣",
