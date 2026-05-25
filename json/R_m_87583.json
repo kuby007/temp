@@ -77,10 +77,12 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py"
     },
     {
-      "key": "三秋影视",
+      "key": "3QQQ",
       "name": "✨三秋影视✨",
       "type": 3,
-      "api": "csp_App3Q"
+      "timeout": 15,
+      "api": "csp_App3Q",
+      "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
     },
     {
       "key": "独播影视",
@@ -127,6 +129,11 @@
     },
     {
       "name": "盛世自营3",
+      "type": 1,
+      "url": "http://niubi.69mini.com/api/?key=h28y9WWIgO2BU25bpW&url="
+    },
+    {
+      "name": "盛世自营4",
       "type": 0,
       "url": "http://www.ckplayer.vip/jiexi/?url=",
       "ext": {
