@@ -40,15 +40,15 @@
       "key": "腾讯视频",
       "name": "🐧超级解析🐧",
       "type": 3,
-      "api": "https://xiaobai.8080x.eu.org/js/drpy2.min.js",
-      "ext": "https://xiaobai.8080x.eu.org/js/腾讯视频.js"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
     },
     {
       "key": "芒果视频",
       "name": "🥭蓝光解析🥭",
       "type": 3,
-      "api": "https://xiaobai.8080x.eu.org/js/drpy2.min.js",
-      "ext": "https://xiaobai.8080x.eu.org/js/芒果视频.js"
+      "api": "https://qist.swsixtwo.top/lib/drpy2.min.js",
+      "ext": "  https://qist.swsixtwo.top/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"
     },
     {
       "key": "橘汁",
@@ -129,8 +129,13 @@
     },
     {
       "name": "盛世自营3",
-      "type": 1,
-      "url": "http://niubi.69mini.com/api/?key=h28y9WWIgO2BU25bpW&url="
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
     },
     {
       "name": "盛世自营4",
