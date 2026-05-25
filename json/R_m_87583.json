@@ -58,11 +58,11 @@
       "ext": "https://qist.swsixtwo.top/js/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js"
     },
     {
-      "key": "drpy_js_优酷",
-      "name": "✨优酷✨",
+      "key": "腾讯视频",
+      "name": "✨腾讯解析✨",
       "type": 3,
-      "api": "https://qist.swsixtwo.top/lib/drpy2.min.js",
-      "ext": "https://qist.swsixtwo.top/js/%E4%BC%98%E9%85%B7.js"
+      "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/TXSP.js"
     },
     {
       "key": "橘汁",
