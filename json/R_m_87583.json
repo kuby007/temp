@@ -84,14 +84,6 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py"
     },
     {
-      "key": "3QQQ",
-      "name": "✨三秋影视✨",
-      "type": 3,
-      "timeout": 15,
-      "api": "csp_App3Q",
-      "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
-    },
-    {
       "key": "独播影视",
       "name": "✨独播影视✨",
       "type": 3,
