@@ -3,16 +3,18 @@
   "wallpaper": "https://wp.upx8.com/api.php",
   "lives": [
     {
-      "name": "平台直播",
+      "name": "Kimentanm",
       "type": 0,
-      "url": "http://47.120.41.246:8025/vip/jar/zb.php",
-      "playerType": 1
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "playerType": 2
     },
     {
-      "name": "港澳台",
+      "name": "develop202",
       "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk",
-      "playerType": 1
+      "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "playerType": 2,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "sites": [
