@@ -3,12 +3,6 @@
   "wallpaper": "https://wp.upx8.com/api.php",
   "lives": [
     {
-      "name": "Kimentanm",
-      "type": 0,
-      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "playerType": 2
-    },
-    {
       "name": "develop202",
       "type": 0,
       "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
