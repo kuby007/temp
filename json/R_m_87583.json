@@ -3,9 +3,11 @@
   "wallpaper": "https://wp.upx8.com/api.php",
   "lives": [
     {
-      "name": "澜露TV",
+      "name": "live",
       "type": 0,
-      "url": "http://zoto.3d.tc/i/i/hulanlu.txt"
+      "url": "http://mg.cttv.vip/index.php/m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://www.cttv.vip/ys/images/{name}.png"
     }
   ],
   "sites": [
@@ -19,12 +21,14 @@
       "ext": "https://tv.shuiluobo.sbs/lib/douban.json"
     },
     {
-      "key": "高清资源",
+      "key": "盛世",
       "name": "✨盛世自营✨",
-      "type": 1,
-      "api": "http://pg.cttv.vip/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar",
+      "ext": {
+        "分类url": "https://www.belitv.com/"
+      }
     },
     {
       "key": "天天",
@@ -97,13 +101,53 @@
       "api": "http://rihou.cc:88/js/星辰影院.js"
     },
     {
-      "key": "柠檬",
-      "name": "✨柠檬影视✨",
+      "key": "可可影视",
+      "name": "✨可可影视✨",
       "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "https://tv.shuiluobo.sbs/lib/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+      "api": "csp_XBPQ",
+      "jar": "./jar/1118.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#{{曲奇-c}}",
+        "特殊": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "曲-c": "https://www.kkys04.com/渲染目标:/name=\"t\".*?value=\"(.*?)\"/请求头(特殊)[工具:渲染#url]",
+        "曲奇-c": "{{曲-c}}[工具:返回{{奇-c}}]",
+        "奇-c": "{{响应头}}[工具:Cookie$⊕set-cookie=\\[截取\\]]",
+        "域名-c": "https://www.kkys04.com",
+        "主页url": "https://www.kkys04.com",
+        "数组": "<div class=\"module-item\">&&</a>",
+        "标题": "<div class=\"v-item-title\">&&</div>",
+        "副标题": "<span>&&</span>[不含:可可]",
+        "图片": "{{二-c}}+data-original=\"&&\"[不含:http]",
+        "链接": "href=\"&&\"",
+        "影片年代": "class=\"detail-tags-item\">&&</a>",
+        "影片地区": "class=\"detail-tags-item\">&&</a>[含序号:2]",
+        "影片类型": "class=\"detail-tags-item\">&&</a>[含序号:3]",
+        "导演": "导演*</div>&&</div>",
+        "主演": "演员*</div>&&</div>",
+        "简介": "detail-desc\">&&</div>",
+        "线路数组": "<span class=\"source-item-label&&/span>[不含:4K(]",
+        "线路标题": ">&&<",
+        "播放数组": "<div class=\"episode-list&&</div>",
+        "播放列表": "&&分割(<a)",
+        "播放标题": ">&&<",
+        "播放链接": "href=\"&&\"",
+        "跳转播放链接": "const playSource = {*src*\"&&\"||TMDPPPP = '&&'[工具:解aes-Isu7fOAvI6!&IKpAbVdhf&^F]",
+        "过滤词": "baidu.com",
+        "搜索url": "{{域名-c}}/search?t={{曲-c}}&k={wd}",
+        "搜索二次截取": "<div class=\"search-result-list&&<div class=\"pagenation-box",
+        "搜索数组": "<a&&</a>",
+        "搜索标题": "title=\"&&\"",
+        "搜索副标题": "<div class=\"tags\">&&</div>",
+        "搜索图片": "{{二-c}}+data-original=\"&&\"[不含:http]",
+        "搜索链接": "href=\"&&\"",
+        "分类url": "{{域名-c}}/show/{cateId}-----{by}-{catePg}.html;;ad0m0s0xn",
+        "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$6",
+        "排序": "综合$1#最新$2#最热$3#评分$4",
+        "二-c": "<script src=\"&&\"[包含:rdul][工具:源码#'截取'∬\"截取\"]"
+      }
     },
     {
       "key": "919体育",
