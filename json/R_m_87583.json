@@ -3,9 +3,9 @@
   "wallpaper": "https://wp.upx8.com/api.php",
   "lives": [
     {
-      "name": "📡猫影直播",
+      "name": "📡小哥哥直播",
       "type": 0,
-      "url": "https://iptv.catvod.com/tv.m3u",
+      "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
       "ua": "okHttp/Mod-1.2.0.1"
     }
   ],
