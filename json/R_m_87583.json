@@ -3,11 +3,10 @@
   "wallpaper": "https://wp.upx8.com/api.php",
   "lives": [
     {
-      "name": "live",
+      "name": "📡猫影直播",
       "type": 0,
-      "url": "http://mg.cttv.vip/index.php/m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://www.cttv.vip/ys/images/{name}.png"
+      "url": "https://iptv.catvod.com/tv.m3u",
+      "ua": "okHttp/Mod-1.2.0.1"
     }
   ],
   "sites": [
