@@ -3,11 +3,9 @@
   "wallpaper": "https://wp.upx8.com/api.php",
   "lives": [
     {
-      "name": "live",
+      "name": "澜露TV",
       "type": 0,
-      "url": "http://mg.cttv.vip/index.php/m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://www.cttv.vip/ys/images/{name}.png"
+      "url": "http://zoto.3d.tc/i/i/hulanlu.txt"
     }
   ],
   "sites": [
