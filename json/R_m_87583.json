@@ -3,10 +3,11 @@
   "wallpaper": "https://wp.upx8.com/api.php",
   "lives": [
     {
-      "name": "📡小哥哥直播",
+      "name": "live",
       "type": 0,
-      "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
-      "ua": "okHttp/Mod-1.2.0.1"
+      "url": "http://mg.cttv.vip/index.php/m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://www.cttv.vip/ys/images/{name}.png"
     }
   ],
   "sites": [
