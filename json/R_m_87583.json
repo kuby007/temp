@@ -99,13 +99,11 @@
       "api": "http://rihou.cc:88/js/星辰影院.js"
     },
     {
-      "key": "柠檬",
-      "name": "✨柠檬影视✨",
+      "key": "欧乐影视",
+      "name": "✨欧乐影视✨",
       "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "https://tv.shuiluobo.sbs/lib/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+      "api": "csp_XBPQ",
+      "ext": "./js/s/欧乐.json"
     },
     {
       "key": "919体育",
