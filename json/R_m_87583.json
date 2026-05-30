@@ -21,12 +21,17 @@
       "ext": "https://tv.shuiluobo.sbs/lib/douban.json"
     },
     {
-      "key": "高清资源",
+      "key": "首发",
       "name": "✨盛世自营✨",
-      "type": 1,
-      "api": "http://pg.cttv.vip/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+      "ext": {
+        "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt",
+        "key": "FTgP4Gq8zPiqbt7M",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
     },
     {
       "key": "天天",
@@ -99,24 +104,13 @@
       "api": "http://rihou.cc:88/js/星辰影院.js"
     },
     {
-      "key": "华谊",
-      "name": "✨华谊影视✨",
+      "key": "瓜子影视",
+      "name": "✨瓜子影视✨",
       "type": 3,
-      "api": "csp_AppDrama",
+      "api": "csp_Gz360",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "华谊",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
-        "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.muyue.tool",
-        "host": "",
-        "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
-        "version": "1.0.0.4",
-        "decrypt": "1"
-      }
+      "filterable": 1
     },
     {
       "key": "919体育",
