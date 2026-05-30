@@ -43,15 +43,15 @@
       "key": "腾讯视频",
       "name": "🐧超级解析🐧",
       "type": 3,
-      "api": "https://qist.swsixtwo.top/lib/drpy2.min.js",
-      "ext": " https://qist.swsixtwo.top/js/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js"
+      "api": "https://xiaobai.8080x.eu.org/js/drpy2.min.js",
+      "ext": "https://xiaobai.8080x.eu.org/js/腾讯视频.js"
     },
     {
       "key": "芒果视频",
       "name": "🥭蓝光解析🥭",
       "type": 3,
-      "api": "https://qist.swsixtwo.top/lib/drpy2.min.js",
-      "ext": "  https://qist.swsixtwo.top/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"
+      "api": "https://xiaobai.8080x.eu.org/js/drpy2.min.js",
+      "ext": "https://xiaobai.8080x.eu.org/js/芒果视频.js"
     },
     {
       "key": "drpy_js_奇艺",
