@@ -45,18 +45,18 @@
       "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
-      "key": "腾讯视频",
-      "name": "🐧超级解析🐧",
+      "key": "藤藤",
+      "name": "🐧藤藤解析🐧",
       "type": 3,
-      "api": "https://xiaobai.8080x.eu.org/js/drpy2.min.js",
-      "ext": "https://xiaobai.8080x.eu.org/js/腾讯视频.js"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/%E8%97%A4%E8%97%A4.png"
     },
     {
-      "key": "芒果视频",
-      "name": "🥭蓝光解析🥭",
+      "key": "茫茫",
+      "name": "🥭茫茫解析🥭",
       "type": 3,
-      "api": "https://xiaobai.8080x.eu.org/js/drpy2.min.js",
-      "ext": "https://xiaobai.8080x.eu.org/js/芒果视频.js"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/%E8%8C%AB%E8%8C%AB.png"
     },
     {
       "key": "drpy_js_奇艺",
@@ -111,20 +111,6 @@
       "playerType": 2,
       "jar": "https://tv.shuiluobo.sbs/lib/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-    },
-    {
-      "key": "藤藤",
-      "name": "✨藤藤┃4K测试✨",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/%E8%97%A4%E8%97%A4.png"
-    },
-    {
-      "key": "茫茫",
-      "name": "✨茫茫┃4K测试✨",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/%E8%8C%AB%E8%8C%AB.png"
     },
     {
       "key": "919体育",
