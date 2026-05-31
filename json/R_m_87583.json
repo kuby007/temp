@@ -113,28 +113,28 @@
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
-      "key": "云腾酷酷1",
-      "name": "腾讯",
+      "key": "hipy_js_腾云驾雾[官]",
+      "name": "✨腾讯备用✨",
       "type": 3,
+      "api": "http://125.208.22.184:6698/uploads/tvbox/jsguan/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "playerType": 3,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "changeable": 0,
-      "api": "http://8.137.159.77:399/sf/Tvbox/js/drpy2.min.js",
-      "ext": "http://8.137.159.77:399/sf/js/t.js"
+      "ext": "http://125.208.22.184:6698/uploads/tvbox/js/腾云驾雾[官].js"
     },
     {
-      "key": "芒果自家2",
-      "name": "芒果",
+      "key": "hipy_js_百忙无果[官]",
+      "name": "✨芒果备用✨",
       "type": 3,
+      "api": "http://125.208.22.184:6698/uploads/tvbox/jsguan/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "playerType": 3,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "changeable": 0,
-      "api": "http://8.137.159.77:399/sf/Tvbox/js/drpy2.min.js",
-      "ext": "http://8.137.159.77:399/sf/js/m.js"
+      "ext": "http://125.208.22.184:6698/uploads/tvbox/js/百忙无果[官].js"
     },
     {
       "key": "919体育",
