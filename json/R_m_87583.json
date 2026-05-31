@@ -113,28 +113,21 @@
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "✨腾讯备用✨",
+      "key": "3QQQ",
+      "name": "✨三秋影视✨",
       "type": 3,
-      "api": "http://125.208.22.184:6698/uploads/tvbox/jsguan/drpy_dzlive/drpy_libs/drpy2.min.js",
-      "playerType": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "http://125.208.22.184:6698/uploads/tvbox/js/腾云驾雾[官].js"
+      "timeout": 15,
+      "api": "csp_App3Q",
+      "jar": "https://cdn2.wemiaow.com/20260401232042-14-Vwa30U.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3"
     },
     {
-      "key": "hipy_js_百忙无果[官]",
-      "name": "✨芒果备用✨",
+      "key": "csp_Gz360",
+      "name": "✨瓜子影视✨",
       "type": 3,
-      "api": "http://125.208.22.184:6698/uploads/tvbox/jsguan/drpy_dzlive/drpy_libs/drpy2.min.js",
-      "playerType": 3,
+      "api": "csp_Gz360",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "http://125.208.22.184:6698/uploads/tvbox/js/百忙无果[官].js"
+      "changeable": 1,
+      "jar": "https://tv.菜妮丝.top/jar/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
     },
     {
       "key": "919体育",
