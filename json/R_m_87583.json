@@ -1,6 +1,7 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
-  "wallpaper": "https://wp.upx8.com/api.php",
+  "spider": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260601/UKqz/0X0/fish06010438.png;md5;124cb08082cc9c86634aa49586257a9a",
+  "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
+  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "lives": [
     {
       "name": "live",
@@ -12,13 +13,14 @@
   ],
   "sites": [
     {
-      "key": "豆瓣",
+      "key": "Douban",
       "name": "防失联加Q群:719390643",
       "type": 3,
-      "api": "csp_Douban",
+      "api": "csp_DoubanFishGuard",
+      "indexs": 1,
       "searchable": 0,
-      "changeable": 1,
-      "ext": "https://tv.shuiluobo.sbs/lib/douban.json"
+      "filterable": 1,
+      "ext": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/2026/douban.json"
     },
     {
       "key": "首发",
