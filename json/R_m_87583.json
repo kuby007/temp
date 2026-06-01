@@ -118,16 +118,6 @@
       "url": "Web"
     },
     {
-      "name": "轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
-    {
-      "name": "Json并发",
-      "type": 2,
-      "url": "Parallel"
-    },
-    {
       "name": "盛世VIP",
       "type": 1,
       "url": "https://json2.hgyx.vip/home/api?type=ys&uid=2941923&key=efghjlsxABEFHIKMOZ&url=",
@@ -138,9 +128,11 @@
     {
       "name": "解析01",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "header": {
-        "User-Agent": "Dart/2.14 (dart:io)"
+      "url": "https://jx.77flv.cc/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
       }
     },
     {
@@ -176,7 +168,7 @@
     {
       "name": "解析03",
       "type": 0,
-      "url": "https://www.pangujiexi.com/pangu/?url="
+      "url": "https://vip.jiexi.dpdns.org/?url="
     },
     {
       "name": "解析04",
@@ -186,12 +178,22 @@
     {
       "name": "解析05",
       "type": 0,
-      "url": "https://www.8090.la/8090/?url="
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
     },
     {
       "name": "解析06",
       "type": 0,
-      "url": "https://dmjx.m3u8.tv/?url="
+      "url": "https://yparse.ik9.cc/index.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
     }
   ],
   "flags": [
