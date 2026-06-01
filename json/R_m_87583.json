@@ -34,10 +34,10 @@
       }
     },
     {
-      "key": "热播影视",
+      "key": "Rebo",
       "name": "✨天天影视✨",
       "type": 3,
-      "api": "csp_AppRJ",
+      "api": "csp_AppRJFishGuard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
