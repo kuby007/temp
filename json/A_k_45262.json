@@ -133,7 +133,7 @@
     {
       "name": "秒解3",
       "type": 1,
-      "url": "https://api.wsyzy.net/api.php/provide/vod/?ac=list"
+      "url": "https://json.cfysoft.cc/api/?key=6294df9ba1f2c6da489bd78fdd9f6d46&url="
     },
     {
       "name": "蓝光1",
