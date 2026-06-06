@@ -429,12 +429,15 @@
   ],
   "lives": [
     {
-      "name": "盛世",
-      "url": "https://gitee.com/OscarWilde/itv/raw/master/tv.txt"
+      "url": "http://47.120.41.246:8025/vip/jar/zb.php",
+      "name": "盛世直播"
     },
     {
-      "url": "http://47.120.41.246:8025/vip/jar/zb.php",
-      "name": "平台直播"
+      "name": "直播",
+      "type": 0,
+      "url": "http://mg.cttv.vip/index.php/m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://www.cttv.vip/ys/images/{name}.png"
     }
   ],
   "parses": [
