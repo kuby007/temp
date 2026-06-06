@@ -191,41 +191,6 @@
       "playerType": 2
     },
     {
-      "key": "魔都资源",
-      "name": "魔都┃资源",
-      "type": 1,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "短剧",
-        "国产剧",
-        "大陆综艺",
-        "国产动漫",
-        "动作",
-        "喜剧",
-        "网络电影",
-        "恐怖",
-        "惊悚",
-        "爱情",
-        "剧情",
-        "战争",
-        "冒险",
-        "韩国剧",
-        "台湾剧剧",
-        "日本剧",
-        "欧美剧",
-        "泰国剧",
-        "日本动漫",
-        "欧美动漫",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ],
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/spider.jar"
-    },
-    {
       "key": "王子",
       "name": "王子┃影视",
       "type": 3,
@@ -373,14 +338,39 @@
       "jar": "https://cn.oilgasgpts.com/resource/profile/2026/05/18/NJ4ZWwg7_20260518095827A465.jpg"
     },
     {
-      "key": "暴风采集",
-      "name": "暴风┃采集",
+      "key": "魔都资源",
+      "name": "魔都┃资源",
       "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/",
-      "style": {
-        "ratio": 1.7
-      },
-      "jar": "https://gitee.com/KYSY1/dyy/raw/master/bh2601251.jar"
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "短剧",
+        "国产剧",
+        "大陆综艺",
+        "国产动漫",
+        "动作",
+        "喜剧",
+        "网络电影",
+        "恐怖",
+        "惊悚",
+        "爱情",
+        "剧情",
+        "战争",
+        "冒险",
+        "韩国剧",
+        "台湾剧剧",
+        "日本剧",
+        "欧美剧",
+        "泰国剧",
+        "日本动漫",
+        "欧美动漫",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ],
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/spider.jar"
     },
     {
       "key": "率率",
@@ -416,15 +406,6 @@
       "type": 3,
       "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
       "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/CJZW.js?type=url&params=https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/CJJT.json$1$1"
-    },
-    {
-      "key": "919体育",
-      "name": "919┃体育",
-      "type": 3,
-      "api": "csp_919TY",
-      "style": {
-        "type": "list"
-      }
     }
   ],
   "lives": [
