@@ -673,7 +673,7 @@
       "name": "盛世直播"
     },
     {
-      "name": "直播",
+      "name": "平台直播",
       "type": 0,
       "url": "http://mg.cttv.vip/index.php/m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
