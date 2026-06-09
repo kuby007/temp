@@ -11,6 +11,21 @@
       "searchable": 0
     },
     {
+      "key": "盛世影视",
+      "name": "盛世┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/hulanlu/04/raw/master/jar/XBPQ.jar",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+        "分类url": "https://rrys.lv/k/{cateId}--------{catePg}---/",
+        "线路标题": "盛世影视",
+        "简介": "水印广告勿信，谨防诈骗"
+      }
+    },
+    {
       "key": "天天",
       "name": "天天┃影视",
       "type": 3,
