@@ -320,6 +320,15 @@
       "type": 3,
       "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
       "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/CJZW.js?type=url&params=https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/CJJT.json$1$1"
+    },
+    {
+      "key": "919体育",
+      "name": "919┃体育",
+      "type": 3,
+      "api": "csp_919TY",
+      "style": {
+        "type": "list"
+      }
     }
   ],
   "parses": [
