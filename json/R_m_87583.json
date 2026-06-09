@@ -70,15 +70,10 @@
       "jar": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/spider.jar"
     },
     {
-      "key": "柠檬",
-      "name": "柠檬┃影视",
+      "key": "hajim星辰影院",
+      "name": "⭐️星辰✨影视⭐️",
       "type": 3,
-      "jar": "https://gongdian.top/fongmi/qj260315.jar",
-      "api": "csp_Nmvod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+      "api": "http://rihou.cc:88/js/星辰影院.js"
     },
     {
       "key": "藤藤",
