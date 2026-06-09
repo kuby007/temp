@@ -314,66 +314,19 @@
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "短剧",
         "国产剧",
-        "大陆综艺",
-        "国产动漫",
         "动作",
         "喜剧",
-        "网络电影",
         "恐怖",
         "惊悚",
         "爱情",
         "剧情",
         "战争",
         "冒险",
-        "韩国剧",
-        "台湾剧剧",
-        "日本剧",
-        "欧美剧",
-        "泰国剧",
         "日本动漫",
-        "欧美动漫",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
+        "欧美动漫"
       ],
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/spider.jar"
-    },
-    {
-      "key": "率率",
-      "name": "率率┃采集",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "韩剧",
-        "日剧",
-        "港剧",
-        "台剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "战争片",
-        "恐怖片",
-        "剧情片",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "大陆综艺",
-        "日韩综艺"
-      ]
-    },
-    {
-      "key": "采集之王",
-      "name": "采集┃合集",
-      "type": 3,
-      "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
-      "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/CJZW.js?type=url&params=https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/CJJT.json$1$1"
     }
   ],
   "parses": [
