@@ -87,18 +87,18 @@
       "jar": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/spider.jar"
     },
     {
-      "key": "藤藤",
+      "key": "dr_qq",
       "name": "藤藤┃随缘",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
+      "api": "./libs/js/drpy2.min.js",
+      "ext": "./libs/js/qq.js"
     },
     {
-      "key": "茫茫",
+      "key": "dr_mgtv",
       "name": "茫茫┃随缘",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/%E8%8C%AB%E8%8C%AB.png"
+      "api": "./libs/js/drpy2.min.js",
+      "ext": "./libs/js/mgtv.js"
     },
     {
       "key": "橙子99",
