@@ -87,18 +87,18 @@
       "jar": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/spider.jar"
     },
     {
-      "key": "dr_qq",
+      "key": "dr_腾云驾雾",
       "name": "藤藤┃随缘",
       "type": 3,
       "api": "./libs/js/drpy2.min.js",
-      "ext": "./libs/js/qq.js"
+      "ext": "./libs/js/腾云驾雾.js"
     },
     {
-      "key": "dr_mgtv",
+      "key": "dr_百忙无果",
       "name": "茫茫┃随缘",
       "type": 3,
       "api": "./libs/js/drpy2.min.js",
-      "ext": "./libs/js/mgtv.js"
+      "ext": "./libs/js/百忙无果.js"
     },
     {
       "key": "橙子99",
