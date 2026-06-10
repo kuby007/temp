@@ -1,6 +1,7 @@
 {
   "spider": "https://tv.shuiluobo.sbs/lib/9c8e4-b797010b-366e-48f9-86b6-16be897c90c2.png;md5;9c8e45f60d3d413d8b140ec21811deb0",
   "wallpaper": "",
+  "warningText": "资源来自网络，水印广告勿信，谨防诈骗。",
   "logo": "",
   "sites": [
     {
@@ -84,20 +85,6 @@
         "decrypt": "1"
       },
       "jar": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/spider.jar"
-    },
-    {
-      "key": "藤藤",
-      "name": "藤藤┃随缘",
-      "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
-    },
-    {
-      "key": "茫茫",
-      "name": "茫茫┃随缘",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/%E8%8C%AB%E8%8C%AB.png"
     },
     {
       "key": "橙子99",
