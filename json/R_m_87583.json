@@ -205,28 +205,6 @@
         "排序": "综合$1#最新$2#最热$3#评分$4",
         "二-c": "<script src=\"&&\"[包含:rdul][工具:源码#'截取'∬\"截取\"]"
       }
-    },
-    {
-      "key": "魔都资源",
-      "name": "魔都┃资源",
-      "type": 1,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产剧",
-        "动作片",
-        "喜剧片",
-        "恐怖片",
-        "惊悚片",
-        "犯罪片",
-        "剧情片",
-        "战争片",
-        "冒险片",
-        "欧美动漫"
-      ],
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/spider.jar"
     }
   ],
   "parses": [
