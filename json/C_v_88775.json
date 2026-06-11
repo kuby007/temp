@@ -227,6 +227,15 @@
         "欧美动漫"
       ],
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/spider.jar"
+    },
+    {
+      "key": "919体育",
+      "name": "919┃体育",
+      "type": 3,
+      "api": "csp_919TY",
+      "style": {
+        "type": "list"
+      }
     }
   ],
   "parses": [
