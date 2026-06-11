@@ -72,15 +72,6 @@
       "jar": "https://cn.oilgasgpts.com/resource/profile/2026/05/18/NJ4ZWwg7_20260518095827A465.jpg"
     },
     {
-      "key": "欧乐影院",
-      "name": "欧乐┃影院",
-      "type": 4,
-      "api": "https://py.doube.eu.org/spider?site=OleVod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "大师兄",
       "name": "大师兄┃影视",
       "type": 3,
