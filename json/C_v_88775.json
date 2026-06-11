@@ -82,6 +82,20 @@
       "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
     },
     {
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/腾讯视频.js",
+      "key": "爱腾讯",
+      "name": "官方┃腾讯",
+      "type": 3
+    },
+    {
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/芒果视频.js",
+      "key": "芒果视频",
+      "name": "官方┃芒果",
+      "type": 3
+    },
+    {
       "key": "大师兄",
       "name": "大师兄┃影视",
       "type": 3,
