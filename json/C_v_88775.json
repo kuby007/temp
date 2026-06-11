@@ -72,6 +72,16 @@
       "jar": "https://cn.oilgasgpts.com/resource/profile/2026/05/18/NJ4ZWwg7_20260518095827A465.jpg"
     },
     {
+      "key": "csp_Gz360",
+      "name": "瓜子┃影视",
+      "type": 3,
+      "timeout": 12,
+      "searchable": 1,
+      "quickSearch": 0,
+      "api": "csp_Gz360",
+      "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
+    },
+    {
       "key": "大师兄",
       "name": "大师兄┃影视",
       "type": 3,
@@ -222,42 +232,19 @@
       "url": "Web"
     },
     {
-      "name": "qiyi解析",
+      "name": "4K - API解析",
       "type": 1,
-      "url": "http://39.104.230.177:1122/lxjx/myyk.php?url="
+      "url": "http://niubi.69mini.com/api/?key=h28y9WWIgO2BU25bpW&url="
     },
     {
-      "name": "Json并发",
-      "type": 2,
-      "url": "Parallel"
+      "name": "YYNB解析",
+      "type": 1,
+      "url": "https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url="
     },
     {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
-    {
-      "name": "万能解析",
-      "type": 0,
-      "url": "https://vip.legendwhb.cn/m3u8.php?url=",
-      "ext": {
-        "flag": [
-          "ltnb",
-          "renrenmi",
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
+      "name": "YYNB解析2",
+      "type": 1,
+      "url": "https://json.cfysoft.cc/api/?key=6294df9ba1f2c6da489bd78fdd9f6d46&url="
     }
   ],
   "flags": [
