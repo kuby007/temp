@@ -503,11 +503,6 @@
       "url": "http://mg.cttv.vip/index.php/m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://www.cttv.vip/ys/images/{name}.png"
-    },
-    {
-      "name": "港澳台",
-      "type": 0,
-      "url": " https://php.946985.filegear-sg.me/jackTV.m3u"
     }
   ],
   "ijk": [
