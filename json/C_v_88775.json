@@ -72,6 +72,15 @@
       "jar": "https://cn.oilgasgpts.com/resource/profile/2026/05/18/NJ4ZWwg7_20260518095827A465.jpg"
     },
     {
+      "key": "欧乐影院",
+      "name": "欧乐┃影院",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=OleVod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "大师兄",
       "name": "大师兄┃影视",
       "type": 3,
@@ -503,6 +512,13 @@
       "url": "http://mg.cttv.vip/index.php/m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://www.cttv.vip/ys/images/{name}.png"
+    },
+    {
+      "name": "港澳台",
+      "type": 0,
+      "url": "http://110.185.171.226:93/dsch/gat.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "ijk": [
