@@ -38,17 +38,6 @@
       "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
-      "key": "天天",
-      "name": "秒播┃蓝光",
-      "type": 3,
-      "quickSearch": 1,
-      "searchable": 1,
-      "api": "csp_AppRJ",
-      "timeout": 12,
-      "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg=",
-      "jar": "https://cn.oilgasgpts.com/resource/profile/2026/05/18/NJ4ZWwg7_20260518095827A465.jpg"
-    },
-    {
       "key": "3QQQ",
       "name": "三秋┃蓝光",
       "type": 3,
@@ -89,6 +78,19 @@
       "searchable": 1,
       "quickSearch": 0,
       "api": "csp_Jpys"
+    },
+    {
+      "key": "热播影视",
+      "name": "热播┃影视",
+      "jar": "https://wp.kayyw.com/f/nOjVCX/%E7%83%AD%E6%92%AD%E8%B7%9F%E8%82%A56.jar",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
     },
     {
       "key": "大师兄",
