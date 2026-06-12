@@ -53,27 +53,6 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py"
     },
     {
-      "key": "XBPQ_映像",
-      "name": "映像┃蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "作者": "集多",
-        "编码": "UTF-8",
-        "请求头": "User-Agent$MOBILE_UA",
-        "播放请求头": "User-Agent$MOBILE_UA",
-        "首页": "120",
-        "起始页": "1",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "搜索模式": "1",
-        "分类url": "https://www.yxxq39.cc/",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-      }
-    },
-    {
       "key": "葫芦",
       "name": "葫芦┃影视",
       "type": 3,
@@ -228,6 +207,12 @@
         "排序": "综合$1#最新$2#最热$3#评分$4",
         "二-c": "<script src=\"&&\"[包含:rdul][工具:源码#'截取'∬\"截取\"]"
       }
+    },
+    {
+      "key": "独播影视",
+      "name": "独播┃影视",
+      "type": 3,
+      "api": "csp_Duboku"
     }
   ],
   "parses": [
