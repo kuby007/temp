@@ -53,23 +53,24 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py"
     },
     {
-      "key": "橘汁",
-      "name": "橘汁┃蓝光",
+      "key": "XBPQ_映像",
+      "name": "映像┃蓝光",
       "type": 3,
-      "api": "csp_AppDrama",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "appName": "橘汁",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-        "dataKey": "RTRTUJZWWMO0ZWV6EFBOSURNCTK4PQ==",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.tjjiangh.android",
-        "host": "",
-        "site": "https://vip.123pan.cn/1848463092/cct/az5.txt",
-        "version": "3.0.1.9",
-        "decrypt": "1"
+        "作者": "集多",
+        "编码": "UTF-8",
+        "请求头": "User-Agent$MOBILE_UA",
+        "播放请求头": "User-Agent$MOBILE_UA",
+        "首页": "120",
+        "起始页": "1",
+        "跳转播放链接": "var player_*\"url\":\"&&\"",
+        "搜索模式": "1",
+        "分类url": "https://www.yxxq39.cc/",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
     },
     {
