@@ -1,6 +1,6 @@
 {
-  "spider": "https://tv.shuiluobo.sbs/lib/9c8e4-b797010b-366e-48f9-86b6-16be897c90c2.png;md5;9c8e45f60d3d413d8b140ec21811deb0",
-  "wallpaper": "",
+  "spider": "./spider.jar",
+  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "",
   "sites": [
     {
