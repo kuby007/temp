@@ -22,7 +22,7 @@
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
         "分类url": "https://rrys.lv/k/{cateId}--------{catePg}---/",
         "线路标题": "盛世",
-        "简介": "勿信视频广告，谨防诈骗"
+        "简介": "勿信广告，谨防诈骗"
       }
     },
     {
@@ -126,23 +126,6 @@
       "api": "csp_AppV6",
       "ext": "http://172.247.227.203:25321/mtys.php",
       "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
-    },
-    {
-      "key": "枫叶电影",
-      "name": "叶子┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://wp.kayyw.com/f/bobgtv/%E5%B0%B1%E5%87%A0%E4%B8%AA.jar",
-      "ext": {
-        "副标题": "保护正版，人人有责",
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "主页url": "https://www.budaichuchen.net/label/qq.html",
-        "线路数组": "<i class=\"fa ds-dianying\">&&</span>",
-        "播放数组": "anthology-list-play size\">&&</ul>",
-        "分类url": "https://www.budaichuchen.net/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-      }
     },
     {
       "key": "猫头鹰",
