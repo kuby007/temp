@@ -1,7 +1,7 @@
 {
   "spider": "https://tv.shuiluobo.sbs/lib/9c8e4-b797010b-366e-48f9-86b6-16be897c90c2.png;md5;9c8e45f60d3d413d8b140ec21811deb0",
   "wallpaper": "",
-  "logo": "",
+  "logo": "https://jikefuye.cn/touxiang.jpg",
   "sites": [
     {
       "key": "豆瓣",
@@ -53,7 +53,7 @@
     },
     {
       "key": "极影",
-      "name": "奇迹云┃4K",
+      "name": "4K┃测试",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/jy.js",
       "searchable": 1,
@@ -63,7 +63,7 @@
     },
     {
       "key": "四叶草",
-      "name": "四叶草┃4K",
+      "name": "四叶草┃蓝光",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
       "ext": {
