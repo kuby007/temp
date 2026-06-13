@@ -207,6 +207,24 @@
         "排序": "综合$1#最新$2#最热$3#评分$4",
         "二-c": "<script src=\"&&\"[包含:rdul][工具:源码#'截取'∬\"截取\"]"
       }
+    },
+    {
+      "key": "Duboku",
+      "name": "独播┃影视",
+      "type": 3,
+      "api": "csp_Duboku",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "919TY",
+      "name": "919┃体育",
+      "type": 3,
+      "api": "csp_C919TY",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 1
     }
   ],
   "parses": [
