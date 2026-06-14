@@ -37,15 +37,6 @@
       "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
-      "key": "3QQQ",
-      "name": "三秋┃蓝光",
-      "type": 3,
-      "timeout": 15,
-      "api": "csp_App3Q",
-      "ext": "https://asd123sx23xdacsx.top",
-      "jar": "https://cn.oilgasgpts.com/resource/profile/2026/05/18/NJ4ZWwg7_20260518095827A465.jpg"
-    },
-    {
       "key": "fy",
       "name": "枫叶┃影视",
       "type": 3,
@@ -73,14 +64,6 @@
         "api": 2,
         "ua": "okhttp/3.10.0"
       }
-    },
-    {
-      "key": "葫芦",
-      "name": "葫芦┃影视",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt|8R33VQSxzmCaHpEX|V122|okhttp/3.10.0",
-      "jar": "https://cn.oilgasgpts.com/resource/profile/2026/05/18/NJ4ZWwg7_20260518095827A465.jpg"
     },
     {
       "key": "csp_Gz360",
@@ -487,7 +470,7 @@
       "name": "盛世直播"
     },
     {
-      "name": "JackTV直播{翻}",
+      "name": "Jack直播(翻)",
       "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
       "header": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
