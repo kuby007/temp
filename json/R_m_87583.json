@@ -318,6 +318,16 @@
         "分类url": "https://www.xcyycn.com/vs/{cateId}-{aera}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$5#"
       }
+    },
+    {
+      "key": "919体育",
+      "name": "919┃体育",
+      "type": 3,
+      "api": "csp_919TY",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/jar/BXS.jar",
+      "style": {
+        "type": "list"
+      }
     }
   ],
   "parses": [
