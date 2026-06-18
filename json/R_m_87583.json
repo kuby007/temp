@@ -1,6 +1,6 @@
 {
   "spider": "https://ym.wya6.cn/tz/wyxs.php;md5;6f55a9e833f339d896c7b6b6925e4e99",
-  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
   "logo": "https://jikefuye.cn/touxiang.jpg",
   "sites": [
     {
@@ -49,6 +49,14 @@
       "name": "枫叶┃蓝光",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py"
+    },
+    {
+      "key": "3Q",
+      "name": "三Q┃蓝光",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_App3Q"
     },
     {
       "key": "寻川",
@@ -108,14 +116,10 @@
       }
     },
     {
-      "key": "极影",
-      "name": "4K┃测试",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/jy.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
+      "key": "荐片",
+      "name": "荐片┃蓝光",
+      "api": "csp_JianPian",
+      "type": 3
     },
     {
       "key": "四叶草",
