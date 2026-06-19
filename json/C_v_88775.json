@@ -26,7 +26,7 @@
       }
     },
     {
-      "key": "盛世影视",
+      "key": "盛世专线",
       "name": "盛世┃专线",
       "type": 3,
       "api": "csp_XBPQ",
@@ -34,7 +34,7 @@
       "ext": {
         "主页url": "http://pw7.net/",
         "分类url": "http://pw7.net/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
-        "分类": "电视剧$2#电影$1#综艺$3#动漫$4#",
+        "分类": "电视剧$2#电影$1#综艺$3#动漫$4#短剧$5#",
         "数组": "p:.lazyload",
         "链接": "p:->href",
         "标题": "p:->title",
@@ -55,7 +55,7 @@
       }
     },
     {
-      "key": "盛世",
+      "key": "盛世蓝光",
       "name": "盛世┃蓝光",
       "type": 3,
       "api": "csp_XBPQ",
