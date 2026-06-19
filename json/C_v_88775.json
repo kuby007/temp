@@ -28,6 +28,19 @@
       }
     },
     {
+      "key": "盛世",
+      "name": "盛世┃自营",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/jar/ouge.jar",
+      "ext": {
+        "副标题": "蓝光",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://silidm.com/;;!H"
+      }
+    },
+    {
       "key": "盛世蓝光",
       "name": "盛世┃蓝光",
       "type": 3,
