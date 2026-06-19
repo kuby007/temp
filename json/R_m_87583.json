@@ -27,33 +27,11 @@
       }
     },
     {
-      "key": "盛世蓝光",
+      "key": "影视",
       "name": "盛世┃蓝光",
       "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/jar/XBPQ.jar",
-      "ext": {
-        "主页url": "http://pw7.net/",
-        "分类url": "http://pw7.net/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
-        "分类": "电视剧$2#电影$1#综艺$3#动漫$4#",
-        "数组": "p:.lazyload",
-        "链接": "p:->href",
-        "标题": "p:->title",
-        "图片": "p:->data-original",
-        "副标题": "p:span->text",
-        "线路数组": "p:.active",
-        "线路标题": "盛世蓝光",
-        "播放数组": "p:.tab-pane",
-        "播放列表": "p:a",
-        "播放标题": "p:->text",
-        "播放链接": "p:->href",
-        "搜索url": "http://pw7.net/index.php/vod/search/page/{pg}/wd/{wd}.html",
-        "搜索数组": "",
-        "搜索标题": "",
-        "搜索副标题": "",
-        "搜索图片": "",
-        "搜索链接": ""
-      }
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py",
+      "ext": "http://43.248.117.123:4680"
     },
     {
       "key": "兔兔影视",
