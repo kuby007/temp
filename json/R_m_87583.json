@@ -23,16 +23,64 @@
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
         "分类url": "https://rrys.lv/k/{cateId}--------{catePg}---/",
         "线路标题": "盛世",
-        "简介": "⚠️勿信广告，谨防诈骗⚠️"
+        "简介": "勿信广告，谨防诈骗"
       }
     },
     {
-      "key": "盛世",
+      "key": "盛世蓝光",
       "name": "盛世┃蓝光",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py",
-      "ext": "http://43.248.117.123:4680",
-      "jar": "https://gitee.com/lujun189/ceshi/raw/master/1/jar/feimao.jar"
+      "api": "csp_XBPQ",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/jar/XBPQ.jar",
+      "ext": {
+        "主页url": "http://pw7.net/",
+        "分类url": "http://pw7.net/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+        "分类": "电视剧$2#电影$1#综艺$3#动漫$4#",
+        "数组": "p:.lazyload",
+        "链接": "p:->href",
+        "标题": "p:->title",
+        "图片": "p:->data-original",
+        "副标题": "p:span->text",
+        "线路数组": "p:.active",
+        "线路标题": "盛世蓝光",
+        "播放数组": "p:.tab-pane",
+        "播放列表": "p:a",
+        "播放标题": "p:->text",
+        "播放链接": "p:->href",
+        "搜索url": "http://pw7.net/index.php/vod/search/page/{pg}/wd/{wd}.html",
+        "搜索数组": "",
+        "搜索标题": "",
+        "搜索副标题": "",
+        "搜索图片": "",
+        "搜索链接": ""
+      }
+    },
+    {
+      "key": "兔兔影视",
+      "name": "资源┃采集",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/jar/XBPQ.jar",
+      "ext": {
+        "分类url": "http://m.hairuiyy.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$36#",
+        "数组": "p:.lazyload",
+        "链接": "p:->href",
+        "标题": "p:->title",
+        "图片": "p:->data-original",
+        "副标题": "p:.text-right->text",
+        "线路数组": "p:.nav-tabs a",
+        "线路标题": "p:->text",
+        "播放数组": "p:.stui-content__playlist",
+        "播放列表": "p:a",
+        "播放标题": "p:->text",
+        "播放链接": "p:->href",
+        "跳转播放数组": "player_aaaa=&&</script",
+        "跳转播放链接": "j:url",
+        "搜索模式": "1",
+        "简介": "p:.detail->text",
+        "搜索url": "http://m.hairuiyy.com/search/{wd}----------{pg}---.html"
+      }
     }
   ],
   "parses": [
