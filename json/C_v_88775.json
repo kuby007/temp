@@ -26,21 +26,8 @@
       }
     },
     {
-      "key": "盛世",
-      "name": "盛世┃蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/jar/ouge.jar",
-      "ext": {
-        "副标题": "蓝光",
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类url": "https://silidm.com/;;!H"
-      }
-    },
-    {
       "key": "盛世影视",
-      "name": "盛世┃自营",
+      "name": "盛世┃专线",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/jar/XBPQ.jar",
@@ -52,7 +39,7 @@
         "链接": "p:->href",
         "标题": "p:->title",
         "图片": "p:->data-original",
-        "副标题": "蓝光",
+        "副标题": "p:span->text",
         "线路数组": "p:.active",
         "线路标题": "盛世专线",
         "播放数组": "p:.tab-pane",
@@ -66,6 +53,27 @@
         "搜索图片": "",
         "搜索链接": ""
       }
+    },
+    {
+      "key": "盛世",
+      "name": "盛世┃蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/jar/ouge.jar",
+      "ext": {
+        "副标题": "蓝光",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://silidm.com/;;!H"
+      }
+    },
+    {
+      "key": "潮流",
+      "name": "潮流┃蓝光",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/jar/feimaochaoliu.jar",
+      "ext": "http://v.rbotv.cn"
     },
     {
       "key": "919体育",
