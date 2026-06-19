@@ -3,13 +3,22 @@
   "logo": "https://jikefuye.cn/touxiang.jpg",
   "sites": [
     {
-      "key": "豆瓣",
+      "key": "Douban",
       "name": "防失联加Q群:719390643",
       "type": 3,
-      "api": "csp_Douban",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/lib/kjtw.jar",
+      "api": "csp_DoubanGuard",
+      "categories": [
+        "热播剧集",
+        "热门电影",
+        "热播综艺",
+        "热播动漫",
+        "电视剧筛选",
+        "电影筛选"
+      ],
       "searchable": 0,
-      "changeable": 1
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./lib/20260414181247-ae51abfbfe.txt"
     },
     {
       "key": "盛世影视",
