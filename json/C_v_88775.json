@@ -26,22 +26,22 @@
       }
     },
     {
-      "key": "盛世专线",
-      "name": "盛世┃专线",
+      "key": "盛世蓝光",
+      "name": "盛世┃蓝光",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/jar/XBPQ.jar",
       "ext": {
         "主页url": "http://pw7.net/",
         "分类url": "http://pw7.net/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
-        "分类": "电视剧$2#电影$1#综艺$3#动漫$4#短剧$5#",
+        "分类": "电视剧$2#电影$1#综艺$3#动漫$4#",
         "数组": "p:.lazyload",
         "链接": "p:->href",
         "标题": "p:->title",
         "图片": "p:->data-original",
         "副标题": "p:span->text",
         "线路数组": "p:.active",
-        "线路标题": "盛世专线",
+        "线路标题": "盛世蓝光",
         "播放数组": "p:.tab-pane",
         "播放列表": "p:a",
         "播放标题": "p:->text",
@@ -52,19 +52,6 @@
         "搜索副标题": "",
         "搜索图片": "",
         "搜索链接": ""
-      }
-    },
-    {
-      "key": "盛世蓝光",
-      "name": "盛世┃蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/jar/ouge.jar",
-      "ext": {
-        "副标题": "蓝光",
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类url": "https://silidm.com/;;!H"
       }
     },
     {
