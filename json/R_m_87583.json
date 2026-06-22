@@ -1,6 +1,5 @@
 {
-  "spider": "https://tvbox.catvod.com/catvod.jar;md5;392df5f6a1c925c9f765c7e4b6f3eda4",
-  "wallpaper": "https://imgs.catvod.com",
+  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://jikefuye.cn/touxiang.jpg",
   "sites": [
     {
