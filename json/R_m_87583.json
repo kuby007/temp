@@ -43,9 +43,17 @@
     },
     {
       "key": "独播库",
-      "name": "独播库┃影视",
+      "name": "独播库",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/js/%E6%92%AD%E5%BA%93.js"
+    },
+    {
+      "key": "WexGuaZi",
+      "name": "瓜子┃影视",
+      "type": 3,
+      "api": "csp_WexGuaZiGuard",
+      "searchable": 1,
+      "changeable": 1
     }
   ],
   "parses": [
