@@ -42,15 +42,6 @@
       "ext": "http://v.rbotv.cn"
     },
     {
-      "key": "csp_Jpys",
-      "name": "金牌┃蓝光",
-      "type": 3,
-      "jar": "https://gitee.com/tianwikeji/jar/raw/master/xm.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "api": "csp_Jpys"
-    },
-    {
       "key": "独播库",
       "name": "独播库",
       "type": 3,
