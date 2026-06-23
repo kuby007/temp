@@ -42,6 +42,17 @@
       "ext": "http://v.rbotv.cn"
     },
     {
+      "key": "布布",
+      "name": "布蕾 ┃蓝光",
+      "type": 3,
+      "api": "https://pan.szfx.top/down.php/ca1d0aee761c0cf8d47d1fddcddb9a30.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
       "key": "独播库",
       "name": "独播库",
       "type": 3,
