@@ -1,7 +1,6 @@
 {
-  "spider": "./wex.jar",
-  "wallpaper": "./lib/背景.jpg",
-  "logo": "./lib/头像.jpg",
+  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+  "logo": "https://jikefuye.cn/touxiang.jpg",
   "sites": [
     {
       "key": "Douban",
