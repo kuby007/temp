@@ -192,11 +192,13 @@
       }
     },
     {
-      "key": "悯善",
-      "name": "悯善┃蓝光",
+      "key": "厌离",
+      "name": "厌离┃蓝光",
       "type": 3,
-      "api": "csp_App88",
-      "ext": "AY/LmvuAAyhXffcGv5StyHm1MkGdY4inQLRC3KICnxUJBpq0d5dLhvE0+MW8XruH+M/Q/Ruqd6NayN9rihHGuotzXSTrDHgoZ2/dm2JlJ7GYOYfBorPhMPjuOhTNMg9w/J6oP4DXluvDpXNj9uOKq7g/Cx7vrKF6utOSaE1gUgDQwT251mOGTzGsd3ZrtEeepgI6hOdB2gJ4hHRumNhlbVtWDdpnVMYvhCIuH2HUqJFZWM5T+gEZTMLfeUEJt7ScfaQp90qNZID1YNo/tQOaFLGN12o4CkPtCNoYs+emjhVVqIjJzgfplCPIEyjRADqhur0c48FwCiJyp/XGZFmsMJaPKqvOkO+0H5YMKsR+EMmXCr6n0n1VnwGGpYl3maiq1SB78yDnh16291IjwXdERP1csTe41Vg3ppIixtk6q1etAikUle+6fjSFGvAvDYNr2Q=="
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "AVtyVJ6kSXgrT2v7QqBCLTWZ8hn5XSV5GG6qsT+XxkJuK5qltmoj5gYYzsctl+IDQvsTRlIrdveFw6UiEV/J0AkhFys3+/L7wVwBMTC84tEk66wkwAQIBCu4Ufij4OfwYoVuFQmvSOBefPHLVqqeV83lWUIT0ydlc5U4fcgTTs0uijudZON1U5xO5KeJ9cvf7mW5erAHfalAaeN6iNIXrGA="
     },
     {
       "key": "寻川",
