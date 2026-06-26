@@ -42,10 +42,313 @@
       "ext": "http://v.rbotv.cn"
     },
     {
+      "key": "fy",
+      "name": "枫叶┃蓝光",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py"
+    },
+    {
+      "key": "知予",
+      "name": "知予┃蓝光",
+      "api": "csp_AppNox",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/jar/moyuer.jar",
+      "type": 3,
+      "ext": "AXa/dhw2PLXN7GTzaamHOCEf9KWdx8b5bp7n8hAmf9Boa6AZrB5/hhb4qGO6kjkz/Oh5Uei9rzPWsZlQhgxQGSu7Zb/ZmT15NpqUP+qEjAXGPyOlfFWZbr4rxW3WZSqH6i+OT49idbNqqJdm1jXPR00G5O44GJb+9H7f1iioaW5GOEXjTbDGfBqd4uVVCz6vPPgb/k1NVY/Ze+bb5AsQMmZyAcHWgow8PEaTln0cVXxkb5VmKMQfj5sEq9ZnWGHbu4/32qI2Jjtkmj6VijcdWZSyxuwW/O1i8QbrqQZMeYyr16m5gwNFIyv3ppAxMfyjSz6P7J9dbMfS5PaT3xL3TKTAnZFjS0KyZIKYrJBLj9lXwgox8aFmPV1fT2CBX5t/dHX6gL8CfkhYGjFj7LnVLZo5se/1WjuMkzPTSZharqLvXySQsKpiGKLhfs8DsgQppW4BP8Lv2wPFDmbwB2op21RJDJNQhJXbOW6Z4rI5uXZJAW6LuvudGVKVD/RF3/yUlM4Boda3iuV/7ER45wPegGXouEiiuS7QHjYCgiMLVmUEiYLVhiTe3qDU6VlHqn5YhP7+1kibrXrRQ7JzyQ0sOxljdVHQw6IIRTQwzSBJLoDiiCddIncVXxYmKuhW6Pxen1bOfQgd723GkDyLB1Y5U9KXbzS9y6+ko37HVfmwUzDEcG+DYyxa2lJTCIXbdPbl8LBGUGMURx1S43wMLh1rurnz41qwPL5/WULQJmx4bt4E30dcTi/KfIBD8EUM8YZk8z7JSG5bi3oyYToXXRJCXK/qNpxaJ5I0s27MfnJRE/xF2k7Pv0YtFPmwdQr6Z3neEzOo/Vt1E5WlC0JiURC2bO+MWqA70m6B5WJkmnd46qPLtaofki6EzbH81AMvgsYAgjf8iAO6nYWFcrVoAsYMMgJkyPExJEUQStc+TB4gvUFUT9VeTHMXNSWiHMrhGkAQIA37PXzfig3c0sAUy+9iNlKXZv/lfbVFRgV9w8k0eDLrcR40Ma1Pmgnwq7v05RqJiSQCngiXOQgzR4wFar5anDJT73LmmP77+zaoJDH0aZeY"
+    },
+    {
+      "key": "3Q",
+      "name": "三Q┃蓝光",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_App3Q"
+    },
+    {
+      "key": "寻川",
+      "name": "寻川┃蓝光",
+      "api": "csp_AppNox",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/jar/moyuer.jar",
+      "type": 3,
+      "ext": "AbcP1HG0F9DImJN3O0j1Bbun2pWvbIasZkXzOSFtW0E/HSe2wlzD6dQpVI9d9bmoCMLwvn2SborJU02oWR2PwVx5rDrBoxNUmdN0kbis2BLgbLmTYH0OT9VpeTpjiCj9WOoVXqnWtpPPxJSmUxDawdyPleyFu186EEDaVhlYY5tGOvh4j4zpu67S/HtYreFssTYUYuNpKwdoGIg7bWXmuM11j8PecqLCioIsxAXK7OeZNDErFXw5sw2w4Gx8Mv5gfVVo+6EU0QwPdhl9oQGbSizsRpdhneZe5QxSCnxTD4H9MU/52+bgirD+V93aMn9glFssf1NWCP/KEqxwx/F4A50023mXgL4Axk0/ClID5jrnVgxi6L/rl15KXfG1Ks7x9nyQadrDfsnwD6Ht6pcgipkP/WlOJBnf80DC0NEi1xUKMdZN/mndpIJBIqHrUdi4+5nV0aght2VISlNlmfA6ZXfa0P3dUUza+2vGBMkWZnGpsw6qMPLq1Fi1PVegq7zqd4Q7EU6QnHjpQLISbw3WegBgLkwJI4g7arygvD2DqWLqHDjQyCf+0ERiNss65iH9tg1nc6oxl3NAzFN5YkxpvN7eWCVWVhgKkcl7Tdkfzt2LI7XUPj5Q8eNM88dwgKoeE/mMPmLBD2xg/B7Bq3RZa3sZAswf6QDKYrxrm3leGD9HRDZBd+nMPQ9V86J/YZ6WqS3ekLwGjfzxl2VpmrTzdhFIym6D9YpAUQ4Jsvi6pdPgDpWrwb0LGsYZdrS0Y5Ppp8vzbFuvBXDCkl96gwOJIVT/k9OEj6V0vfLXK6XgW/PIRisZRFKNU5upA7UFv20s0cRv4qScI7UTI8FP/E6w5BElCMTeQ6RQOiGjH0NVsgCTVgaXi8qbOL9bkeuh2zHHc03QxoKM3v0k1LGmPT2MBWRTcTHo3NtomX+ox/BqyD0wFPptZgMJ/mm+vorXvvWD+SXmNwqwdWG4G9Q69bD1/YR2AQS1yDjJcvIuqSgAJYQHAhFxBBACy6j8cRpHl2fnlQ=="
+    },
+    {
+      "key": "薯条",
+      "name": "薯条┃蓝光",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "薯条影视",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "A1VACZJWDKRZY1P3MFV0DDRAZ3F3PT0=",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.st.standroid",
+        "host": "",
+        "site": "https://dyttandroid-1372779881.cos.ap-guangzhou.myqcloud.com/app_dyttandroid.txt",
+        "version": "5.0.0.1",
+        "decrypt": "0"
+      }
+    },
+    {
+      "key": "橘汁",
+      "name": "橘汁┃蓝光",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "橘汁",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+        "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.lxf.snzlcgtzxyx",
+        "host": "",
+        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+        "version": "3.0.2.1",
+        "decrypt": "1"
+      }
+    },
+    {
+      "key": "裤佬独家免扫",
+      "name": "独家┃蓝光",
+      "type": 3,
+      "jar": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/jar/klms.jpg;md5;a4f403a000bc5e4ebdd9da27fcb05852",
+      "api": "csp_AppV6",
+      "playerType": 2,
+      "ext": "7lj763gg0939790h44298182lk5j9k99k2g4ih53jl9i376l514k16hilj0443400h9k4jgh8312j1912818glikl7lh1jk9k4222k1kg696igkk32ig6lhj3kl50j08lkl6j0h6gi7k2j31jj0k7i1784l25g757hhkl42i7jg68illihj867l82g53532j62i92kljhj5llh498k24796l57j55ji0ji2g22i501jl541j9j4i68i5j602744l10413k457hl80l91j5l44139j23g64h27k08l5509h202gl84338hi17082hkj5746g298j640i002jk1265h745j289303h6i6j6j15jgkg15485h8g935hk83g9g7j661l4i557jl56h6l0h40i5j9hkiig7066523l2h24gj9k1083g6l2gihh2j5hhgkgij04j8900jhg4l6731hkhij7kk2i594536563674gki85li59jhk79067964197h5k7k2641h03l45074jkkklhik123407146l1i0jk90k1hgl151076ig7i4gi0858h62j37lh8l4hl519ghi7g04h2h900jlj7ll333i736549624gjk8k508g9499gj3jj7050jjhgh4i57326j83301i0kkl88040ih52gj8j0gk0h4g5g7lh561k2gk6k7k56h01598ji23g27k3i17878j92k2gj1l5ih8h0jj73k94g9hl5g7h229i10g099k09l958h3hk18l72h1j43gg7177g4h7ll8987644383606klgh9h4ll42h7293k694kl20j539g6jl17ig655461138jgj7306i1296k3i03586k6l32j5hlik4051187741218271j8j4g3i1h6719877l10k1ijl220i8hlil3j3g129ll3k2i5164lkg12k253kk1h8j5l0gki49jg25hlii704l5ih74439hlj9jih5ki53242ijgh6359i8i5j4h2j2i4581l244j4ij728490hk0k34542916i2lig57836gg7kji3l160234i24hik5g18h790488748j680k5i0l885lj66kjk78j2i57i5021g283ik9g38g62259h1lgi811ihki506k5934g7h737hg9360lll98l4j8i049903l1354lg00019g0934h005h8jjkl60j91k7j74i96h8h26hk59i653209lgj07g1g298k48jllgh00l4i742gi72l27038157gji9j32gh0k5672167k2588h31967l3867g50k503ik403781ki72j47hh4363l0708k4g961k4hl8g4j35ilk143h3424010i165lj612h50k68l61ghl9h80kh874k14ggk2ilg018hi5l1g34262196lkl45ih981jkl42271l4232k93hk8ih3g814i6h63h0g64l300i42il1g0454921j12h4844ii714ih71lg172326009812833h62kj8009kijk5hhg763031235l45h78614l7h9k579h6lj290i98851gll70024834hgj2lg5hk3l905i346gij11kl5j9i7h5j5k12hl061l488k061564g398i2150h9j343901865h7567g874i1gghl5ihg8il8hh0650h6308l2i5053997g8g12g16l3l7h5lhlji71i1i23h0ljl1h14688h7g13987h548h33k34hi6h2i63h424jhl1kik26kl3h60662846j6j0749l8kh95018kl1971j5j5gjk9hg70542391j77hjj65l127627h6h8h0hi003i2hih6h0k9k878lj858k30iljgik0l9248jk25l4h701l6gllhkhi54g24g926jgj884266514056805k2h15hh442i3170ilik20h88i561k0682k04459i154i03ikglg6220i4jii1g32067il925g450k0i1241l3il2jjl6k186gjj53h611il59k650i4kjhi87i798hg6h01g306ig104145ig9h68i092ghhh59jig99j12383792452h44206glk62g67gj204hk874l5li8646g65i9085244i092g70ig9h8657kg0413466ii87k9i32hglh24hi2li7174735i520ik608ilg71292838j5k1h39271ghg5288g930lg6h75626l71h8h5g011k9l9lgk691i04166h7996g452kij4l4l72881k6kl5701jl707hi415j8h3k67576966g2k94k03k0lj31995h2j26hi69jhjji162625l50j7790093hli0jjkh1ll804i3lhh40lk4k240kh48k0k16l544hg033k594gh0l93682l86h35i1i36klhgjg90lkl54746i2k63481h37hilj3ikig52h0j80k5gj6h879lk6g8ll6k616966h59h42l24h824ljj77g6l03kg260i80h2g2k123251j22jg36k5j14781i6197929il9j03k16h4l1i78693g45k64j0jl0k58hj8493h76gj2202470ig12lh2llj2l5k5541k4h506i3hij81lg9i037jgk22i2l3j12j6l394h51ii2ll0022j292h8036767i835k47071jl9illl2gli06524g66984902j6j1h5g788019hl4712032977h41l0k36073ig880g2jgklh26k736180591639h4k2gjk9gl2071h685923kl5363l5lj0ll91901g12kk29hll4280h9h51870j721516j6g66i379g203932726h42g927h19733k237492l8j0jh148gl95048l5524j4j0l2445130153i802169102i14g586h8g64j2lk28492169li3292877837108k7i9557h3jk31il2lklg494lgl4j91jig614216ki68i2j140l1jg03lk16lljg039h21kj313h8jk79h99j2g89j327i7h9052h9hj71721jg927340956k6jl4i7k0430"
+    },
+    {
+      "key": "四叶草",
+      "name": "四叶草┃蓝光",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+      "ext": {
+        "host": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt",
+        "key": "wNCwbXzr0Bm6cS2C",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "XBPQ_映像",
+      "name": "映像┃蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "编码": "UTF-8",
+        "请求头": "User-Agent$MOBILE_UA",
+        "播放请求头": "User-Agent$MOBILE_UA",
+        "首页": "120",
+        "起始页": "1",
+        "跳转播放链接": "var player_*\"url\":\"&&\"",
+        "搜索模式": "1",
+        "分类url": "https://www.yxxq39.cc/",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
+    {
+      "key": "华谊",
+      "name": "华谊┃蓝光",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "华谊",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
+        "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.muyue.tool",
+        "host": "",
+        "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
+        "version": "1.0.0.4",
+        "decrypt": "1"
+      }
+    },
+    {
+      "key": "七味影院",
+      "name": "七味┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/jar/DDqw.png;md5;FD3CEFC7302F3A39A442682F802B11E5",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "防走丢": "https://www.qwmkv.com/",
+        "主页url": "https://www.pkmp4.xyz/",
+        "二次截取": "class=\"pic-list clearfix\"&&</ul>",
+        "数组": "<li>&&</li>",
+        "标题": "title=\"&&\"",
+        "图片": "src=\"&&\"",
+        "副标题": "</i>&&</span>",
+        "链接": "href=\"&&\"",
+        "播放数组": "class=\"player\"&&</ul>",
+        "播放链接": "href=\"&&\"",
+        "播放列表": "<a&&a>",
+        "播放标题": ">&&</",
+        "线路数组": "<option&&option>",
+        "线路标题": "专线",
+        "跳转播放链接": "var player_*\"url\":\"&&\"",
+        "分类url": "https://www.pkmp4.xyz/ms/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+        "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$30"
+      }
+    },
+    {
+      "key": "csp_Gz360",
+      "name": "瓜子┃影视",
+      "type": 3,
+      "timeout": 12,
+      "searchable": 1,
+      "quickSearch": 0,
+      "api": "csp_Gz360",
+      "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
+    },
+    {
+      "key": "荐片",
+      "name": "荐片┃蓝光",
+      "api": "csp_JianPian",
+      "type": 3
+    },
+    {
+      "key": "热播影视",
+      "name": "热播┃影视",
+      "jar": "https://wp.kayyw.com/f/nOjVCX/%E7%83%AD%E6%92%AD%E8%B7%9F%E8%82%A56.jar",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
+    {
+      "key": "爱看剧",
+      "name": "看剧┃影视",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py",
+      "ext": "http://43.248.117.123:4680",
+      "jar": "https://gitee.com/lujun189/ceshi/raw/master/1/jar/feimao.jar"
+    },
+    {
+      "key": "猎手影视",
+      "name": "猎手┃影视",
+      "type": 3,
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/py/猎手影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "大火影视",
+      "name": "骚火┃影视",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "playerType": 2,
+      "ext": "https://shdy5.us",
+      "jar": "http://47.120.41.246:8025/vip/jar/ouge.php"
+    },
+    {
+      "key": "麦田",
+      "name": "麦田┃影视",
+      "type": 3,
+      "api": "csp_AppV6",
+      "ext": "http://172.247.227.203:25321/mtys.php",
+      "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
+    },
+    {
+      "key": "猫头鹰",
+      "name": "猫头鹰┃影视",
+      "type": 3,
+      "api": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/lib/get.js",
+      "searchable": 1,
+      "ext": {
+        "host": "https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt",
+        "key": "zxPtEUDGVllIUhDB",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      },
+      "jar": "https://gitee.com/lujun189/ceshi/raw/master/1/jar/feimao.jar"
+    },
+    {
+      "key": "可可影视",
+      "name": "可可┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/hulanlu/04/raw/master/jar/1118.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#{{曲奇-c}}",
+        "特殊": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "曲-c": "https://www.kkys04.com/渲染目标:/name=\"t\".*?value=\"(.*?)\"/请求头(特殊)[工具:渲染#url]",
+        "曲奇-c": "{{曲-c}}[工具:返回{{奇-c}}]",
+        "奇-c": "{{响应头}}[工具:Cookie$⊕set-cookie=\\[截取\\]]",
+        "域名-c": "https://www.kkys04.com",
+        "主页url": "https://www.kkys04.com",
+        "数组": "<div class=\"module-item\">&&</a>",
+        "标题": "<div class=\"v-item-title\">&&</div>",
+        "副标题": "<span>&&</span>[不含:可可]",
+        "图片": "{{二-c}}+data-original=\"&&\"[不含:http]",
+        "链接": "href=\"&&\"",
+        "影片年代": "class=\"detail-tags-item\">&&</a>",
+        "影片地区": "class=\"detail-tags-item\">&&</a>[含序号:2]",
+        "影片类型": "class=\"detail-tags-item\">&&</a>[含序号:3]",
+        "导演": "导演*</div>&&</div>",
+        "主演": "演员*</div>&&</div>",
+        "简介": "detail-desc\">&&</div>",
+        "线路数组": "<span class=\"source-item-label&&/span>[不含:4K(]",
+        "线路标题": ">&&<",
+        "播放数组": "<div class=\"episode-list&&</div>",
+        "播放列表": "&&分割(<a)",
+        "播放标题": ">&&<",
+        "播放链接": "href=\"&&\"",
+        "跳转播放链接": "const playSource = {*src*\"&&\"||TMDPPPP = '&&'[工具:解aes-Isu7fOAvI6!&IKpAbVdhf&^F]",
+        "过滤词": "baidu.com",
+        "搜索url": "{{域名-c}}/search?t={{曲-c}}&k={wd}",
+        "搜索二次截取": "<div class=\"search-result-list&&<div class=\"pagenation-box",
+        "搜索数组": "<a&&</a>",
+        "搜索标题": "title=\"&&\"",
+        "搜索副标题": "<div class=\"tags\">&&</div>",
+        "搜索图片": "{{二-c}}+data-original=\"&&\"[不含:http]",
+        "搜索链接": "href=\"&&\"",
+        "分类url": "{{域名-c}}/show/{cateId}-----{by}-{catePg}.html;;ad0m0s0xn",
+        "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$6",
+        "排序": "综合$1#最新$2#最热$3#评分$4",
+        "二-c": "<script src=\"&&\"[包含:rdul][工具:源码#'截取'∬\"截取\"]"
+      }
+    },
+    {
       "key": "独播库",
-      "name": "独播库",
+      "name": "独播库┃影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/js/%E6%92%AD%E5%BA%93.js"
+    },
+    {
+      "key": "919体育",
+      "name": "919┃体育",
+      "type": 3,
+      "api": "csp_919TY",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/jar/BXS.jar",
+      "style": {
+        "type": "list"
+      }
     }
   ],
   "lives": [
