@@ -107,13 +107,14 @@
       }
     },
     {
-      "key": "BuBu",
-      "name": "布蕾┃蓝光",
+      "key": "Wwys",
+      "name": "糯米┃影视",
       "type": 3,
-      "api": "csp_BuBu",
+      "api": "csp_Wwys",
       "searchable": 1,
+      "filterable": 1,
       "changeable": 1,
-      "filterable": 1
+      "ext": "https://vip.wwgz.cn:5200"
     },
     {
       "key": "四叶草",
