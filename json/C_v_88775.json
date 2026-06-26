@@ -107,13 +107,20 @@
       }
     },
     {
-      "key": "YunDuo",
-      "name": "云朵┃蓝光",
+      "key": "LeiJing",
+      "name": "雷鲸┃蓝光",
       "type": 3,
-      "api": "csp_YunDuo",
+      "api": "csp_LeiJing",
       "searchable": 1,
       "changeable": 1,
-      "filterable": 1
+      "ext": {
+        "site": [
+          "https://www.leijing.xyz",
+          "https://www.leijing1.com",
+          "https://leijing1.com"
+        ],
+        "cookie": ""
+      }
     },
     {
       "key": "四叶草",
