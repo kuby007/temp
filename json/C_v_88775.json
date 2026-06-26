@@ -107,12 +107,13 @@
       }
     },
     {
-      "key": "zhiqiu",
-      "name": "听风┃知秋",
+      "key": "YunDuo",
+      "name": "云朵┃蓝光",
       "type": 3,
-      "api": "csp_zhiqiu",
+      "api": "csp_YunDuo",
       "searchable": 1,
-      "ext": "http://www.小不点.com/api//2026/zhiqiu.php"
+      "changeable": 1,
+      "filterable": 1
     },
     {
       "key": "四叶草",
