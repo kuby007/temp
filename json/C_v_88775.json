@@ -107,14 +107,12 @@
       }
     },
     {
-      "key": "Wwys",
-      "name": "糯米┃影视",
+      "key": "zhiqiu",
+      "name": "听风┃知秋",
       "type": 3,
-      "api": "csp_Wwys",
+      "api": "csp_zhiqiu",
       "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://vip.wwgz.cn:5200"
+      "ext": "http://www.小不点.com/api//2026/zhiqiu.php"
     },
     {
       "key": "四叶草",
