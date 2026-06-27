@@ -328,24 +328,23 @@
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/js/%E6%92%AD%E5%BA%93.js"
     },
     {
-      "key": "d'd",
-      "name": "修罗┃影视",
+      "key": "天堂",
+      "name": "天堂┃影视",
       "type": 3,
-      "api": "csp_HBPQ",
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": {
-        "数组": "card card-sm card-link&&</div>",
-        "图片": "src=\"&&\"",
-        "标题": "mb-0 card-title text-truncate\">&&<",
-        "副标题": "start-0 text-red-fg\">&&</span>",
-        "链接": "href=\"&&\"",
-        "简介": "剧情简介：&&\"",
-        "线路标题": "磁力+>&&<",
-        "播放数组": "download-list&&</tbody>",
-        "播放列表": "<tr&&</tr>",
-        "播放标题": "text-muted\">&&</td>[不包含:网盘下载]",
-        "跳转播放链接": "href=\"&&\"",
-        "分类url": "https://v.xlys.ltd.ua/s/all/{catePg}?type={cateId};;d0",
-        "分类": "电影$0#电视剧$1"
+        "appName": "电影天堂",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.dytiantang.one",
+        "host": "",
+        "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
+        "version": "3.0.0.7",
+        "decrypt": "0"
       }
     },
     {
