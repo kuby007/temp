@@ -191,6 +191,15 @@
       }
     },
     {
+      "key": "CupFox",
+      "name": "茶杯┃影视",
+      "type": 3,
+      "api": "csp_CupFox",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_Gz360",
       "name": "瓜子┃影视",
       "type": 3,
