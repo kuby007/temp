@@ -214,14 +214,6 @@
       }
     },
     {
-      "key": "爱看剧",
-      "name": "看剧┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py",
-      "ext": "http://43.248.117.123:4680",
-      "jar": "https://gitee.com/lujun189/ceshi/raw/master/1/jar/feimao.jar"
-    },
-    {
       "key": "猎手影视",
       "name": "猎手┃影视",
       "type": 3,
