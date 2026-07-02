@@ -116,6 +116,29 @@
         "version": "3.0.2.1",
         "decrypt": "1"
       }
+    },
+    {
+      "key": "Qtv",
+      "name": "企鹅┃官源",
+      "type": 3,
+      "api": "csp_Qtv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playUrl": "json:http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&qn=max&url=",
+      "changeable": 1,
+      "jar": "http://iptv.mufeifan.com.cn/tv/wogg.jar"
+    },
+    {
+      "key": "芒果视频",
+      "name": "芒果┃官源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "playUrl": "json:http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&qn=max&url=",
+      "filterable": 1,
+      "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+      "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/百忙无果[官].js"
     }
   ],
   "lives": [
@@ -138,7 +161,29 @@
       "logo": "https://www.cttv.vip/ys/images/{name}.png"
     }
   ],
-  "parses": [],
+  "parses": [
+    {
+      "name": "内线1",
+      "type": 1,
+      "url": "http://iptv.mufeifan.com.cn/proxy.php?do=seachdanmu&go=getXmflvjx&url=",
+      "ext": {
+        "header": {
+          "Accept": "*/*",
+          "Origin": "https://jx.xmflv.com"
+        }
+      }
+    },
+    {
+      "name": "内线2",
+      "type": "1",
+      "url": "https://niubi.69mini.com/jsonapi/?url="
+    },
+    {
+      "name": "内线3",
+      "type": "1",
+      "url": "https://jiexi.69mini.com/api/?key=c61fd55fa4bdfcd4b545e2d02abdc42a&url="
+    }
+  ],
   "flags": [],
   "ijk": [
     {
