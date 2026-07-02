@@ -118,27 +118,18 @@
       }
     },
     {
-      "key": "Qtv",
-      "name": "企鹅┃官源",
+      "key": "qq",
+      "name": "腾讯┃官源",
       "type": 3,
-      "api": "csp_Qtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playUrl": "json:http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&qn=max&url=",
-      "changeable": 1,
-      "jar": "http://iptv.mufeifan.com.cn/tv/wogg.jar"
+      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://app.69mini.com/js/主线1.js"
     },
     {
-      "key": "芒果视频",
+      "key": "guoguo",
       "name": "芒果┃官源",
       "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "playUrl": "json:http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&qn=max&url=",
-      "filterable": 1,
-      "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-      "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/百忙无果[官].js"
+      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://app.69mini.com/js/主线3.js"
     }
   ],
   "lives": [
