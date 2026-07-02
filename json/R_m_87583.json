@@ -245,16 +245,6 @@
       }
     },
     {
-      "name": "极速",
-      "type": 0,
-      "url": "https://jx.2s0.cn/player/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Dalvik/2.1.0 (Linux; U; Android 10; Build/QP1A.190711.020)"
-        }
-      }
-    },
-    {
       "name": "QQ",
       "type": 0,
       "url": "http://vip.mufeifan.com.cn/jiexi/qq/?url=",
@@ -373,64 +363,6 @@
         "http.*?/play.{0,3}\\?[^url]{2,8}=.*",
         "qianpailive.com",
         "vid="
-      ]
-    },
-    {
-      "name": "暴风",
-      "hosts": [
-        "bfzy",
-        "bfbfvip",
-        "bfengbf"
-      ],
-      "regex": [
-        "#EXTINF.*?\\s+.*?adjump.*?\\.ts"
-      ]
-    },
-    {
-      "name": "量子",
-      "hosts": [
-        "vip.lz",
-        "hd.lz",
-        ".cdnlz"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4\\.066667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "17.19"
-      ]
-    },
-    {
-      "name": "非凡",
-      "hosts": [
-        "vip.ffzy",
-        "hd.ffzy",
-        "super.ffzy"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?1171(057).*?\\.ts",
-        "#EXTINF.*?\\s+.*?6d7b(077).*?\\.ts",
-        "#EXTINF.*?\\s+.*?6718a(403).*?\\.ts",
-        "17.99",
-        "14.45"
-      ]
-    },
-    {
-      "name": "索尼",
-      "hosts": [
-        "suonizy"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts",
-        "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts"
-      ]
-    },
-    {
-      "name": "快看",
-      "hosts": [
-        "kuaikan"
       ],
       "regex": [
         "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
