@@ -116,6 +116,20 @@
         "version": "3.0.2.1",
         "decrypt": "1"
       }
+    },
+    {
+      "key": "csp_Jianpian",
+      "name": "荐片┃影视",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "jar": "https://xpb.mhfs.eu.org/ZJ/XPB/vox.jar",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "filters": "http://rihou.cc:88/json/jianpian.json",
+        "imgUrl": "https://img.jgsfnl.com",
+        "sites": "https://api.ztcgi.com"
+      }
     }
   ],
   "lives": [
@@ -139,7 +153,27 @@
     }
   ],
   "parses": [],
-  "flags": [],
+  "flags": [
+    "youku",
+    "qq",
+    "QQ",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "pptv",
+    "PPTV",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "m1905",
+    "seven",
+    "m78",
+    "mtv",
+    "sjs",
+    "dbs",
+    "yds"
+  ],
   "ijk": [
     {
       "group": "软解码",
