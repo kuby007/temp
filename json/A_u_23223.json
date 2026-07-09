@@ -4,17 +4,8 @@
   "logo": "https://jikefuye.cn/touxiang.jpg",
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "防失联加Q群:719390643",
-      "type": 3,
-      "api": "csp_Douban",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/lib/kjtw.jar",
-      "searchable": 0,
-      "changeable": 1
-    },
-    {
       "key": "盛世影视",
-      "name": "盛世┃影视",
+      "name": "盛世影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/hulanlu/04/raw/master/jar/XBPQ.jar",
@@ -26,141 +17,35 @@
         "线路标题": "盛世",
         "简介": "⚠️勿信广告，谨防诈骗⚠️"
       }
-    },
-    {
-      "key": "影视",
-      "name": "盛世┃蓝光",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py",
-      "ext": "http://43.248.117.123:4680"
-    },
-    {
-      "key": "潮流",
-      "name": "潮流┃蓝光",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/jar/feimaochaoliu.jar",
-      "ext": "http://v.rbotv.cn"
-    },
-    {
-      "key": "独播库",
-      "name": "独播库",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/js/%E6%92%AD%E5%BA%93.js"
-    },
-    {
-      "key": "可可影视",
-      "name": "可可┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/jar/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#{{曲奇-c}}",
-        "特殊": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "曲-c": "https://www.kkys04.com/渲染目标:/name=\"t\".*?value=\"(.*?)\"/请求头(特殊)[工具:渲染#url]",
-        "曲奇-c": "{{曲-c}}[工具:返回{{奇-c}}]",
-        "奇-c": "{{响应头}}[工具:Cookie$⊕set-cookie=\\[截取\\]]",
-        "域名-c": "https://www.kkys04.com",
-        "主页url": "https://www.kkys04.com",
-        "数组": "<div class=\"module-item\">&&</a>",
-        "标题": "<div class=\"v-item-title\">&&</div>",
-        "副标题": "<span>&&</span>[不含:可可]",
-        "图片": "{{二-c}}+data-original=\"&&\"[不含:http]",
-        "链接": "href=\"&&\"",
-        "影片年代": "class=\"detail-tags-item\">&&</a>",
-        "影片地区": "class=\"detail-tags-item\">&&</a>[含序号:2]",
-        "影片类型": "class=\"detail-tags-item\">&&</a>[含序号:3]",
-        "导演": "导演*</div>&&</div>",
-        "主演": "演员*</div>&&</div>",
-        "简介": "detail-desc\">&&</div>",
-        "线路数组": "<span class=\"source-item-label&&/span>[不含:4K(]",
-        "线路标题": ">&&<",
-        "播放数组": "<div class=\"episode-list&&</div>",
-        "播放列表": "&&分割(<a)",
-        "播放标题": ">&&<",
-        "播放链接": "href=\"&&\"",
-        "跳转播放链接": "const playSource = {*src*\"&&\"||TMDPPPP = '&&'[工具:解aes-Isu7fOAvI6!&IKpAbVdhf&^F]",
-        "过滤词": "baidu.com",
-        "搜索url": "{{域名-c}}/search?t={{曲-c}}&k={wd}",
-        "搜索二次截取": "<div class=\"search-result-list&&<div class=\"pagenation-box",
-        "搜索数组": "<a&&</a>",
-        "搜索标题": "title=\"&&\"",
-        "搜索副标题": "<div class=\"tags\">&&</div>",
-        "搜索图片": "{{二-c}}+data-original=\"&&\"[不含:http]",
-        "搜索链接": "href=\"&&\"",
-        "分类url": "{{域名-c}}/show/{cateId}-----{by}-{catePg}.html;;ad0m0s0xn",
-        "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$6",
-        "排序": "综合$1#最新$2#最热$3#评分$4",
-        "二-c": "<script src=\"&&\"[包含:rdul][工具:源码#'截取'∬\"截取\"]"
-      }
-    },
-    {
-      "key": "橘汁",
-      "name": "橘汁┃蓝光",
-      "type": 3,
-      "api": "csp_AppDrama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "橘汁",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-        "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.lxf.snzlcgtzxyx",
-        "host": "",
-        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-        "version": "3.0.2.1",
-        "decrypt": "1"
-      }
-    },
-    {
-      "key": "腾讯视频",
-      "name": "腾讯┃测试",
-      "type": 3,
-      "api": "https://52xiaobai.cn/ceshi/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "playable": 1,
-      "ext": "https://52xiaobai.cn/ceshi/js/tx.js"
     }
   ],
   "lives": [
     {
       "url": "http://47.120.41.246:8025/vip/jar/zb.php",
       "name": "盛世直播"
-    },
-    {
-      "name": "Jack直播(翻)",
-      "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-      }
-    },
-    {
-      "name": "平台直播",
-      "type": 0,
-      "url": "http://mg.cttv.vip/index.php/m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://www.cttv.vip/ys/images/{name}.png"
     }
   ],
-  "parses": [
-    {
-      "name": "聚合解析",
-      "type": 1,
-      "url": "https://api.52xiaobai.cn/api/parse.php?token=ed2f41314bd77bf7c3108ecc973c1bf2&url="
-    }
-  ],
+  "parses": [],
   "flags": [
     "youku",
     "qq",
-    "iqiyi"
+    "QQ",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "pptv",
+    "PPTV",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "m1905",
+    "seven",
+    "m78",
+    "mtv",
+    "sjs",
+    "dbs",
+    "yds"
   ],
   "ijk": [
     {
