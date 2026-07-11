@@ -5,15 +5,13 @@
   "logo": "https://jikefuye.cn/touxiang.jpg",
   "sites": [
     {
-      "key": "影视",
+      "key": "盛世影视",
       "name": "盛世影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/bhjk1/vip/-/raw/main/bhtw.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://mzjk.top/禁止贩卖/lib/dae.json"
+      "filterable": "0"
     }
   ],
   "lives": [
