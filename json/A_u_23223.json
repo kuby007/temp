@@ -1,6 +1,7 @@
 {
   "spider": "https://ym.wya6.cn/tz/wyxs.php;md5;803ee0bcfa247f0cb839b914e8aea5dd",
   "warningText": "防失联加Q群:719390643",
+  "wallpaper": "",
   "logo": "https://jikefuye.cn/touxiang.jpg",
   "sites": [
     {
@@ -20,27 +21,7 @@
     }
   ],
   "parses": [],
-  "flags": [
-    "youku",
-    "qq",
-    "QQ",
-    "iqiyi",
-    "qiyi",
-    "letv",
-    "sohu",
-    "pptv",
-    "PPTV",
-    "mgtv",
-    "wasu",
-    "bilibili",
-    "m1905",
-    "seven",
-    "m78",
-    "mtv",
-    "sjs",
-    "dbs",
-    "yds"
-  ],
+  "flags": [],
   "ijk": [
     {
       "group": "软解码",
