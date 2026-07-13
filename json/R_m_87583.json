@@ -116,6 +116,19 @@
         "version": "3.0.2.1",
         "decrypt": "1"
       }
+    },
+    {
+      "key": "csp_Jianpian",
+      "name": "荐片┃影视",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "filters": "http://rihou.cc:88/json/jianpian.json",
+        "imgUrl": "https://img.zgbkz.com",
+        "sites": "https://api.ztcgi.com"
+      }
     }
   ],
   "lives": [
