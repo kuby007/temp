@@ -1,5 +1,7 @@
 {
-  "spider": "https://ym.wya6.cn/tz/wyxs.php;md5;803ee0bcfa247f0cb839b914e8aea5dd",
+  "spider": "http://rihou.cc:88/jar/vox.jar;md5;cb13f438aabd092029ace09fde1f6ee8",
+  "README": "http://rihou.cc:88/README.txt",
+  "README2": "http://rihou.cc:88/README2.txt",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://jikefuye.cn/touxiang.jpg",
   "sites": [
