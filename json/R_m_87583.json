@@ -30,13 +30,6 @@
       }
     },
     {
-      "key": "盛世自营",
-      "name": "盛世┃自营",
-      "type": 3,
-      "api": "http://rihou.cc:88/js/drpy2.min.js",
-      "ext": "http://rihou.cc:88/js/%E6%B3%A5%E6%B3%A5%E8%A7%86%E9%A2%91.js"
-    },
-    {
       "key": "盛世蓝光",
       "name": "盛世┃蓝光",
       "type": 3,
@@ -118,6 +111,14 @@
         "imgUrl": "https://img.zgbkz.com",
         "sites": "https://api.ztcgi.com"
       }
+    },
+    {
+      "key": "csp_Guazi",
+      "name": "瓜子┃影视",
+      "type": 3,
+      "api": "csp_Guazi",
+      "searchable": 1,
+      "changeable": 1
     }
   ],
   "lives": [
