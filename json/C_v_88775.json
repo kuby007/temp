@@ -4,13 +4,13 @@
   "logo": "https://jikefuye.cn/touxiang.jpg",
   "sites": [
     {
-      "key": "豆瓣",
+      "key": "douban",
       "name": "防失联加Q群:719390643",
       "type": 3,
-      "api": "csp_Douban",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/lib/kjtw.jar",
-      "searchable": 0,
-      "changeable": 1
+      "api": "https://meow.668yun.top/api/s/MMpQwoycF4anEkz5K1ZfMO0mqIDjObj5/豆瓣.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "盛世影视",
@@ -33,12 +33,6 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py",
       "ext": "http://43.248.117.123:4680"
-    },
-    {
-      "key": "盛世4K",
-      "name": "盛世┃4K",
-      "type": 3,
-      "api": "https://pan.szfx.top/down.php/21da377c5e328d67e943a2acc1947ff3.py"
     },
     {
       "key": "潮流",
@@ -254,6 +248,29 @@
       "playerType": 2,
       "ext": "https://shdy5.us",
       "jar": "http://47.120.41.246:8025/vip/jar/ouge.php"
+    },
+    {
+      "key": "麦田",
+      "name": "麦田┃影视",
+      "type": 3,
+      "api": "csp_AppV6",
+      "ext": "http://172.247.227.203:25321/mtys.php",
+      "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
+    },
+    {
+      "key": "猫头鹰",
+      "name": "猫头鹰┃影视",
+      "type": 3,
+      "api": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/lib/get.js",
+      "searchable": 1,
+      "ext": {
+        "host": "https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt",
+        "key": "zxPtEUDGVllIUhDB",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      },
+      "jar": "https://gitee.com/lujun189/ceshi/raw/master/1/jar/feimao.jar"
     },
     {
       "key": "可可影视",
