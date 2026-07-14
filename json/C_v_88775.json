@@ -41,6 +41,17 @@
       "api": "https://pan.szfx.top/down.php/21da377c5e328d67e943a2acc1947ff3.py"
     },
     {
+      "key": "臻彩",
+      "name": "臻彩┃4K",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/e02034214f0705bfe1e5f4d936f0925f.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0
+    },
+    {
       "key": "潮流",
       "name": "潮流┃蓝光",
       "type": 3,
