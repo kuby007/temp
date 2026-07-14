@@ -114,7 +114,7 @@
       }
     },
     {
-      "key": "裤佬独家免扫",
+      "key": "裤佬独家",
       "name": "独家┃蓝光",
       "type": 3,
       "jar": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/jar/klms.jpg;md5;a4f403a000bc5e4ebdd9da27fcb05852",
@@ -260,21 +260,6 @@
       "api": "csp_AppV6",
       "ext": "http://172.247.227.203:25321/mtys.php",
       "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
-    },
-    {
-      "key": "猫头鹰",
-      "name": "猫头鹰┃影视",
-      "type": 3,
-      "api": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/lib/get.js",
-      "searchable": 1,
-      "ext": {
-        "host": "https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt",
-        "key": "zxPtEUDGVllIUhDB",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-      },
-      "jar": "https://gitee.com/lujun189/ceshi/raw/master/1/jar/feimao.jar"
     },
     {
       "key": "可可影视",
