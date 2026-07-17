@@ -52,11 +52,13 @@
       "changeable": 0
     },
     {
-      "key": "潮流",
-      "name": "潮流┃蓝光",
+      "name": "热播┃蓝光",
+      "key": "Rbys",
       "type": 3,
-      "api": "csp_AppRJ",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/jar/feimaochaoliu.jar",
+      "api": "csp_RbysAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
       "ext": "http://v.rbotv.cn"
     },
     {
