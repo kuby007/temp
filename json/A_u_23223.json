@@ -5,7 +5,7 @@
   "logo": "https://jikefuye.cn/touxiang.jpg",
   "sites": [
     {
-      "name": "蓝光┃秒播",
+      "name": "蓝光秒播",
       "key": "Rbys",
       "type": 3,
       "api": "csp_RbysAmns",
