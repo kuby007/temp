@@ -5,15 +5,14 @@
   "logo": "https://jikefuye.cn/touxiang.jpg",
   "sites": [
     {
-      "key": "csp_GuaZi",
-      "name": "瓜子影视",
+      "name": "蓝光┃秒播",
+      "key": "Rbys",
       "type": 3,
-      "api": "csp_GuaZi",
+      "api": "csp_RbysAmns",
       "searchable": 1,
+      "quickSearch": 1,
       "changeable": 0,
-      "ext": {
-        "commonConfig": "https://ghproxy.easy666.dpdns.org/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/json/peizhi.json"
-      }
+      "ext": "http://v.rbotv.cn"
     }
   ],
   "lives": [
@@ -506,5 +505,11 @@
   ],
   "ads": [
     "mozai.4gtv.tv"
-  ]
+  ],
+  "dsites": [],
+  "dlives": [],
+  "drules": [],
+  "ddoh": [],
+  "dhosts": [],
+  "dads": []
 }
