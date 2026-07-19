@@ -5,14 +5,21 @@
   "logo": "https://jikefuye.cn/touxiang.jpg",
   "sites": [
     {
-      "name": "蓝光秒播",
-      "key": "Rbys",
+      "key": "枫叶影视",
+      "name": "枫叶影视",
       "type": 3,
-      "api": "csp_RbysAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://v.rbotv.cn"
+      "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "手机",
+        "简介": "text cor3\">[*],&&</div>",
+        "图片": "data-src=\"&&\"[替换:amp;>>空]",
+        "主页url": "https://www.cd-zj.com/label/qq.html",
+        "副标题": "ft2\">&&</i>",
+        "线路数组": "<i class=\"fa ds-dianying\">&&</span>",
+        "播放数组": "anthology-list-play size\">&&</ul>",
+        "分类url": "https://www.cd-zj.com/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
     }
   ],
   "lives": [
