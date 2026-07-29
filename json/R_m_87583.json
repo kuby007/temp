@@ -1,5 +1,5 @@
 {
-  "spider": "https://qiniu.gongxueyun.com/upload/4861227/2026-07-20/noknow/879949887_1_1784533310607.jar;md5;5e0a00965bfa93bc2c79af173e35852d",
+  "spider": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
   "warningText": "防失联加Q群:719390643",
   "wallpaper": "",
   "logo": "https://jikefuye.cn/touxiang.jpg",
@@ -118,6 +118,14 @@
         "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
         "pub": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB"
       }
+    },
+    {
+      "key": "WexkuihuatvGuard",
+      "name": "瓜子┃影视",
+      "type": 3,
+      "api": "csp_WexkuihuatvGuard",
+      "searchable": 1,
+      "changeable": 1
     }
   ],
   "lives": [
