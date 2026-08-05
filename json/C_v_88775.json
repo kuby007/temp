@@ -130,37 +130,6 @@
       }
     },
     {
-      "key": "七味影院",
-      "name": "七味┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/jar/DDqw.png;md5;FD3CEFC7302F3A39A442682F802B11E5",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "防走丢": "https://www.qwmkv.com/",
-        "主页url": "https://www.pkmp4.xyz/",
-        "二次截取": "class=\"pic-list clearfix\"&&</ul>",
-        "数组": "<li>&&</li>",
-        "标题": "title=\"&&\"",
-        "图片": "src=\"&&\"",
-        "副标题": "</i>&&</span>",
-        "链接": "href=\"&&\"",
-        "播放数组": "class=\"player\"&&</ul>",
-        "播放链接": "href=\"&&\"",
-        "播放列表": "<a&&a>",
-        "播放标题": ">&&</",
-        "线路数组": "<option&&option>",
-        "线路标题": "专线",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "分类url": "https://www.pkmp4.xyz/ms/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-        "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$30"
-      }
-    },
-    {
       "key": "csp_Gz360",
       "name": "瓜子┃影视",
       "type": 3,
