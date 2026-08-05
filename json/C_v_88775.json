@@ -1,5 +1,5 @@
 {
-  "spider": "./lib/tvkj.jar",
+  "spider": "https://ym.wya6.cn/tz/wyxs.php;md5;803ee0bcfa247f0cb839b914e8aea5dd",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://jikefuye.cn/touxiang.jpg",
   "sites": [
@@ -58,12 +58,6 @@
       "api": "csp_AppRJ",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/jar/feimaochaoliu.jar",
       "ext": "http://v.rbotv.cn"
-    },
-    {
-      "key": "fy",
-      "name": "枫叶┃蓝光",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py"
     },
     {
       "key": "薯条",
