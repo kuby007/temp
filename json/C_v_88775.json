@@ -52,13 +52,11 @@
       "changeable": 0
     },
     {
-      "name": "热播┃蓝光",
-      "key": "Rbys",
+      "key": "潮流",
+      "name": "潮流┃蓝光",
       "type": 3,
-      "api": "csp_RbysAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
+      "api": "csp_AppRJ",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/jar/feimaochaoliu.jar",
       "ext": "http://v.rbotv.cn"
     },
     {
@@ -197,22 +195,6 @@
       }
     },
     {
-      "key": "顾我99",
-      "name": "顾我┃蓝光",
-      "type": 3,
-      "api": "csp_App99",
-      "ext": {
-        "host": "http://117.50.200.113:19987/app/bn",
-        "LoginPath": "/app/log",
-        "appkey": "040f9b1bc5e942569b5c3e63943306ab",
-        "versionName": "4.3.1",
-        "name": "顾我追剧",
-        "package": "com.guwozhuijux.app",
-        "buildNumber": "2001",
-        "buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"
-      }
-    },
-    {
       "key": "csp_Gz360",
       "name": "瓜子┃影视",
       "type": 3,
@@ -336,16 +318,6 @@
         "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
         "version": "3.0.0.7",
         "decrypt": "0"
-      }
-    },
-    {
-      "key": "919体育",
-      "name": "919┃体育",
-      "type": 3,
-      "api": "csp_919TY",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/jar/BXS.jar",
-      "style": {
-        "type": "list"
       }
     }
   ],
