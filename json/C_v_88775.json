@@ -52,48 +52,12 @@
       "changeable": 0
     },
     {
-      "name": "热播┃蓝光",
-      "key": "Rbys",
-      "type": 3,
-      "api": "csp_RbysAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://v.rbotv.cn"
-    },
-    {
-      "key": "fy",
-      "name": "枫叶┃蓝光",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py"
-    },
-    {
       "key": "3Q",
       "name": "三Q┃蓝光",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
       "api": "csp_App3Q"
-    },
-    {
-      "key": "薯条",
-      "name": "薯条┃蓝光",
-      "type": 3,
-      "api": "csp_AppDrama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "薯条影视",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-        "dataKey": "A1VACZJWDKRZY1P3MFV0DDRAZ3F3PT0=",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.st.standroid",
-        "host": "",
-        "site": "https://dyttandroid-1372779881.cos.ap-guangzhou.myqcloud.com/app_dyttandroid.txt",
-        "version": "5.0.0.1",
-        "decrypt": "0"
-      }
     },
     {
       "key": "橘汁",
@@ -336,16 +300,6 @@
         "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
         "version": "3.0.0.7",
         "decrypt": "0"
-      }
-    },
-    {
-      "key": "919体育",
-      "name": "919┃体育",
-      "type": 3,
-      "api": "csp_919TY",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/jar/BXS.jar",
-      "style": {
-        "type": "list"
       }
     }
   ],
