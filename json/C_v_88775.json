@@ -52,6 +52,25 @@
       "changeable": 0
     },
     {
+      "key": "映视界",
+      "name": "视界┃4K",
+      "type": 4,
+      "api": "http://bu.970088.xyz/video/映视界?platform=ysc&token=688988"
+    },
+    {
+      "key": "星河",
+      "name": "星河┃4K",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/nLaNhm/get.js",
+      "ext": {
+        "host": "http://110.42.67.130:1226",
+        "key": "kj37zs29q22jk96t",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
       "key": "3Q",
       "name": "三Q┃蓝光",
       "type": 3,
