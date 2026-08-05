@@ -60,12 +60,6 @@
       "ext": "http://v.rbotv.cn"
     },
     {
-      "key": "fy",
-      "name": "枫叶┃蓝光",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py"
-    },
-    {
       "key": "薯条",
       "name": "薯条┃蓝光",
       "type": 3,
