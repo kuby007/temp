@@ -66,14 +66,6 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py"
     },
     {
-      "key": "3Q",
-      "name": "三Q┃蓝光",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_App3Q"
-    },
-    {
       "key": "薯条",
       "name": "薯条┃蓝光",
       "type": 3,
