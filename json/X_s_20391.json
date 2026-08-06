@@ -233,8 +233,11 @@
   ],
   "lives": [
     {
-      "url": "http://47.120.41.246:8025/vip/jar/zb.php",
-      "name": "盛世直播"
+      "name": "综合直播",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
     }
   ],
   "parses": [
