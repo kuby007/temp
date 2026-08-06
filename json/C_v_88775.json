@@ -142,26 +142,6 @@
       }
     },
     {
-      "key": "华谊",
-      "name": "华谊┃蓝光",
-      "type": 3,
-      "api": "csp_AppDrama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "华谊",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
-        "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.muyue.tool",
-        "host": "",
-        "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
-        "version": "1.0.0.4",
-        "decrypt": "1"
-      }
-    },
-    {
       "key": "csp_Gz360",
       "name": "瓜子┃影视",
       "type": 3,
@@ -265,24 +245,14 @@
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/js/%E6%92%AD%E5%BA%93.js"
     },
     {
-      "key": "天堂",
-      "name": "天堂┃影视",
+      "name": "荐片┃影视",
+      "key": "JPian",
       "type": 3,
-      "api": "csp_AppDrama",
+      "api": "csp_JPianAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "电影天堂",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-        "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.dytiantang.one",
-        "host": "",
-        "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
-        "version": "3.0.0.7",
-        "decrypt": "0"
-      }
+      "changeable": 0,
+      "ext": "https://nos.netease.com/youdata-netease/public-utilUpload-ky1PAyMa8zMhSwSbYeoej9.gz"
     }
   ],
   "lives": [
