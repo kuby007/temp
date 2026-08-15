@@ -123,14 +123,16 @@
       "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
     },
     {
-      "name": "热播┃蓝光",
-      "key": "Rbys",
+      "key": "热播影视",
+      "name": "热播┃影视",
       "type": 3,
-      "api": "csp_RbysAmns",
+      "api": "csp_AppRJ",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://v.rbotv.cn"
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
     },
     {
       "key": "猎手影视",
