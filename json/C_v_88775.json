@@ -13,34 +13,6 @@
       "filterable": 1
     },
     {
-      "key": "盛世影视",
-      "name": "盛世┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitee.com/hulanlu/04/raw/master/jar/XBPQ.jar",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
-        "分类url": "https://rrys.lv/k/{cateId}--------{catePg}---/",
-        "线路标题": "盛世",
-        "简介": "⚠️勿信广告，谨防诈骗⚠️"
-      }
-    },
-    {
-      "key": "影视",
-      "name": "盛世┃蓝光",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py",
-      "ext": "http://43.248.117.123:4680"
-    },
-    {
-      "key": "蓝光4K",
-      "name": "蓝光┃4K",
-      "type": 3,
-      "api": "https://pan.szfx.top/down.php/21da377c5e328d67e943a2acc1947ff3.py"
-    },
-    {
       "key": "臻彩",
       "name": "臻彩┃4K",
       "type": 3,
@@ -209,25 +181,6 @@
         "排序": "综合$1#最新$2#最热$3#评分$4",
         "二-c": "<script src=\"&&\"[包含:rdul][工具:源码#'截取'∬\"截取\"]"
       }
-    },
-    {
-      "name": "荐片┃影视",
-      "key": "JPian",
-      "type": 3,
-      "api": "csp_JPianAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://nos.netease.com/youdata-netease/public-utilUpload-ky1PAyMa8zMhSwSbYeoej9.gz"
-    },
-    {
-      "name": "金牌┃影视",
-      "key": "JinPai",
-      "type": 3,
-      "api": "csp_JinPaiAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
     }
   ],
   "lives": [
