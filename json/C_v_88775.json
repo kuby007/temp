@@ -37,6 +37,15 @@
       }
     },
     {
+      "key": "枫眠",
+      "name": "枫眠┃4K",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "AWfUDttOwxKXIsxIZto8I5pb8v1yk+QgFQrqkJTMegeLMTRfs9C/EkFDgcQYoGmzdlmg8nek2YH5Oc89IMbRw57jIX3I+pJ82euuxi0ywouJ4IOWiVeQIwKEbV4EejQSdrC22e7dnmi8/WHMY19IRndGP2Aews4RcVt+MnJwibWI"
+    },
+    {
       "name": "橘汁┃蓝光",
       "key": "Woshinidie",
       "type": 3,
